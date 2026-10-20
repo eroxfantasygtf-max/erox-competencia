@@ -1,0 +1,16 @@
+{
+  "revisado_en": "2026-10-20T10:17:18Z",
+  "gtins_revisados": ["8411134135872"],
+  "hallazgos": [
+    {
+      "gtin": "8411134135872",
+      "marca": "CONTROL",
+      "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+      "variante": "Aroma: Mediterranean Sea",
+      "url": "https://hojafresca.com/otros/21304-mediterranean-sea-massage-gel-200ml-de-control-8411134135872.html",
+      "evidencia": "pos. 4 en Bing (consulta 1, GTIN); referencia 8411134135872 visible en la ficha; Mediterranean Sea 200 ml",
+      "politica_envio": {"base": "3,85", "gratis_desde": "49,95", "url": "https://hojafresca.com/content/6-envios-gratis"}
+    }
+  ],
+  "sin_ofertas": []
+}
