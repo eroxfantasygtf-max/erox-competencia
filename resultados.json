@@ -1,454 +1,67 @@
 {
- "revisado_en": "2026-10-20T12:33:13Z",
+ "revisado_en": "2026-10-20T12:43:12Z",
  "gtins_revisados": [
-  "697309012003",
-  "697309012034",
-  "697309012065",
-  "697309012072",
-  "697309012089",
-  "697309012102",
-  "697309012133",
-  "697309012188",
-  "697309012195",
-  "697309012232",
-  "697309012249",
-  "697309013116",
-  "697309013123",
-  "697309013222",
-  "697309022002",
-  "697309022019",
-  "697309022026",
-  "697309022071",
-  "697309022088",
-  "697309022095",
-  "697309022101",
-  "697309022149",
-  "697309022156",
-  "697309022163",
-  "697309046008",
-  "697309046015",
-  "697309046022",
-  "697309046084",
-  "697309046091",
-  "697309046114",
-  "697309052009",
-  "697309052207",
-  "697309055000",
-  "697309056007",
-  "697309061001",
-  "697309066006",
-  "697309066013",
-  "697309066020",
-  "697309066174",
-  "697309068000",
-  "697309068017",
-  "697309068024",
-  "697309070027",
-  "697309074001",
-  "697309075008",
-  "697309077002",
-  "697309082020",
-  "697309082082",
-  "697309082112",
-  "697309090070",
-  "697309090124",
-  "4260605480010",
-  "4260605480027",
-  "4260605480034",
-  "4260605480041",
-  "4260605480058",
-  "4260605480065",
-  "4260605480072",
-  "4260605480089",
-  "4260605480096",
-  "4260605480102",
-  "4260605480119",
-  "4260605480126",
-  "4260605480133",
-  "4260605480140",
-  "4260605480157",
-  "4260605480164",
-  "4260605480171",
-  "4260605480188",
-  "4260605480195",
-  "4260605480201",
-  "4260605480218",
-  "4260605482168",
-  "4260605482175",
-  "4260605482182",
-  "4260605482199",
-  "4260605482281",
-  "4260605482298",
-  "4260605482304"
+  "4025838403454",
+  "4025838403478",
+  "4025838403492",
+  "4025838403539",
+  "4025838403577",
+  "4025838403607",
+  "4025838403645",
+  "4025838403690",
+  "4025838403720",
+  "4025838410452",
+  "4025838410476",
+  "4025838410490",
+  "4025838410537",
+  "4025838410575",
+  "4025838410605",
+  "4025838410643",
+  "4025838410698",
+  "4025838410728",
+  "4025838436452",
+  "4025838436476",
+  "4025838436490",
+  "4025838436537",
+  "4025838436575",
+  "4025838436605",
+  "4025838436643",
+  "4025838436698",
+  "4025838436728",
+  "7350022270312",
+  "7350022271692",
+  "7350022277694",
+  "7350075022470",
+  "7350075022494",
+  "7350075024085",
+  "7350075027994",
+  "7350075029059",
+  "7350075029110",
+  "7350075029127",
+  "7350075029387",
+  "7350075029493"
  ],
  "hallazgos": [
   {
-   "gtin": "697309012003",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-aphrodisia-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Aphrodisia, aceite de masaje de rosas - Boudoir",
+   "gtin": "7350022271692",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS MINI",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/lelo-luna-beads-mini",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Luna Beads Mini – Condonesmix",
    "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
    }
   },
   {
-   "gtin": "697309012003",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://www.farmaciasdirect.es/products/shunga-aceite-de-masaje-oil-aphrodisia-240-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Aceite De Masaje Oil Aphrodisia 240 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "697309012003",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://sexshop-online.com/pt/oleos-com-sabor/shunga-aceite-de-masaje-erotico-aphrodisia-240-mld-224032",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA AFRODISIA 240 ML"
-  },
-  {
-   "gtin": "697309012003",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://www.almacenerotico.com/817-aceite-erotic-massage-oil-aphrodisia-rosas-shunga-240-ml-697309012003.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Erotic Massage Oil Aphrodisia Rosas Shunga 240 ml"
-  },
-  {
-   "gtin": "697309012003",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://factormujer.com/aceite-de-masaje-shunga-aphrodisia-rosa",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite Shunga Aphrodisia Rosa - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309012034",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Estimulante",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-estimulante-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Stimulation, aceite de masaje melocotón - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012034",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Estimulante",
-   "url": "https://sexshop-online.com/pt/oleos-com-sabor/shunga-aceite-de-masaje-erotico-estimulante-240-mld-224029",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA ESTIMULANTE 240 ML"
-  },
-  {
-   "gtin": "697309012034",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Estimulante",
-   "url": "https://www.almacenerotico.com/839-aceite-erotic-massage-oil-stimulation-melocoton-shunga-240-ml-697309012034.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Erotic Massage Oil Stimulation Melocotón Shunga 240 ml"
-  },
-  {
-   "gtin": "697309012034",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Estimulante",
-   "url": "https://factormujer.com/aceite-masaje-stimulation-melocoton-shunga-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite Shunga Stimulation Melocotón - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309012034",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Estimulante",
-   "url": "https://dulcespecados.com/aceites-con-sabores/1176-shunga-aceite-de-masaje-erotico-estimulante-240-mld-224029-697309012034.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Estimulante 240 ml"
-  },
-  {
-   "gtin": "697309012065",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensacion",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-sensacion",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Sensation, aceite de masaje de lavanda - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012065",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensacion",
-   "url": "https://sexshop-online.com/pt/oleos-com-sabor/shunga-aceite-de-masaje-erotico-sensacion-240-mld-224023",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA SENSATION 240 ML"
-  },
-  {
-   "gtin": "697309012065",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensacion",
-   "url": "https://dulcespecados.com/aceites-con-sabores/1173-shunga-aceite-de-masaje-erotico-sensacion-240-mld-224023-697309012065.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Sensación 240 ml"
-  },
-  {
-   "gtin": "697309012065",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensacion",
-   "url": "https://www.easytoys.es/shunga-aceite-para-masajes-sensacion-y-lavanda-240-ml-p-39804/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite para masajes sensación y lavanda 240 ml - EasyToys"
-  },
-  {
-   "gtin": "697309012065",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensacion",
-   "url": "https://www.sexshop.express/aceites-con-sabores/1348-shunga-aceite-de-masaje-erotico-sensacion-240-ml-697309012065.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Erótico Sensación 240 ml - Aroma Lavanda Afrodisíaco",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309012072",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Deseo",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-deseo-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Desire, aceite de masaje de vainilla - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012072",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Deseo",
-   "url": "https://sexshop-online.com/pt/oleos-com-sabor/shunga-aceite-de-masaje-erotico-deseo-240-mld-224031",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA DESIRE 240 ML"
-  },
-  {
-   "gtin": "697309012072",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Deseo",
-   "url": "https://dulcespecados.com/aceites-con-sabores/1178-shunga-aceite-de-masaje-erotico-deseo-240-mld-224031-697309012072.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Deseo 240 ml"
-  },
-  {
-   "gtin": "697309012072",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Deseo",
-   "url": "https://www.easytoys.es/shunga-aceite-para-masajes-deseo-y-vainilla-240-ml-p-39805/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite para masajes deseo y vainilla 240 ml - EasyToys"
-  },
-  {
-   "gtin": "697309012072",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Deseo",
-   "url": "https://www.sexshop.express/aceites-con-sabores/1353-shunga-aceite-de-masaje-erotico-deseo-240-ml-697309012072.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Erótico Deseo 240 ml | Sensualidad y Suavidad",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309012089",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Romance",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-romance-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Romance, aceite de masaje fresa y cava - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012089",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Romance",
-   "url": "https://sexshop-online.com/pt/oleos-com-sabor/shunga-aceite-de-masaje-erotico-romance-240-mld-224030",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ROMANCE ERÓTICO 240 ML"
-  },
-  {
-   "gtin": "697309012089",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Romance",
-   "url": "https://factormujer.com/aceite-masaje-romance-fresacava-shunga-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite Shunga Romance Fresa y Cava - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309012089",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Romance",
-   "url": "https://dulcespecados.com/aceites-con-sabores/1177-shunga-aceite-de-masaje-erotico-romance-240-mld-224030-697309012089.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Romance 240 ml"
-  },
-  {
-   "gtin": "697309012089",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Romance",
-   "url": "https://www.sexshop.express/aceites-con-sabores/1352-shunga-aceite-de-masaje-erotico-romance-240-ml-697309012089.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Erótico Romance 240 ml - Sensualidad Oriental",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309012102",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Adorable",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-adorable-240-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Adorable, aceite de masaje de coco - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012102",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Adorable",
-   "url": "https://sexshop-online.com/pt/oleos-com-sabor/shunga-aceite-de-masaje-erotico-adorable-240-mld-224025",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ADORÁVEL ÓLEO DE MASSAGEM ERÓTICA 240 ML"
-  },
-  {
-   "gtin": "697309012102",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Adorable",
-   "url": "https://www.almacenerotico.com/814-aceite-erotic-massage-oil-adorable-coco-shunga-240-ml-697309012102.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Erotic Massage Oil Adorable Coco Shunga 240 ml"
-  },
-  {
-   "gtin": "697309012102",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Adorable",
-   "url": "https://factormujer.com/aceite-masaje-adorable-coco-shunga-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite Shunga Adorable Coco - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309012102",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Adorable",
-   "url": "https://dulcespecados.com/aceites-con-sabores/1174-shunga-aceite-de-masaje-erotico-adorable-240-mld-224025-697309012102.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Adorable 240 ml"
-  },
-  {
-   "gtin": "697309012133",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Serenity",
-   "url": "https://sexshop-online.com/pt/oleos-sem-sabor/shunga-aceite-de-masaje-erotico-serenity-240-mld-224024",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA SERENITY 240 ML"
-  },
-  {
-   "gtin": "697309012133",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Serenity",
-   "url": "https://www.almacenerotico.com/837-aceite-erotic-massage-oil-serenity-monoi-shunga-240-ml-697309012133.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Erotic Massage Oil Serenity Monoi Shunga 240 ml"
-  },
-  {
-   "gtin": "697309012133",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Serenity",
-   "url": "https://dulcespecados.com/aceites-sin-sabores/1112-shunga-aceite-de-masaje-erotico-serenity-240-mld-224024-697309012133.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Serenity 240 ml"
-  },
-  {
-   "gtin": "697309012133",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Serenity",
-   "url": "https://www.sexshop.express/aceites-sin-sabores/1280-shunga-aceite-de-masaje-erotico-serenity-240-ml-697309012133.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Erótico Serenity 240 ml - Sensualidad Oriental",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309012188",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Irresistible",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-irresistible-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Irresistible, aceite de masaje Asian Fusion - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012188",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Irresistible",
-   "url": "https://www.farmaciasdirect.es/products/shunga-aceite-de-masaje-oil-irresistible-240-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Aceite De Masaje Oil Irresistible 240 Ml al mejor precio.",
+   "gtin": "7350022271692",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS MINI",
+   "variante": "",
+   "url": "https://www.farmaciasdirect.es/products/lelo-luna-beads-mini-bolas-chinas",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Beads Mini Bolas Chinas al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -456,28 +69,33 @@
    }
   },
   {
-   "gtin": "697309012188",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Irresistible",
-   "url": "https://sexshop-online.com/pt/oleos-com-sabor/shunga-aceite-de-masaje-erotico-irresistible-240mld-224026",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA IRRESISTÍVEL 240ML"
+   "gtin": "7350022271692",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS MINI",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/bolas-chinas/lelo-luna-beads-mini-bolas-chinas",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO Luna Beads Mini bolas de Kegel de 29 mm - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
   },
   {
-   "gtin": "697309012188",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Irresistible",
-   "url": "https://www.almacenerotico.com/821-aceite-erotic-massage-oil-irresistible-fusion-de-asia-shunga-240-ml-697309012188.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Erotic Massage Oil Irresistible Fusión de Asia Shunga 240 ml"
+   "gtin": "7350022271692",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS MINI",
+   "variante": "",
+   "url": "https://sexshop-online.com/it/palline-base/lelo-luna-beads-mini-bolas-kegeld-195025",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO LUNA BEADS MINI ★ Sfere di Kegel Discrete per Benessere"
   },
   {
-   "gtin": "697309012188",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Irresistible",
-   "url": "https://factormujer.com/aceite-masaje-irresistible-asian-fusion-shunga-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite Shunga Irresistible Asian Fusion - Factor Mujer",
+   "gtin": "7350022271692",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS MINI",
+   "variante": "",
+   "url": "https://factormujer.com/bolas-chinas-luna-mini-lelo",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Mini Luna LELO - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -485,62 +103,25 @@
    }
   },
   {
-   "gtin": "697309012195",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Seduccion",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-seduccion-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Seduction, aceite de masaje Midnight Flower - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012195",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Seduccion",
-   "url": "https://sexshop-online.com/pt/oleos-sem-sabor/shunga-aceite-de-masaje-erotico-seduccion-240-mld-224033",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA SEDUÇÃO 240 ML"
-  },
-  {
-   "gtin": "697309012195",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Seduccion",
-   "url": "https://dulcespecados.com/aceites-sin-sabores/1114-shunga-aceite-de-masaje-erotico-seduccion-240-mld-224033-697309012195.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Seducción 240 ml"
-  },
-  {
-   "gtin": "697309012195",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Seduccion",
-   "url": "https://www.easytoys.es/shunga-aceite-para-masajes-seduccion-de-flor-de-medianoche-240-ml-p-39810/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite para masajes seducción de flor de medianoche 240 ML - EasyToys"
-  },
-  {
-   "gtin": "697309012195",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Seduccion",
-   "url": "https://www.sexshop.express/aceites-sin-sabores/1282-shunga-aceite-de-masaje-erotico-seduccion-240-ml-697309012195.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Erótico Seducción 240 ml - Sensualidad Oriental",
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS NOIR",
+   "variante": "",
+   "url": "https://www.farmaciasdirect.es/products/lelo-luna-beads-noir-bolas-chinas",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Beads Noir Bolas Chinas al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309012232",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Amor",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-amor-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Amour, aceite de masaje de dulce loto - Boudoir",
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS NOIR",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/bolas-chinas/lelo-luna-beads-noir-bolas-chinas",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Bolas kegel LELO LUNA Beads Noir - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -548,70 +129,33 @@
    }
   },
   {
-   "gtin": "697309012232",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Amor",
-   "url": "https://sexshop-online.com/pt/oleos-sem-sabor/shunga-aceite-de-masaje-erotico-amor-240-mld-224034",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM AMOR ERÓTICO 240 ML"
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS NOIR",
+   "variante": "",
+   "url": "https://sexshop-online.com/it/palline-base/lelo-luna-beads-noir-bolas-kegeld-194541",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO Luna Beads Noir ★ Sfere di Kegel per Benessere Intimo"
   },
   {
-   "gtin": "697309012232",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Amor",
-   "url": "https://dulcespecados.com/aceites-sin-sabores/1115-shunga-aceite-de-masaje-erotico-amor-240-mld-224034-697309012232.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Amor 240 ml"
-  },
-  {
-   "gtin": "697309012232",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Amor",
-   "url": "https://www.sexshop.express/aceites-sin-sabores/1283-shunga-aceite-de-masaje-erotico-amor-240-ml-697309012232.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Erótico Amor 240 ml - Sensualidad Oriental",
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS NOIR",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/lelo-luna-beads-noir",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Bolas Noir Lelo – Condonesmix",
    "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
    }
   },
   {
-   "gtin": "697309012249",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensual",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-de-masaje-erotico-sensual-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga aceite de masaje Island Blossoms 240 ml - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309012249",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensual",
-   "url": "https://sexshop-online.com/pt/oleos-sem-sabor/shunga-aceite-de-masaje-erotico-sensual-240-mld-224028",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ERÓTICA SENSUAL 240 ML"
-  },
-  {
-   "gtin": "697309012249",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensual",
-   "url": "https://www.almacenerotico.com/836-aceite-erotic-massage-oil-sensual-island-blossoms-shunga-240-ml-697309012249.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Erotic Massage Oil Sensual Island Blossoms Shunga 240 ml"
-  },
-  {
-   "gtin": "697309012249",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensual",
-   "url": "https://factormujer.com/aceite-masaje-sensual-flor-de-isla-shunga-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite Shunga Sensual Flor de Isla - Factor Mujer",
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS NOIR",
+   "variante": "",
+   "url": "https://factormujer.com/bolas-chinas-luna-noir-lelo",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Noir Luna LELO - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -619,20 +163,46 @@
    }
   },
   {
-   "gtin": "697309012249",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Sensual",
-   "url": "https://dulcespecados.com/aceites-sin-sabores/1113-shunga-aceite-de-masaje-erotico-sensual-240-mld-224028-697309012249.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Erótico Sensual 240 ml"
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 12 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/lelo-hex-preservativo-caja-12-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Original, preservativos de látex 54 mm x12",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
   },
   {
-   "gtin": "697309013116",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://factormujer.com/aceite-masaje-organico-te-verde-shunga-240ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite Orgánico Shunga de Té Verde Besable - Factor Mujer",
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 12 Unidades",
+   "url": "https://sexshop-online.com/puntos-y-estrias/lelo-hex-preservativo-caja-12-udsd-211713",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Condones ★ 12 uds | Protección ultra fina y sensación natural"
+  },
+  {
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 12 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/lelo-hex-preservativo-caja-12-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Hex Preservativo Caja 12 Uds al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 12 Unidades",
+   "url": "https://factormujer.com/condon-lelo-hex-12",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Condón LELO HEX Original (12) - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -640,99 +210,25 @@
    }
   },
   {
-   "gtin": "697309013116",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://sexshop-online.com/pt/drogaria/shunga-aceite-de-masaje-organico-te-verde-240-mld-237830",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM BIO CHÁ VERDE 240 ML"
-  },
-  {
-   "gtin": "697309013116",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://www.sexshop.express/cosmetica-erotica/1375-shunga-aceite-de-masaje-organico-te-verde-240-ml-697309013116.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Orgánico Té Verde 240ml | Sensualidad Natural",
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 12 Unidades",
+   "url": "https://www.almacenerotico.com/2589-lelo-hex-preservativos-12-unidades-7350075022494.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Hex Preservativos 12 Unidades",
    "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "base": "5.95",
+    "gratis_desde": "60",
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309013123",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Almendra",
-   "url": "https://sexshop-online.com/pt/drogaria/shunga-aceite-de-masaje-organico-almendra-240-mld-224035",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM DE AMÊNDOAS ORGÂNICO 240 ML"
-  },
-  {
-   "gtin": "697309013123",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Almendra",
-   "url": "https://dulcespecados.com/drogueria/569-shunga-aceite-de-masaje-organico-almendra-240-mld-224035-697309013123.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Orgánico Almendra 240 ml"
-  },
-  {
-   "gtin": "697309013123",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Almendra",
-   "url": "https://www.sexshop.express/cosmetica-erotica/748-shunga-aceite-de-masaje-organico-almendra-240-ml-697309013123.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Orgánico Almendra 240ml - Sensualidad Natural",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309013222",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Natural",
-   "url": "https://sexshop-online.com/pt/oleos-sem-sabor/shunga-aceite-de-masaje-organico-natural-240-mld-224036",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM ORGÂNICO NATURAL 240 ML"
-  },
-  {
-   "gtin": "697309013222",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Natural",
-   "url": "https://dulcespecados.com/aceites-sin-sabores/1116-shunga-aceite-de-masaje-organico-natural-240-mld-224036-697309013222.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite de Masaje Orgánico Natural 240 ml"
-  },
-  {
-   "gtin": "697309013222",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Natural",
-   "url": "https://www.easytoys.es/shunga-aceite-para-masaje-organico-y-natural-240-ml-p-39816/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite para masaje orgánico y natural - 240 ml - EasyToys"
-  },
-  {
-   "gtin": "697309013222",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE",
-   "variante": "Aroma: Natural",
-   "url": "https://www.sexshop.express/aceites-sin-sabores/1284-shunga-aceite-de-masaje-organico-natural-240-ml-697309013222.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite de Masaje Orgánico Shunga 240 ml - Sensualidad Natural",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309022002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cereza",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-intenso-cereza-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Aceite Efecto Calor Cereza, 100 ml - Boudoir",
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 36 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/lelo-hex-preservativo-caja-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Original, preservativos de látex 54 mm x36",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -740,332 +236,20 @@
    }
   },
   {
-   "gtin": "697309022002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cereza",
-   "url": "https://almasecreta.es/producto/shunga-aceite-de-masaje-efecto-calor-cereza-ardiente",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309022002»); Aceite de Masaje Efecto Calor Cereza Ardiente | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/puntos-y-estrias/lelo-hex-preservativo-caja-36-udsd-216259",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Preservativos ★ Caja 36 uds ✅ Máxima Sensibilidad"
   },
   {
-   "gtin": "697309022002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cereza",
-   "url": "https://www.farmaciasdirect.es/products/shunga-aceite-de-masaje-efecto-calor-cereza-ardiente",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Aceite De Masaje Efecto Calor Cereza Ardiente al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "697309022002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cereza",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-sabor-intenso-cereza-100-mld-213460",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM EFEITO CALOR SABOR INTENSO DE CEREJA 100 ML"
-  },
-  {
-   "gtin": "697309022002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cereza",
-   "url": "https://www.almacenerotico.com/731-aceite-afrodisiaco-besos-intimos-cereza-shunga-100-ml-697309022002.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Afrodisíaco Besos Íntimos Cereza Shunga 100 ml"
-  },
-  {
-   "gtin": "697309022019",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frambuesa",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-intenso-frambuesa-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite de Masaje con Calor Shunga Frambuesa - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309022019",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frambuesa",
-   "url": "https://almasecreta.es/producto/shunga-aceite-de-masaje-de-efecto-calor-aroma-a-frambuesa",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309022019»); Aceite de Masaje Shunga Frambuesa 100 ml | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309022019",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frambuesa",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-sabor-intenso-frambuesa-100-mld-213461",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM EFEITO CALOR SABOR INTENSO DE FRAMBOESA 100 ML"
-  },
-  {
-   "gtin": "697309022019",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frambuesa",
-   "url": "https://www.almacenerotico.com/737-aceite-afrodisiaco-besos-intimos-frambuesa-shunga-100-ml-697309022019.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Afrodisíaco Besos Íntimos Frambuesa Shunga 100 ml"
-  },
-  {
-   "gtin": "697309022019",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frambuesa",
-   "url": "https://dulcespecados.com/con-efecto-calor/1262-shunga-aceite-masaje-efecto-calor-sabor-intenso-frambuesa-100-mld-213461-697309022019.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite Masaje Efecto Calor Sabor Intenso Frambuesa 100 ml"
-  },
-  {
-   "gtin": "697309022026",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frutas Exoticas",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-frutas-exoticas-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Frutas Exóticas, Aceite con Efecto Calor - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309022026",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frutas Exoticas",
-   "url": "https://almasecreta.es/producto/shunga-aceite-de-masaje-efecto-calor-aroma-a-frutas-exoticas",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309022026»); Shunga Aceite de Masaje Efecto Calor | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309022026",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frutas Exoticas",
-   "url": "https://www.farmaciasdirect.es/products/shunga-aceite-de-masaje-efecto-calor-aroma-a-frutas-exoticas",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Aceite De Masaje Efecto Calor Aroma A Frutas Exóticas al mejor pre",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "697309022026",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frutas Exoticas",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-sabor-frutas-exoticas-100-mld-213462",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM EFEITO CALOR SABOR DE FRUTAS EXÓTICAS 100 ML"
-  },
-  {
-   "gtin": "697309022026",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Frutas Exoticas",
-   "url": "https://www.almacenerotico.com/741-aceite-afrodisiaco-besos-intimos-frutas-exoticas-shunga-100-ml-697309022026.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Afrodisíaco Besos Íntimos Frutas Exóticas Shunga 100 ml"
-  },
-  {
-   "gtin": "697309022071",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Vainilla",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-vanilla-fetiche-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Calor Comestible Shunga Vanilla Fetish - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309022071",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Vainilla",
-   "url": "https://almasecreta.es/producto/shunga-aceite-de-masaje-efecto-calor-aroma-a-vainilla",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309022071»); Aceite de Masaje Shunga Vainilla 100ml | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309022071",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Vainilla",
-   "url": "https://www.farmaciasdirect.es/products/shunga-aceite-de-masaje-efecto-calor-aroma-a-vainilla",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Aceite De Masaje Efecto Calor Aroma A Vainilla al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "697309022071",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Vainilla",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-sabor-vainilla-100-mld-213463",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM COM EFEITO DE CALOR SABOR FETISH BAUNILHA 100 ML"
-  },
-  {
-   "gtin": "697309022071",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Vainilla",
-   "url": "https://lovegames.es/aceites-esenciales-eroticos/shunga-aceite-de-masaje-efecto-calor-aroma-a-vainilla",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shunga Aceite de Masaje Efecto Calor Aroma a Vainilla | SHUNGA"
-  },
-  {
-   "gtin": "697309022088",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-cava-con-fresas-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Cava con Fresas, Aceite de Masaje Calor - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309022088",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://almasecreta.es/producto/shunga-aceite-de-masaje-efecto-calor-aroma-vino-espumoso-de-fresa",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309022088»); Aceite de Masaje Efecto Calor Shunga | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309022088",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-fresas-y-cava-100-mld-213464",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM COM EFEITO CALOR DE MORANGOS E CAVA 100 ML"
-  },
-  {
-   "gtin": "697309022088",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://dulcespecados.com/con-efecto-calor/1265-shunga-aceite-masaje-efecto-calor-fresas-y-cava-100-mld-213464-697309022088.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite Masaje Efecto Calor Fresas y Cava 100 ml"
-  },
-  {
-   "gtin": "697309022088",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://www.sexshop.express/con-efecto-calor/1433-shunga-aceite-masaje-efecto-calor-fresas-y-cava-100-ml-697309022088.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite Masaje Efecto Calor Fresas y Cava 100 ml | Shunga",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309022095",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Chocolate",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-intenso-chocolate-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Efecto Calor Shunga Chocolate Intenso - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309022095",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Chocolate",
-   "url": "https://www.farmaciasdirect.es/products/shunga-aceite-de-masaje-efecto-calor-aroma-a-chocolate",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Aceite De Masaje Efecto Calor Aroma A Chocolate al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "697309022095",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Chocolate",
-   "url": "https://www.almacenerotico.com/732-aceite-afrodisiaco-besos-intimos-chocolate-shunga-100-ml-697309022095.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Afrodisíaco Besos Íntimos Chocolate Shunga 100 ml"
-  },
-  {
-   "gtin": "697309022095",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Chocolate",
-   "url": "https://dulcespecados.com/con-efecto-calor/1266-shunga-aceite-masaje-efecto-calor-sabor-intenso-chocolate-100-mld-213465-697309022095.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite Masaje Efecto Calor Sabor Intenso Chocolate 100 ml"
-  },
-  {
-   "gtin": "697309022095",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Chocolate",
-   "url": "https://www.sexshop.express/con-efecto-calor/1434-shunga-aceite-masaje-efecto-calor-sabor-intenso-chocolate-100-ml-697309022095.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite Masaje Efecto Calor Sabor Chocolate Intenso 100 ml | Shunga",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309022101",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Coco",
-   "url": "https://www.almacenerotico.com/734-aceite-afrodisiaco-besos-intimos-coco-shunga-100-ml-697309022101.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Afrodisíaco Besos Íntimos Coco Shunga 100 ml"
-  },
-  {
-   "gtin": "697309022101",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Coco",
-   "url": "https://factormujer.com/aceite-estimulante-coco-shunga-con-sabor-y-calor",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Aceite estimulante COCO Shunga con sabor y calor - Factor Mujer",
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 36 Unidades",
+   "url": "https://factormujer.com/condon-lelo-hex-original-36",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Condón LELO HEX Original (36) - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -1073,33 +257,12 @@
    }
   },
   {
-   "gtin": "697309022101",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Coco",
-   "url": "https://lovegames.es/aceites-esenciales-eroticos/shunga-aceite-de-masaje-efecto-calor-aroma-a-coco",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shunga Aceite de Masaje Efecto Calor Aroma a Coco | SHUNGA"
-  },
-  {
-   "gtin": "697309022101",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Coco",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-coco-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Coco, Aceite Comestible con Calor 100 ml - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309022101",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Coco",
-   "url": "https://www.farmaciasdirect.es/products/shunga-aceite-de-masaje-efecto-calor-aroma-a-coco",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Aceite De Masaje Efecto Calor Aroma A Coco al mejor precio.",
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 36 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/lelo-hex-preservativo-caja-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Hex Preservativo Caja 36 Uds al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1107,28 +270,72 @@
    }
   },
   {
-   "gtin": "697309022149",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cafe",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-sabor-cafe-100-mld-213467",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM COM EFEITO DE CALOR SABOR CREMOSO LOVE LATTE 100 ML"
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 36 Unidades",
+   "url": "https://www.almacenerotico.com/634-36-unidades-preservativos-lelo-hex-7350075024085.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 36 Unidades Preservativos Lelo Hex",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "60",
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
+   }
   },
   {
-   "gtin": "697309022149",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cafe",
-   "url": "https://dulcespecados.com/con-efecto-calor/1268-shunga-aceite-masaje-efecto-calor-sabor-cafe-100-mld-213467-697309022149.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite Masaje Efecto Calor Sabor Café 100 ml"
+   "gtin": "7350075027994",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS PLUS SET",
+   "variante": "",
+   "url": "https://www.farmaciasdirect.es/products/lelo-luna-beads-plus-set-de-placer",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Beads Plus Set De Placer al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
   },
   {
-   "gtin": "697309022149",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cafe",
-   "url": "https://orgasmix.es/shunga-aceites-masaje-efecto-calor-100ml.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 697309022149); 🔥 Aceite de masaje Shunga 100ml efecto calor sensual | Orgasmix",
+   "gtin": "7350075027994",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS PLUS SET",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/bolas-kegel/lelo-luna-beads-plus-set-de-placer",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO Beads Plus set de 6 bolas de Kegel - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "7350075027994",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS PLUS SET",
+   "variante": "",
+   "url": "https://sexshop-online.com/it/palline-cinesi/lelo-luna-beads-plus-set-de-placerd-223376",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO Luna Beads Plus Set ★ Perle di piacere per coppie e benessere ✅"
+  },
+  {
+   "gtin": "7350075027994",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS PLUS SET",
+   "variante": "",
+   "url": "https://factormujer.com/bolas-chinas-lelo-luna-beads-plus",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Plus Luna LELO - Factor Mujer",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "7350075027994",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS PLUS SET",
+   "variante": "",
+   "url": "https://orgasmix.es/lelo-luna-beads-plus.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 💗 Bolas LELO Beads Plus para Kegel y placer | Orgasmix",
    "politica_envio": {
     "base": "4.99",
     "gratis_desde": "69",
@@ -1136,12 +343,51 @@
    }
   },
   {
-   "gtin": "697309022149",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Cafe",
-   "url": "https://www.sexshop.express/con-efecto-calor/1436-shunga-aceite-masaje-efecto-calor-sabor-cafe-100-ml-697309022149.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Aceite Masaje Efecto Calor Sabor Café 100 ml | Shunga",
+   "gtin": "7350075029059",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Morado",
+   "url": "https://www.farmaciasdirect.es/products/lelo-lily-3-masajeador-personal-morado",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Lily 3 Masajeador Personal Morado al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "7350075029059",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Morado",
+   "url": "https://factormujer.com/lily-lelo",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lily 3 de LELO - Factor Mujer",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "7350075029110",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Lila",
+   "url": "https://factormujer.com/lelo-lily-3-lila",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lelo Lily 3 Lila - Factor Mujer",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "7350075029110",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Lila",
+   "url": "https://www.sexshop.express/mini-vibradores/5645-lelo-lily-3-masajeador-personal-verde-agua.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lily 3 Masajeador Personal - 10 Modos de Vibración | Verde Agua",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "55",
@@ -1149,12 +395,25 @@
    }
   },
   {
-   "gtin": "697309022156",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Caramelo",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-caramelo-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Caramelo, Aceite Calor para Besar - Boudoir",
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Verde",
+   "url": "https://www.farmaciasdirect.es/products/lelo-lily-3-masajeador-personal-verde-polar",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Lily 3 Masajeador Personal Verde Polar al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Verde",
+   "url": "https://www.sexshopboudoir.es/masajeadores/lelo-lily-3-masajeador-personal",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 7350075029127»); LELO Lily 3 masajeador de bolsillo de 10 modos - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -1162,120 +421,70 @@
    }
   },
   {
-   "gtin": "697309022156",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Caramelo",
-   "url": "https://almasecreta.es/producto/shunga-aceite-de-masaje-efecto-calor-aroma-a-caramelo",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309022156»); Aceite de Masaje Calor Caramelo SHUNGA | Alma Secreta",
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Verde",
+   "url": "https://sexshop-online.com/mini-vibradores/lelo-lily-3-masajeador-personal-verde-aguad-233262",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 7350075029127»); LELO LILY 3 ★ Mini Masajeador Personal Agua ✅"
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Verde",
+   "url": "https://www.easytoys.es/lelo-masajeador-personal-lily-3-verde-polar-p-70092/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO - Masajeador Personal Lily 3 - Verde Polar - EasyToys"
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO LILY 3",
+   "variante": "Color: Verde",
+   "url": "https://factormujer.com/lelo-lily-3-turquesa",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lelo Lily 3 Turquesa - Factor Mujer",
    "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
    }
   },
   {
-   "gtin": "697309022156",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Caramelo",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-sabor-caramelo-100-mld-213468",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM COM EFEITO CALOR SABOR CARAMELO 100 ML"
-  },
-  {
-   "gtin": "697309022156",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Caramelo",
-   "url": "https://www.almacenerotico.com/729-aceite-afrodisiaco-besos-intimos-caramelo-shunga-100-ml-697309022156.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Afrodisíaco Besos Íntimos Caramelo Shunga 100 ml"
-  },
-  {
-   "gtin": "697309022156",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Caramelo",
-   "url": "https://lovegames.es/aceites-esenciales-eroticos/shunga-aceite-de-masaje-efecto-calor-aroma-a-caramelo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shunga Aceite de Masaje Efecto Calor Aroma a Caramelo"
-  },
-  {
-   "gtin": "697309022163",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Sorbete",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-aceite-masaje-efecto-calor-sabor-sorbete-de-medianoche-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Aceite Calor Shunga Sorbete de Medianoche - Boudoir",
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO SORAYA BEADS",
+   "variante": "Color: Negro",
+   "url": "https://www.farmaciasdirect.es/products/lelo-soraya-beads-masajeador-anal-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Soraya Beads Masajeador Anal Negro al mejor precio.",
    "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309022163",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Sorbete",
-   "url": "https://almasecreta.es/producto/shunga-aceite-de-masaje-efecto-calor-aroma-sorbete-de-medianoche",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309022163»); Aceite de Masaje Shunga Sorbete de Medianoche | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO SORAYA BEADS",
+   "variante": "Color: Negro",
+   "url": "https://www.easytoys.es/lelo-soraya-bolas-anales-negro-p-76477/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO - Soraya Bolas Anales - Negro - EasyToys"
   },
   {
-   "gtin": "697309022163",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Sorbete",
-   "url": "https://sexshop-online.com/pt/com-efeito-calor/shunga-aceite-masaje-efecto-calor-sabor-sorbete-de-medianoche-100-mld-213469",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - ÓLEO DE MASSAGEM COM EFEITO CALOR SABOR MIDNIGHT SORBT 100 ML"
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO SORAYA BEADS",
+   "variante": "Color: Negro",
+   "url": "https://sexshop-online.com/juguetes-bienestar/lelo-soraya-beads-masajeador-anal-violetad-236431",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 7350075029387»); LELO SORAYA BEADS Anal ★ Placer Profundo Garantizado ✅"
   },
   {
-   "gtin": "697309022163",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Sorbete",
-   "url": "https://lovegames.es/aceites-esenciales-eroticos/shunga-aceite-de-masaje-efecto-calor-aroma-sorbete-de-medianoche",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shunga Aceite de Masaje Efecto Calor Aroma Sorbete | SHUNGA"
-  },
-  {
-   "gtin": "697309022163",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA ACEITE DE MASAJE EFECTO CALOR",
-   "variante": "Sabor: Sorbete",
-   "url": "https://dulcespecados.com/con-efecto-calor/1270-shunga-aceite-masaje-efecto-calor-sabor-sorbete-de-medianoche-100-mld-213469-697309022163.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Aceite Masaje Efecto Calor Sabor Sorbete de Medianoche 100 ml"
-  },
-  {
-   "gtin": "697309046008",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Rosas",
-   "url": "https://www.sexshopboudoir.es/inciensos-velas-masaje/shunga-mini-caress-by-candelight-vela-masaje-rosas-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de masaje Shunga mini rosas 30 ml - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309046008",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Rosas",
-   "url": "https://dulcespecados.com/velas-de-masaje/5764-shunga-mini-caress-by-candelight-vela-masaje-rosas-30-mld-202767-697309046008.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Mini Caress by Candelight Vela Masaje Rosas 30 ml"
-  },
-  {
-   "gtin": "697309046008",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Rosas",
-   "url": "https://orgasmix.es/shunga-vela-masaje-rosas-30ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 🌹 Vela de masaje Shunga Rosas aromáticas 30ml | Orgasmix",
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO SORAYA BEADS",
+   "variante": "Color: Negro",
+   "url": "https://orgasmix.es/lelo-soraya-beads-masajeador-anal.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 💎 SORAYA Beads masajeador anal con Bow-Motion™ | Orgasmix",
    "politica_envio": {
     "base": "4.99",
     "gratis_desde": "69",
@@ -1283,96 +492,38 @@
    }
   },
   {
-   "gtin": "697309046008",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Rosas",
-   "url": "https://sexshop-online.com/velas-de-masaje/shunga-mini-caress-by-candelight-vela-masaje-rosas-30-mld-202767",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - MINI CARESS BY CANDELIGHT VELA MASAJE ROSAS 30 ML"
-  },
-  {
-   "gtin": "697309046015",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Vainilla",
-   "url": "https://www.sexshopboudoir.es/inciensos-velas-masaje/shunga-mini-caress-by-candelight-vela-masaje-vainilla-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de Masaje Shunga Mini Vainilla 30 ml - Boudoir",
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO SORAYA BEADS",
+   "variante": "Color: Negro",
+   "url": "https://factormujer.com/lelo-soraya-beads-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lelo Soraya Beads Negro - Factor Mujer",
    "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
    }
   },
   {
-   "gtin": "697309046015",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Vainilla",
-   "url": "https://almasecreta.es/producto/shunga-mini-vela-de-masaje-vainilla",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309046015»); Shunga Mini Vela de Masaje Vainilla | Alma Secreta",
+   "gtin": "7350075029493",
+   "marca": "LELO",
+   "articulo": "LELO SORAYA BEADS",
+   "variante": "Color: Violeta",
+   "url": "https://factormujer.com/lelo-soraya-beads-lila",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lelo Soraya Beads Lila - Factor Mujer",
    "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
    }
   },
   {
-   "gtin": "697309046015",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Vainilla",
-   "url": "https://sexshop-online.com/velas-de-masaje/shunga-mini-caress-by-candelight-vela-masaje-vainilla-30-mld-202766",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - MINI CARESS BY CANDELIGHT VELA MASAJE VAINILLA 30 ML"
-  },
-  {
-   "gtin": "697309046015",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Vainilla",
-   "url": "https://www.almacenerotico.com/8239-vela-de-masaje-desire-vainilla-shunga-30-ml-697309046015.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de Masaje Desire Vainilla Shunga 30 ml"
-  },
-  {
-   "gtin": "697309046015",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Vainilla",
-   "url": "https://dulcespecados.com/velas-de-masaje/5763-shunga-mini-caress-by-candelight-vela-masaje-vainilla-30-mld-202766-697309046015.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Mini Caress by Candelight Vela Masaje Vainilla 30 ml"
-  },
-  {
-   "gtin": "697309046022",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://www.sexshopboudoir.es/inciensos-velas-masaje/shunga-mini-caress-by-candelight-vela-masaje-frutas-exoticas-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de masaje Shunga mini frutas exóticas 30 ml - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "697309046022",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://almasecreta.es/producto/shunga-mini-vela-de-masaje-frutas-exoticas",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309046022»); Shunga Mini Vela de Masaje Frutas Exóticas | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309046022",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://www.farmaciasdirect.es/products/shunga-mini-vela-de-masaje-frutas-exoticas",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Mini Vela De Masaje Frutas Exóticas al mejor precio.",
+   "gtin": "7350075029493",
+   "marca": "LELO",
+   "articulo": "LELO SORAYA BEADS",
+   "variante": "Color: Violeta",
+   "url": "https://www.farmaciasdirect.es/products/lelo-soraya-beads-masajeador-anal-violeta",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Soraya Beads Masajeador Anal Violeta al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1380,65 +531,41 @@
    }
   },
   {
-   "gtin": "697309046022",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://sexshop-online.com/velas-de-masaje/shunga-mini-caress-by-candelight-vela-masaje-frutas-exoticas-30-mld-202765",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - MINI CARESS BY CANDELIGHT VELA MASAJE FRUTAS EXÓTICAS 30 ML"
-  },
-  {
-   "gtin": "697309046022",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://www.almacenerotico.com/8244-vela-de-masaje-libido-frutas-exoticas-shunga-30-ml-697309046022.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de Masaje Líbido Frutas Exóticas Shunga 30 ml"
-  },
-  {
-   "gtin": "697309046084",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Fresas y Cava",
-   "url": "https://sexshop-online.com/velas-de-masaje/shunga-mini-caress-by-candelight-vela-masaje-fresas-y-cava-30-mld-202764",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - MINI CARESS BY CANDELIGHT VELA MASAJE FRESAS Y CAVA 30 ML"
-  },
-  {
-   "gtin": "697309046084",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Fresas y Cava",
-   "url": "https://www.almacenerotico.com/8247-vela-de-masaje-romance-fresas-con-cava-shunga-30-ml-697309046084.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de Masaje Romance Fresas con Cava Shunga 30 ml"
-  },
-  {
-   "gtin": "697309046084",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Fresas y Cava",
-   "url": "https://dulcespecados.com/velas-de-masaje/5761-shunga-mini-caress-by-candelight-vela-masaje-fresas-y-cava-30-mld-202764-697309046084.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Mini Caress by Candelight Vela Masaje Fresas y Cava 30 ml"
-  },
-  {
-   "gtin": "697309046084",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Fresas y Cava",
-   "url": "https://factormujer.com/vela-masaje-viaje-shunga-romance-fresa-cava-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Vela masaje mini ROMANCE fresa cava Shunga (30ml) - Factor Mujer",
+   "gtin": "7350022270312",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS CLASSIC",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/lelo-luna-beads",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Luna Beads – Condonesmix",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
    }
   },
   {
-   "gtin": "697309046091",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Chocolate",
-   "url": "https://www.sexshopboudoir.es/inciensos-velas-masaje/shunga-mini-caress-by-candelight-vela-masaje-chocolate-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de masaje Shunga mini chocolate 30 ml - Boudoir",
+   "gtin": "7350022270312",
+   "marca": "LELO",
+   "articulo": "LELO LUNA BEADS CLASSIC",
+   "variante": "",
+   "url": "https://www.easytoys.es/lelo-luna-beads-p-83623/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lelo - Luna Beads - EasyToys"
+  },
+  {
+   "gtin": "4025838410476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 47mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/tamano-xs-pequenos/my-size-pro-preservativos-47-mm-10-unidadesd-228858",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 47 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 64mm, Unidades: 10 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-64-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 64 mm, preservativos de látex x10 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -1446,33 +573,12 @@
    }
   },
   {
-   "gtin": "697309046091",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Chocolate",
-   "url": "https://almasecreta.es/producto/shunga-mini-vela-de-masaje-chocolate",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309046091»); Vela de Masaje Chocolate Shunga | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309046091",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Chocolate",
-   "url": "https://sexshop-online.com/velas-de-masaje/shunga-mini-caress-by-candelight-vela-masaje-chocolate-30-mld-202763",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - MINI CARESS BY CANDELIGHT VELA MASAJE CHOCOLATE 30 ML"
-  },
-  {
-   "gtin": "697309046091",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Chocolate",
-   "url": "https://www.farmaciasdirect.es/products/shunga-mini-vela-de-masaje-chocolate",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Mini Vela De Masaje Chocolate al mejor precio.",
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 10 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-69-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 69 Mm 10 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1480,20 +586,12 @@
    }
   },
   {
-   "gtin": "697309046091",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Chocolate",
-   "url": "https://www.almacenerotico.com/8241-vela-de-masaje-excitation-chocolate-shunga-30-ml-697309046091.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de Masaje Excitation Chocolate Shunga 30 ml"
-  },
-  {
-   "gtin": "697309046114",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://www.sexshopboudoir.es/inciensos-velas-masaje/shunga-mini-caress-by-candelight-vela-masaje-te-verde-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de masaje Shunga mini té verde 30 ml - Boudoir",
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 10 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-69-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 69 mm, preservativos de látex x10 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -1501,33 +599,33 @@
    }
   },
   {
-   "gtin": "697309046114",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://almasecreta.es/producto/shunga-mini-vela-de-masaje-te-verde",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309046114»); Shunga Mini Vela de Masaje Té Verde | Alma Secreta",
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-69-mm-10-unidadesd-228877",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 69 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 10 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-72-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 72 mm, preservativos de látex x10 - Boudoir",
    "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
    }
   },
   {
-   "gtin": "697309046114",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://sexshop-online.com/velas-de-masaje/shunga-mini-caress-by-candelight-vela-masaje-te-verde-30-mld-202762",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - MINI CARESS BY CANDELIGHT VELA MASAJE TÉ VERDE 30 ML"
-  },
-  {
-   "gtin": "697309046114",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://www.farmaciasdirect.es/products/shunga-mini-vela-de-masaje-te-verde",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Mini Vela De Masaje Té Verde al mejor precio.",
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 10 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-72-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 72 Mm 10 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1535,33 +633,41 @@
    }
   },
   {
-   "gtin": "697309046114",
-   "marca": "SHUNGA",
-   "articulo": "VELA DE MASAJE",
-   "variante": "Aroma: Te Verde",
-   "url": "https://www.almacenerotico.com/8251-vela-de-masaje-te-verde-shunga-zenitude-30-ml-697309046114.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vela de Masaje Té Verde Shunga Zenitude 30 ml"
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-72-mm-10-unidadesd-228880",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 72 MM 10 UNIDADES"
   },
   {
-   "gtin": "697309052207",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON SENSITIVE",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aumenta-la-potencia-en-el-hombre-vigorizantes/shunga-dragon-crema-sensitive-para-parejas",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Dragon Sensitive, crema para parejas 60 ml - Boudoir",
+   "gtin": "4025838436452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 45mm, Unidades: 36 Unidades",
+   "url": "https://www.condonesmix.com/products/my-size-pro-preservativos-45-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MySize Pro 45 mm - 36 preservativos | CondonesMix – Condonesmix",
    "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
    }
   },
   {
-   "gtin": "697309052207",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON SENSITIVE",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/shunga-crema-de-viralidad-dragon-sensible",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Crema De Viralidad Dragon Sensible al mejor precio.",
+   "gtin": "4025838436452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 45mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/tamano-xs-pequenos/my-size-pro-preservativos-45-mm-36-unidadesd-228856",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 45 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 64mm, Unidades: 36 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-64-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 64 Mm 36 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1569,62 +675,12 @@
    }
   },
   {
-   "gtin": "697309052207",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON SENSITIVE",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/aumento-da-erecao/shunga-dragon-crema-sensitive-para-parejasd-211506",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - CREME SENSÍVEL A DRAGÃO PARA CASAIS"
-  },
-  {
-   "gtin": "697309052207",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON SENSITIVE",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/124-crema-de-virilidad-dragon-shunga-sensitive-60-ml-697309052207.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Crema De virilidad Dragón Shunga Sensitive 60 ml"
-  },
-  {
-   "gtin": "697309052207",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON SENSITIVE",
-   "variante": "",
-   "url": "https://factormujer.com/crema-unisex-shunga-dragon-virilizante-sensible",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Crema unisex Shunga Dragon Virilizante - Sensible",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309055000",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SECRET GARDEN",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/126-crema-secret-garden-shunga-30-ml-697309055000.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Crema Secret Garden Shunga 30 ml"
-  },
-  {
-   "gtin": "697309056007",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOTUS NOIR",
-   "variante": "",
-   "url": "https://almasecreta.es/producto/shunga-gel-sensibilizador-lotus-noir",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309056007»); Shunga Gel Sensibilizador Lotus Noir | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309056007",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOTUS NOIR",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aumenta-la-potencia-en-el-hombre-vigorizantes/shunga-crema-lotus-sensibilizante-60-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Lotus Noir, gel sensibilizante 60 ml - Boudoir",
+   "gtin": "4025838436643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 64mm, Unidades: 36 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-64-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 64 mm, preservativos de látex x36 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -1632,12 +688,25 @@
    }
   },
   {
-   "gtin": "697309056007",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOTUS NOIR",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/shunga-crema-lotus-sensibilizante-60-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Crema Lotus Sensibilizante 60 Ml al mejor precio.",
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 36 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-69-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 69 mm, preservativos de látex x36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 36 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-69-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 69 Mm 36 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1645,41 +714,33 @@
    }
   },
   {
-   "gtin": "697309056007",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOTUS NOIR",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/intensificador-de-orgasmo/shunga-crema-lotus-noir-sensibilizante-60-mld-212168",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - CREME SENSIBILIZANTE LOTUS NOIR 60 ML"
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-69-mm-36-unidadesd-228878",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 69 MM 36 UNIDADES"
   },
   {
-   "gtin": "697309056007",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOTUS NOIR",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/202-gel-sensibilizante-organico-lotus-noir-shunga-60-ml-697309056007.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Gel Sensibilizante Orgánico Lotus Noir Shunga 60 ml"
-  },
-  {
-   "gtin": "697309061001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA TOKO",
-   "variante": "",
-   "url": "https://almasecreta.es/producto/shunga-lubricante-toko-organico",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309061001»); Shunga Lubricante Toko Orgánico | Alma Secreta",
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 36 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-72-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 72 mm, preservativos de látex x36 - Boudoir",
    "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
    }
   },
   {
-   "gtin": "697309061001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA TOKO",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/shunga-lubricante-toko-organico",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Shunga Lubricante Toko Orgánico al mejor precio.",
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 36 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-72-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 72 Mm 36 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1687,91 +748,20 @@
    }
   },
   {
-   "gtin": "697309061001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA TOKO",
-   "variante": "",
-   "url": "https://lovegames.es/lubricantes-sexuales-base-de-agua/shunga-lubricante-toko-organico",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shunga Lubricante Toko Orgánico | SHUNGA"
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-72-mm-36-unidadesd-228881",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 72 MM 36 UNIDADES"
   },
   {
-   "gtin": "697309061001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA TOKO",
-   "variante": "",
-   "url": "https://orgasmix.es/shunga-toko-organica-lubricante-natural.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 🌱 Lubricante Natural Shunga Toko Orgánica | Orgasmix",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "697309074001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA HOLD ME TIGHT",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/shunga-crema-hold-me-tight",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Shunga Hold Me Tight Gel Astringente 30 ml – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "697309074001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA HOLD ME TIGHT",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/estreitamento-vaginal/shunga-gel-estrechamiento-vaginal-hold-me-tightd12-23103",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - GEL ESTREITAMENTO VAGINAL HOLD ME TIGHT"
-  },
-  {
-   "gtin": "697309074001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA HOLD ME TIGHT",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/201-gel-estrechamiento-hold-me-tight-de-shunga-30-ml-697309074001.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Gel Estrechamiento Hold Me Tight De Shunga 30 ml"
-  },
-  {
-   "gtin": "697309074001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA HOLD ME TIGHT",
-   "variante": "",
-   "url": "https://factormujer.com/crema-shunga-hold-me-tight",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Crema Hold Me Tight Shunga Virgin - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309074001",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA HOLD ME TIGHT",
-   "variante": "",
-   "url": "https://dulcespecados.com/estrechamiento-vaginal/6024-shunga-gel-estrechamiento-vaginal-hold-me-tightd12-23103-697309074001.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Gel Estrechamiento Vaginal Hold Me Tight"
-  },
-  {
-   "gtin": "697309075008",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA RAIN OF LOVE",
-   "variante": "",
-   "url": "https://www.easytoys.es/shunga-rain-of-love-arousel-cream-p-11842/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shunga - Rain of Love Arousel Cream - EasyToys"
-  },
-  {
-   "gtin": "697309077002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA GEL DE MASAJE EROTICO",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-gel-de-masaje-erotico-cuerpo-a-cuerpo-oriental-fresas-y-champagne",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga cuerpo a cuerpo, gel fresas y champagne - Boudoir",
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 45mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-45-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 45 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -1779,199 +769,46 @@
    }
   },
   {
-   "gtin": "697309077002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA GEL DE MASAJE EROTICO",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/shunga-gel-masaje-vino-espumante",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Gel Masaje Fresas y Cava 250ml – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 45mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/tamano-xs-pequenos/my-size-pro-preservativos-45-mm-3-unidadesd-228854",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 45 MM 3 UNIDADES"
   },
   {
-   "gtin": "697309077002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA GEL DE MASAJE EROTICO",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/kits-de-massagem/shunga-gel-de-masaje-erotico-cuerpo-a-cuerpo-oriental-fresas-y-cavad12-201191",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - GEL DE MASSAGEM ERÓTICA CORPO A CORPO ORIENTAL MORANGOS E CAVA"
-  },
-  {
-   "gtin": "697309077002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA GEL DE MASAJE EROTICO",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/1397-gel-de-masaje-erotico-fresas-con-cava-shunga-697309077002.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Gel De Masaje Erótico Fresas con Cava Shunga"
-  },
-  {
-   "gtin": "697309077002",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA GEL DE MASAJE EROTICO",
-   "variante": "",
-   "url": "https://dulcespecados.com/kits-de-masaje/6385-shunga-gel-de-masaje-erotico-cuerpo-a-cuerpo-oriental-fresas-y-cavad12-201191-697309077002.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Gel de Masaje Erótico Cuerpo a Cuerpo Oriental Fresas y Cava"
-  },
-  {
-   "gtin": "697309082020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://sexshop-online.com/it/kit-massaggio/shunga-secret-geisha-frutas-exoticasd-237771",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - FRUTTI ESOTICI DELLA GEISHA SEGRETA"
-  },
-  {
-   "gtin": "697309082020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://orgasmix.es/shunga-secret-geisha-frutas-exoticas.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 💕 Set romántico Shunga mini formatos sensual | Orgasmix",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "697309082020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://www.almacenerotico.com/2437-kit-secret-geisha-frutas-exoticas-shunga-697309082020.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Kit Secret Geisha Frutas Exóticas Shunga"
-  },
-  {
-   "gtin": "697309082020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://dulcespecados.com/kits-de-masaje/6418-shunga-secret-geisha-frutas-exoticasd-237771-697309082020.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Secret Geisha Frutas Exoticas | Dulces Pecados"
-  },
-  {
-   "gtin": "697309082020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Frutas Exoticas",
-   "url": "https://www.sexshop.express/kits-de-masaje/1516-shunga-secret-geisha-frutas-exoticas-697309082020.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Secret Geisha Frutas Exóticas - Set Sensual Shunga | Envío Rápido",
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 45mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-45-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 45 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309082082",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Fresas y cava",
-   "url": "https://almasecreta.es/producto/shunga-kit-secretos-de-una-geisha-vino-espumoso",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309082082»); Shunga Kit Secretos de una Geisha Vino Espumoso | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309082082",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Fresas y cava",
-   "url": "https://sexshop-online.com/pt/kits-de-massagem/shunga-kit-secret-geisha-fresas-y-cavad-211490",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - KIT SECRETO DE MORANGOS E CAVA DE GEIXA"
-  },
-  {
-   "gtin": "697309082082",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Fresas y cava",
-   "url": "https://www.almacenerotico.com/2436-kit-secret-geisha-fresa-champagne-shunga-697309082082.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Kit Secret Geisha Fresa Champagne Shunga"
-  },
-  {
-   "gtin": "697309082082",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Fresas y cava",
-   "url": "https://dulcespecados.com/kits-de-masaje/6399-shunga-kit-secret-geisha-fresas-y-cavad-211490-697309082082.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Kit Secret Geisha Fresas y Cava | Dulces Pecados"
-  },
-  {
-   "gtin": "697309082082",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Fresas y cava",
-   "url": "https://www.sexshop.express/kits-de-masaje/1488-shunga-kit-secret-geisha-fresas-y-cava-697309082082.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Kit Secret Geisha Fresas y Cava - 5 Productos Eróticos Shunga",
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 47mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-47-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 47 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309082112",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Te Verde Organico",
-   "url": "https://sexshop-online.com/pt/kits-de-massagem/shunga-kit-secret-geisha-te-verde-organicod-211504",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - KIT DE CHÁ VERDE ORGÂNICO SECRET GEISHA"
-  },
-  {
-   "gtin": "697309082112",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Te Verde Organico",
-   "url": "https://www.almacenerotico.com/2438-kit-secret-geisha-te-verde-organico-shunga-697309082112.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Kit Secret Geisha Té Verde Orgánico Shunga"
-  },
-  {
-   "gtin": "697309082112",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Te Verde Organico",
-   "url": "https://dulcespecados.com/kits-de-masaje/6400-shunga-kit-secret-geisha-te-verde-organicod-211504-697309082112.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Kit Secret Geisha Te Verde Organico"
-  },
-  {
-   "gtin": "697309082112",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Te Verde Organico",
-   "url": "https://www.sexshop.express/kits-de-masaje/1489-shunga-kit-secret-geisha-te-verde-organico-697309082112.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Kit Secret Geisha Té Verde Orgánico - Cosmética Erótica Shunga",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309082112",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT SECRET GEISHA",
-   "variante": "Aroma: Te Verde Organico",
-   "url": "https://almasecreta.es/producto/shunga-kit-secretos-de-una-geisha-te-verde",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309082112»); Shunga Kit Secretos de una Geisha Té Verde | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309090070",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PLACERES CARNALES",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-coleccion-placeres-carnales",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Carnal Pleasures, colección de regalo - Boudoir",
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 47mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-47-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 47 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -1979,122 +816,33 @@
    }
   },
   {
-   "gtin": "697309090070",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PLACERES CARNALES",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/oleos-sem-sabor/shunga-kit-coleccion-placeres-carnalesd-211505",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - KIT COLEÇÃO PRAZERES CARNAIS"
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 47mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/tamano-xs-pequenos/my-size-pro-preservativos-47-mm-3-unidadesd-228857",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 47 MM 3 UNIDADES"
   },
   {
-   "gtin": "697309090070",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PLACERES CARNALES",
-   "variante": "",
-   "url": "https://orgasmix.es/shunga-kit-deseos-carnales.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 💋 Shunga Kit Placeres Carnales para parejas | Orgasmix",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "697309090070",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PLACERES CARNALES",
-   "variante": "",
-   "url": "https://dulcespecados.com/aceites-sin-sabores/6401-shunga-kit-coleccion-placeres-carnalesd-211505-697309090070.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Kit Colección Placeres Carnales | Dulces Pecados"
-  },
-  {
-   "gtin": "697309090070",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PLACERES CARNALES",
-   "variante": "",
-   "url": "https://www.sexshop.express/aceites-sin-sabores/1490-shunga-kit-coleccion-placeres-carnales-697309090070.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Kit Colección Placeres Carnales de Shunga | Todo en Uno",
+   "gtin": "4025838403492",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 49mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-49-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 49 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309090124",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT \"EL JARDIN DE EDO\"",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/kits-de-massagem/shunga-kit-jardin-de-edo-coleccion-organicad-237878",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - EDO KIT JARDIM COLEÇÃO ORGÂNICA"
-  },
-  {
-   "gtin": "697309090124",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT \"EL JARDIN DE EDO\"",
-   "variante": "",
-   "url": "https://factormujer.com/set-completo-shunga-jardin-edo-organic",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Garden of Edo Shunga - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309090124",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT \"EL JARDIN DE EDO\"",
-   "variante": "",
-   "url": "https://orgasmix.es/shunga-kit-jardin-edo-coleccion-organica.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 🌿 Kit Shunga Jardín de Edo Colección Orgánica | Orgasmix",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "697309090124",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT \"EL JARDIN DE EDO\"",
-   "variante": "",
-   "url": "https://dulcespecados.com/kits-de-masaje/6419-shunga-kit-jardin-de-edo-coleccion-organicad-237878-697309090124.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga - Kit Jardín de Edo Colección Orgánica"
-  },
-  {
-   "gtin": "697309090124",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA KIT \"EL JARDIN DE EDO\"",
-   "variante": "",
-   "url": "https://www.sexshop.express/kits-de-masaje/1517-shunga-kit-jardin-de-edo-coleccion-organica-697309090124.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Kit Jardín de Edo Orgánico - Sensualidad Natural en un Set Exclusivo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309068017",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Fruta del Dragon",
-   "url": "https://www.condonesmix.com/products/shunga-love-bath-fruta-del-dragon",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Love Bath Fruta del Dragón 600gr – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "697309068017",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Fruta del Dragon",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-lovebath-fruta-del-dragon",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Lovebath Fruta del Dragón, Baño en Gel - Boudoir",
+   "gtin": "4025838403492",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 49mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-49-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 49 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -2102,46 +850,12 @@
    }
   },
   {
-   "gtin": "697309068017",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Fruta del Dragon",
-   "url": "https://almasecreta.es/producto/shunga-sales-de-bano-fruta-del-dragon",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 697309068017»); Sales de Baño Fruta del Dragón Shunga | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "697309068017",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Fruta del Dragon",
-   "url": "https://www.almacenerotico.com/375-shunga-love-bath-dragon-fruit-650-gr-697309068017.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Love Bath Dragon Fruit 650 gr"
-  },
-  {
-   "gtin": "697309068017",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Fruta del Dragon",
-   "url": "https://www.sexshop.express/para-el-bano/1519-shunga-lovebath-fruta-del-dragon-697309068017.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lovebath Fruta del Dragón: Baño Sensual y Relajante | Shunga",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "697309068024",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Lotus Sensual",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-lovebath-lotus-sensual",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Lovebath Sensual Lotus, baño en gel - Boudoir",
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 53mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-53-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 53 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -2149,72 +863,46 @@
    }
   },
   {
-   "gtin": "697309068024",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Lotus Sensual",
-   "url": "https://www.condonesmix.com/products/shunga-love-bath-sensual-lotus",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Love Bath Sensual Lotus 600gr – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 53mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-53-mm-3-unidadesd-228864",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 53 MM 3 UNIDADES"
   },
   {
-   "gtin": "697309068024",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Lotus Sensual",
-   "url": "https://www.almacenerotico.com/377-shunga-love-bath-sensual-lotus-650-gr-697309068024.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Love Bath Sensual Lotus 650 gr"
-  },
-  {
-   "gtin": "697309068024",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Lotus Sensual",
-   "url": "https://factormujer.com/shunga-lovebath-lotus-sensual",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Shunga LoveBath - Lotus Sensual - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309068024",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Lotus Sensual",
-   "url": "https://www.sexshop.express/para-el-bano/1520-shunga-lovebath-lotus-sensual-697309068024.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lovebath Lotus Sensual: Baño Relajante y Erótico para Parejas",
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 53mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-53-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 53 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309070027",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PINTURA CORPORAL",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://factormujer.com/pintura-corporal-comestible-vino-fresas-shunga",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Pintura corporal comestible vino/fresas Shunga - Factor Mujer",
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 57mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-57-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 57 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309070027",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PINTURA CORPORAL",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://www.sexshopboudoir.es/varios-comestible/shunga-pintura-corporal-de-fresas-y-champagne",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga pintura corporal fresa y cava con pincel - Boudoir",
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 57mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-57-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 57 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -2222,109 +910,46 @@
    }
   },
   {
-   "gtin": "697309070027",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA PINTURA CORPORAL",
-   "variante": "Sabor: Fresas y Cava",
-   "url": "https://sexshop-online.com/pt/tinta-corporal-comestivel/shunga-pintura-corporal-de-fresas-y-cavad11-201199",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - PINTURA CORPORAL DE MORANGO E CAVA"
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 57mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-57-mm-3-unidadesd-228867",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 57 MM 3 UNIDADES"
   },
   {
-   "gtin": "4260605482175",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xl-60mm-100-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XL 60mm 100 uds – Condonesmix",
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 57mm, Unidades: 3 Unidades",
+   "url": "https://www.almacenerotico.com/614-3-preservativos-my-size-pro-talla-57-4025838403577.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos My Size Pro Talla 57",
    "politica_envio": {
-    "base": "2.99",
+    "base": "5.95",
     "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxl-64-mm-100-unidadesd-242303",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xl-64mm-100-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XL 64mm 100 uds – Condonesmix",
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 60mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-60-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 60 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-100-unidadesd-242304",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xxl-69mm-100-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XXL 69mm 100 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-100-unidadesd-242298",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO XS 47 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xs-47mm-100-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XS 47mm 100 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "697309052009",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON INTENSIFICANTE",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/shunga-virilidad-de-dragon",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Shunga Dragón – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "697309052009",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON INTENSIFICANTE",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/seccion-tuppersex/shunga-dragon-crema-potenciadora-de-la-ereccion",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Dragon, crema intensificadora 60 ml - Boudoir",
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 60mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-60-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 60 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -2332,140 +957,59 @@
    }
   },
   {
-   "gtin": "697309052009",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON INTENSIFICANTE",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/aumento-da-erecao/shunga-dragon-crema-potenciadora-de-erecciond12-201194",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - CREME AUMENTADOR DE EREÇÃO DE DRAGÃO"
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 60mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-60-mm-3-unidadesd-228870",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 60 MM 3 UNIDADES"
   },
   {
-   "gtin": "697309052009",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON INTENSIFICANTE",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/123-crema-de-virilidad-dragon-shunga-60-ml-697309052009.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Crema de Virilidad Dragón Shunga 60 ml"
-  },
-  {
-   "gtin": "697309052009",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA DRAGON INTENSIFICANTE",
-   "variante": "",
-   "url": "https://factormujer.com/crema-unisex-shunga-dragon-virility-cream",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Crema unisex Shunga Dragon Virility cream - Factor Mujer",
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 60mm, Unidades: 3 Unidades",
+   "url": "https://www.almacenerotico.com/615-3-preservativos-my-size-pro-talla-60-4025838403607.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos My Size Pro Talla 60",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-47-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 47 caja 3 uds extrafino – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
+    "base": "5.95",
     "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 3",
-   "url": "https://www.almacenerotico.com/602-3-preservativos-mister-size-talla-47-extrafinos-4260605480010.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos Mister Size Talla 47 Extrafinos"
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 64mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-64-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 64 Mm 3 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
   },
   {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-60-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 60 Caja 3 uds extrafinos – Condonesmix",
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 64mm, Unidades: 3 Unidades",
+   "url": "https://www.almacenerotico.com/616-3-preservativos-my-size-pro-talla-64-4025838403645.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos My Size Pro Talla 64",
    "politica_envio": {
-    "base": "2.99",
+    "base": "5.95",
     "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xl-60-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 3 Unidades Ajuste Perfecto",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 3 uds extrafinos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xxl-64-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (3 uds)",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-3-uds-extrafino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 caja 3 uds extrafino – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xxxl-69-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (3 uds)",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309066006",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-sales-de-bano-aromatizadas-aphrodisia-75gr",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga sales de baño Aphrodisia 75 g - Boudoir",
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 64mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-64-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 64 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -2473,54 +1017,33 @@
    }
   },
   {
-   "gtin": "697309066006",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://sexshop-online.com/pt/para-o-banho/shunga-sales-de-bano-aromatizadas-aphrodisia-75-grd-214643",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - SAIS DE BANHO PERFUMADOS DE AFRODÍSIA 75 GR"
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 64mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-64-mm-3-unidadesd-228873",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 64 MM 3 UNIDADES"
   },
   {
-   "gtin": "697309066006",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://factormujer.com/sales-de-bano-shunga-viaje-aphrodisia-75gr",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Sales de Baño Shunga de Viaje Rosa - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "697309066006",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://www.easytoys.es/shunga-oriental-crystals-bath-salts-single-use-aphrodisia-p-84040/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shunga - Oriental Crystals Bath Salts Single Use Aphrodisia - EasyToys"
-  },
-  {
-   "gtin": "697309066006",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Aphrodisia",
-   "url": "https://www.sexshop.express/para-el-bano/1524-shunga-sales-de-bano-aromatizadas-aphrodisia-75-gr-697309066006.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sales de Baño Aromatizadas Aphrodisia 75gr - Relajación y Estímulo",
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-69-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 69 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309068000",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Tentaciones del Oceano",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-lovebath-tentaciones-del-oceano",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Lovebath Ocean Temptations, baño en gel - Boudoir",
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-69-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 69 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -2528,227 +1051,33 @@
    }
   },
   {
-   "gtin": "697309068000",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA LOVE BATHS",
-   "variante": "Aroma: Tentaciones del Oceano",
-   "url": "https://www.sexshop.express/para-el-bano/1518-shunga-lovebath-tentaciones-del-oceano-697309068000.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lovebath Tentaciones del Océano - Baño Sensual y Relajante",
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-69-mm-3-unidadesd-228876",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 69 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 69mm, Unidades: 3 Unidades",
+   "url": "https://www.almacenerotico.com/617-3-preservativos-my-size-pro-talla-69-4025838403690.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos My Size Pro Talla 69",
    "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xs-47-mm-10-unidadesd-242276",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 10",
-   "url": "https://www.easytoys.es/mister-size-xs-preservativos-ultrafinos-10-unidades-p-43864/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE Preservativos de 47 mm 10 unidades - EasyToys"
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-36-unidadesd-242283",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 36",
-   "url": "https://www.easytoys.es/mister-size-xs-preservativos-ultrafinos-36-unidades-p-43885/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE 47 mm Preservativos 36 piezas - EasyToys"
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 10",
-   "url": "https://factormujer.com/mister-size-xl-60-10",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 10 Unidades Ajuste Perfecto",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 36",
-   "url": "https://factormujer.com/mister-size-xl-60-36",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 36 Unidades Ajuste Perfecto",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 10 uds extrafinos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
+    "base": "5.95",
     "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xxl-64-mm-10-unidadesd-242281",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://www.easytoys.es/mister-size-xxl-preservativos-ultrafinos-10-unidades-p-43879/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE 64 mm Condooms 10 stuks - EasyToys"
-  },
-  {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://factormujer.com/mister-size-xxl-64-10",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (10 uds)",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-36-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 36 uds extrafinos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 36",
-   "url": "https://factormujer.com/mister-size-xxl-64-36",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (36 uds)",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxl-64-mm-36-unidadesd-242288",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-10-uds-extrafinos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 Caja 10 uds extrafinos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 10",
-   "url": "https://factormujer.com/mister-size-xxxl-69-10",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (10 uds)",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xxxl-69-mm-10-unidadesd-242282",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-36-uds-extrafino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 caja 36 uds extrafino – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 36",
-   "url": "https://factormujer.com/mister-size-xxxl-69-36",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (36 uds)",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-36-unidadesd-242289",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "697309066020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Exotic Purple",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-sales-de-bano-aromatizadas-exotic-purple-75gr",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga sales de baño Frutas exóticas 75 g - Boudoir",
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 3 Unidades",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-72-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); My.Size Pro 72 mm, preservativos de látex x3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -2756,33 +1085,33 @@
    }
   },
   {
-   "gtin": "697309066020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Exotic Purple",
-   "url": "https://sexshop-online.com/pt/para-o-banho/shunga-sales-de-bano-aromatizadas-exotic-purple-75-grd-214642",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - SAIS DE BANHO EXÓTICOS COM SABOR ROXO 75 GR"
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 3 Unidades",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-72-mm-3-unidadesd-228879",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 72 MM 3 UNIDADES"
   },
   {
-   "gtin": "697309066020",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Exotic Purple",
-   "url": "https://www.sexshop.express/para-el-bano/1523-shunga-sales-de-bano-aromatizadas-exotic-purple-75-gr-697309066020.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sales de Baño Aromatizadas Exotic Purple 75gr - Relajación Afrodisíaca",
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-72-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 72 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 49mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-49-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 49 Caja 3 uds – Condonesmix",
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 72mm, Unidades: 3 Unidades",
+   "url": "https://www.condonesmix.com/products/my-size-pro-talla-72-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MySize Pro 72 mm - 3 preservativos | CondonesMix – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -2790,101 +1119,97 @@
    }
   },
   {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 53mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-53-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister size Talla 53 Caja 3 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 57mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-57-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 57 Caja 3 uds extrafinos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 57mm, Unidades: 3",
-   "url": "https://www.almacenerotico.com/603-3-preservativos-mister-size-talla-57-extrafinos-4260605480102.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos Mister Size Talla 57 Extrafinos"
-  },
-  {
-   "gtin": "697309066013",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Oceania",
-   "url": "https://sexshop-online.com/pt/para-o-banho/shunga-sales-de-bano-aromatizadas-oceania-75-grd-214640",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - SAIS DE BANHO PERFUMADOS OCEANIA 75 GR"
-  },
-  {
-   "gtin": "697309066013",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Oceania",
-   "url": "https://www.sexshop.express/para-el-bano/1521-shunga-sales-de-bano-aromatizadas-oceania-75-gr-697309066013.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sales de Baño Oceania 75gr - Relajación y Fantasía en tu Bañera",
+   "gtin": "7350075022470",
+   "marca": "LELO",
+   "articulo": "Lelo Hex",
+   "variante": "Unidades: 3 Unidades",
+   "url": "https://www.farmaciasdirect.es/products/lelo-hex-preservativo-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Hex Preservativo Caja 3 Uds al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "697309066174",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Lotus",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/shunga-sales-de-bano-aromatizadas-lotus-75gr",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga sales de baño Flor de loto 75 g - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
+   "gtin": "4025838410452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 45mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-45-mm-10-unidadesd-228855",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 45 MM 10 UNIDADES"
   },
   {
-   "gtin": "697309066174",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Lotus",
-   "url": "https://sexshop-online.com/pt/para-o-banho/shunga-sales-de-bano-aromatizadas-lotus-75-grd-214641",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SHUNGA - BANHO OU SAIS COM SABOR DE LÓTUS 75 GR"
+   "gtin": "4025838410490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 49mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/preservativos/my-size-pro-preservativos-49-mm-10-unidadesd-228862",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 49 MM 10 UNIDADES"
   },
   {
-   "gtin": "697309066174",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Lotus",
-   "url": "https://www.almacenerotico.com/371-shunga-cristales-de-sal-marina-espumosa-y-aromatizada-lotus-flower-75-g-697309066174.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Shunga Cristales De Sal Marina Espumosa Y Aromatizada Lotus Flower 75 g"
+   "gtin": "4025838410537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 53mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-53-mm-10-unidadesd-228865",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 53 MM 10 UNIDADES"
   },
   {
-   "gtin": "697309066174",
-   "marca": "SHUNGA",
-   "articulo": "SHUNGA SEA SALT CRYSTALS",
-   "variante": "Aroma: Lotus",
-   "url": "https://www.sexshop.express/para-el-bano/1522-shunga-sales-de-bano-aromatizadas-lotus-75-gr-697309066174.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sales de Baño Aromatizadas Lotus 75gr - Relajación Afrodisíaca",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
+   "gtin": "4025838410575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 57mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-57-mm-10-unidadesd-228868",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 57 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 60mm, Unidades: 10 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-60-mm-10-unidadesd-228871",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 60 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838436476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 47mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-47-mm-36-unidadesd-228859",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 47 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 49mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-49-mm-36-unidadesd-228863",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 49 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 53mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-53-mm-36-unidadesd-228866",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 53 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 57mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-57-mm-36-unidadesd-228869",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 57 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY SIZE PRO",
+   "variante": "Diametro: 60mm, Unidades: 36 Unidades",
+   "url": "https://sexshop-online.com/normales/my-size-pro-preservativos-60-mm-36-unidadesd-228872",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 60 MM 36 UNIDADES"
   }
  ],
  "sin_ofertas": []
