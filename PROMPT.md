@@ -35,9 +35,14 @@ Para cada candidata **abre la ficha** (WebFetch) y confirma:
 
 **Publica hasta 5 tiendas por GTIN** (las mejor posicionadas que pasen la comprobación; tiendas distintas).
 
-## Portes
-Si de una tienda ves con claridad su **página de envíos** (importe base a domicilio en península y, si existe, importe desde el que es gratis), anótalo en `politica_envio` con la URL de esa página (de la misma tienda). Si hay datos contradictorios o no lo ves claro, déjalo vacío. **Nunca supongas portes gratuitos.**
-
+## Portes (obligatorio por tienda)
+El módulo **no usa una ficha si no puede comprobar los portes a domicilio**, y la mayoría de las fichas no los publican. Por eso, para **cada tienda** de la que incluyas fichas debes aportar su política de envíos en `politica_envio`:
+1. Busca la página de envíos o «gastos de envío» de esa tienda (suele estar en el pie de página o en una página de ayuda/condiciones). Ábrela.
+2. Anota el **importe base de envío a domicilio en península** (el más barato y habitual, sin urgencia ni recogida) y, si existe, el **importe de pedido desde el que el envío es gratis**.
+3. Copia los importes **tal como aparecen escritos en esa página** (por ejemplo `4,95` y `50`). El módulo volverá a abrir esa página y exige encontrar esos importes escritos; si no están, descarta la tienda.
+4. `politica_envio.url` debe ser la página donde ves esos importes y ser **del mismo dominio** que la ficha.
+5. Si la tienda tiene tarifas distintas según el peso, usa la de un pedido pequeño de un solo artículo ligero. Si no puedes determinarla con claridad, **no incluyas esa tienda** (mejor menos tiendas, pero comprobables).
+6. Repite el dato en todas las fichas de esa tienda. **Nunca supongas portes gratuitos.**
 ## Sin ofertas
 Si para un GTIN has hecho **al menos 3 consultas** y revisado los resultados sin encontrar ninguna ficha válida, anótalo en `sin_ofertas` con las consultas hechas. Si no pudiste completar la búsqueda (bloqueo, error, falta de tiempo), **no lo anotes**.
 
