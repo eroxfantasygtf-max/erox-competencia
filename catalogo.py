@@ -17,7 +17,8 @@ from concurrent.futures import ThreadPoolExecutor
 from utiles import descargar, tokens
 
 OMITIR = re.compile(r"(blog|post|page|cms|image|imagen|categor|collection|article|tag|brand|manufactur|pagina|news|video|attribute)", re.I)
-MAX_ARCHIVOS = 80
+MAX_ARCHIVOS = 60
+MAX_SEGUNDOS = 150   # tope de tiempo por tienda (una tienda enorme no debe frenar a las demás)
 
 
 def _locs(xml):
@@ -34,7 +35,8 @@ def hojas_sitemap(host, sitemap_pista=""):
     if not raiz:
         raiz = ["https://%s/sitemap.xml" % host, "https://%s/sitemap_index.xml" % host]
     cola, vistos, urls, leidos = list(dict.fromkeys(raiz)), set(), [], 0
-    while cola and leidos < MAX_ARCHIVOS:
+    inicio = time.time()
+    while cola and leidos < MAX_ARCHIVOS and time.time() - inicio < MAX_SEGUNDOS:
         sm = cola.pop(0)
         if sm in vistos:
             continue
@@ -56,7 +58,7 @@ def hojas_sitemap(host, sitemap_pista=""):
 
 
 def cargar_marcas(ruta="gtins.csv"):
-    with open(ruta, newline="", encoding="utf-8") as f:
+    with open(ruta, newline="", encoding="utf-8-sig") as f:
         return sorted({r["marca"].strip() for r in csv.DictReader(f) if r.get("marca")})
 
 
@@ -92,7 +94,7 @@ def main():
     marcas = [m.strip() for m in sys.argv[1].split(",") if m.strip()]
     ruta = sys.argv[2] if len(sys.argv) > 2 else "tiendas.csv"
     os.makedirs("work", exist_ok=True)
-    with open(ruta, newline="", encoding="utf-8") as f:
+    with open(ruta, newline="", encoding="utf-8-sig") as f:
         tiendas = [(r["host"].strip().lower(), (r.get("sitemap") or "").strip(), marcas) for r in csv.DictReader(f) if r.get("host")]
     with ThreadPoolExecutor(max_workers=6) as ex:
         res = list(ex.map(procesar, tiendas))

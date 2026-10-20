@@ -16,6 +16,8 @@ La parte mecánica la hacen **scripts** (rastrear catálogos, puntuar candidatas
 ```
 git fetch origin
 git checkout -B claude/competencia-datos origin/claude/competencia-datos 2>/dev/null || git checkout -b claude/competencia-datos
+# trae a esta rama los scripts y listas más recientes de main (no hay conflictos: main no contiene los datos)
+git merge origin/main -m "Sincroniza scripts desde main" --no-edit
 ```
 Los resultados se acumulan en `competencia.csv` de esa rama.
 
@@ -28,13 +30,13 @@ Los resultados se acumulan en `competencia.csv` de esa rama.
 ```
 python catalogo.py "MARCA1,MARCA2"
 ```
-Lee `tiendas.csv` (tiendas conocidas) y guarda en `work/` las fichas de esas marcas de cada tienda. Puede tardar varios minutos; si una tienda falla, el script sigue con las demás.
+Lee `tiendas.csv` (tiendas conocidas) y guarda en `work/` las fichas de esas marcas de cada tienda. Tarda 2-4 minutos: lánzalo **en segundo plano** (`python catalogo.py "MARCA1,MARCA2" > work/catalogo.log 2>&1 &`) y espera a que termine (`wait`, o comprueba `work/resumen_catalogo.json`), porque un comando en primer plano se corta a los 120 s. Si una tienda falla, el script sigue con las demás.
 
 ## Paso 3 · Emparejar y comprobar
 ```
 python emparejar.py "MARCA1,MARCA2"
 ```
-Genera `work/resultado.json` con `verificados` (ficha + GTIN comprobado), `dudosas` (había candidatas pero ninguna pasó la comprobación) y `sin_candidatas`.
+También tarda 2-4 minutos: lánzalo en segundo plano igual que el paso anterior. Genera `work/resultado.json` con `verificados` (ficha + GTIN comprobado), `dudosas` (había candidatas pero ninguna pasó la comprobación) y `sin_candidatas`.
 
 ## Paso 4 · Tu parte: resolver lo que los scripts no emparejan
 Trabaja sobre `dudosas` y `sin_candidatas` (máximo 30 productos por pasada; empieza por los que no tienen **ninguna** tienda verificada):
@@ -46,6 +48,17 @@ Trabaja sobre `dudosas` y `sin_candidatas` (máximo 30 productos por pasada; emp
 3. Añade a `work/extra.json` (lista JSON) los resultados con `"ok": true`, completando `host` (dominio de la URL), `marca`, `articulo` y `variante` con los de `gtins.csv`.
 4. Si ninguna tienda del catálogo tiene el producto, **no inventes**: déjalo. Opcional, para productos importantes: busca la ficha con Bing desde la terminal, por ejemplo `curl -s -A "Mozilla/5.0" "https://www.bing.com/search?q=site:TIENDA+MARCA+ARTICULO&cc=es&setlang=es&mkt=es-ES"` y comprueba cada URL con `verificar.py`.
 
+## Paso 4b · Políticas de envío de las tiendas que salieron verificadas
+El módulo **no usa una ficha si no puede comprobar los portes a domicilio**. Mira `work/resultado.json` (y `work/extra.json`): para cada tienda con fichas verificadas que **no tenga** política en `tiendas.csv` ni en `envios.csv` (máximo 15 tiendas por pasada, las que más fichas tengan):
+1. Busca su página de envíos / gastos de envío (enlace del pie de página, «envíos», «condiciones de compra», «entrega»): `curl` a la portada y `grep -i` por esos enlaces.
+2. Lee el texto de esa página y localiza el **importe base del envío estándar a domicilio en península** y, si existe, el **pedido mínimo para envío gratis**. Si hay varias tarifas, usa la de un pedido pequeño de un solo artículo ligero. Si no queda claro, no registres esa tienda.
+3. Regístrala con el script, que comprueba que los importes están escritos en la página:
+   ```
+   python politica.py DOMINIO URL_PAGINA_ENVIOS BASE [GRATIS_DESDE]
+   ```
+   (importes con punto decimal, p. ej. `4.90 50`). Si dice `NO`, corrige o descarta la tienda.
+`envios.csv` se sube con el resto (Paso 6).
+
 ## Paso 5 · Publicar
 ```
 python publicar.py
@@ -53,7 +66,7 @@ python publicar.py
 Elige hasta 5 tiendas por GTIN (las de menor precio visible), añade la política de envíos de `tiendas.csv`, escribe `resultados.json` y genera `competencia.csv` (uniéndolo a lo ya publicado; descarta filas de más de 21 días).
 
 ## Paso 6 · Subir
-Haz commit de `competencia.csv` y `resultados.json` y súbelo: `git push origin claude/competencia-datos`. Si lo rechaza, `git pull --rebase origin claude/competencia-datos` y repite; si hay conflicto en `competencia.csv`, rehazlo ejecutando `publicar.py` partiendo de la versión remota.
+Haz commit de `competencia.csv`, `resultados.json` y `envios.csv` (si existe) y súbelo: `git push origin claude/competencia-datos`. Si lo rechaza, `git pull --rebase origin claude/competencia-datos` y repite; si hay conflicto en `competencia.csv`, rehazlo ejecutando `publicar.py` partiendo de la versión remota.
 
 ## Resumen final (corto)
 Marcas procesadas · productos · productos con ≥1 tienda verificada · fichas publicadas · tiendas rastreadas con éxito y las que fallaron · casos con título incoherente · tiempo aproximado.

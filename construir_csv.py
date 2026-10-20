@@ -94,7 +94,7 @@ def fila_sin_ofertas(n, momento):
 
 def leer_previo():
     try:
-        with open(CSV_SALIDA, newline="", encoding="utf-8") as f:
+        with open(CSV_SALIDA, newline="", encoding="utf-8-sig") as f:
             filas = list(csv.reader(f))
     except FileNotFoundError:
         return []

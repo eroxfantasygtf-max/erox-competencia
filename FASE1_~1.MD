@@ -8,12 +8,13 @@ Objetivo: mantener `tiendas.csv`, la lista de tiendas españolas que compiten co
 
 > Eres analista de competencia de una tienda online española de productos para adultos (sexshop, preservativos, lubricantes, juguetes). Necesito el **mapa de tiendas competidoras en España** para estas marcas: DUREX, CONTROL, SATISFYER, LELO, WOMANIZER, FLESHLIGHT, TENGA, PJUR, SHUNGA, MISTER SIZE, MY SIZE PRO.
 >
-> 1. Localiza hasta **40 tiendas online que vendan esas marcas y envíen a España peninsular**, priorizando las que aparecen bien posicionadas en Google (búsquedas de «comprar <marca> <producto>») y en Google Shopping. Incluye sexshops, parafarmacias y farmacias online y grandes minoristas. Excluye marketplaces (Amazon, eBay, AliExpress, Temu, Miravia, Fruugo), comparadores, tiendas fuera de España y tiendas de Canarias/Ceuta/Melilla (precios sin IVA).
+> 1. Localiza hasta **40 tiendas online que vendan esas marcas y envíen a España peninsular**, priorizando las que aparecen bien posicionadas en Google (búsquedas de «comprar <marca> <producto>») y en Google Shopping. Incluye sexshops, parafarmacias y farmacias online y grandes minoristas. En la lista de tiendas excluye marketplaces (Amazon, eBay, AliExpress, Temu, Miravia, Fruugo), comparadores, tiendas fuera de España y tiendas de Canarias/Ceuta/Melilla (precios sin IVA). Los marketplaces van en un apartado aparte, solo informativo (ver punto 5).
 > 2. De cada tienda aporta: **dominio** (sin https://), la **URL de su sitemap** si la conoces (suele estar en `dominio/robots.txt`, línea «Sitemap:»), y su **política de envíos a domicilio en península**: importe base del envío estándar y pedido mínimo para envío gratis, **copiando los importes tal como están escritos** y dando la **URL de la página donde aparecen**. Si no lo ves con claridad, deja esos campos vacíos; no supongas nada.
 > 3. Entrega el resultado **solo como CSV** con esta cabecera exacta y una tienda por línea:
 > `host,sitemap,envio_base,envio_gratis_desde,envio_url,notas`
 > (importes con punto decimal, por ejemplo `4.90`; sin símbolo €).
 > 4. Después del CSV, añade una lista breve con las tiendas descartadas y por qué.
+> 5. **Apartado informativo (no va al CSV):** para estos 20 productos de ejemplo que te daré, indica si **Amazon.es** los vende (vendido y enviado por Amazon, o por un vendedor externo), con su precio aproximado y gastos de envío, y la URL. Es solo una referencia de mercado: sus precios no se usan para igualar.
 
 ## Qué hacer con el resultado
 1. Revisa por encima las filas (¿dominios reales y españoles?).
