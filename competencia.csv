@@ -1,4 +1,4 @@
-EROX_COMPETENCIA,1,nube_20261020100038,COMPLETADA,2026-10-20T10:00:38Z,12,ES-28902
+EROX_COMPETENCIA,1,nube_20261020100050,COMPLETADA,2026-10-20T10:00:50Z,12,ES-28902
 GTIN,Marca,Articulo,Variante,Precio IVA,Envio IVA,Moneda,Destino,En stock,Modelo verificado,IVA verificado,Sin condiciones,Confianza,Fecha UTC,URL,Estado,Prueba identidad,Prueba stock,Prueba IVA,Prueba envio,Prueba condiciones,Fuente
 8428076001059,DUREX,DUREX SENSITIVO SUAVE,3 Unidades,,,EUR,ES-28902,FALSE,FALSE,FALSE,FALSE,0,2026-10-20T10:00:38Z,https://ladrogueria.com/preservativos/1849-preservativo-sensitivo-suave-3-8428076001059.html,PENDIENTE,pos. 1 en Bing (consulta 1) y 2 (consulta 2); ean13 visible en la ficha,,,,,Tarea Claude
 8428076001059,DUREX,DUREX SENSITIVO SUAVE,3 Unidades,,,EUR,ES-28902,FALSE,FALSE,FALSE,FALSE,0,2026-10-20T10:00:38Z,https://cosmeticobank.com/es/inicio/23815-preservativos-sensitive-3-unidades-durex-8428076001059.html,PENDIENTE,"pos. 2 en Bing (consulta 1); GTIN en la URL de la ficha, caja de 3 unidades",,,,,Tarea Claude
