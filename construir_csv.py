@@ -4,7 +4,7 @@
 Uso:  python construir_csv.py resultados.json
 
 Lee `resultados.json` (ver PROMPT.md) y el `competencia.csv` anterior, sustituye las filas de los GTIN revisados en esta pasada,
-descarta filas con más de 8 días y escribe un CSV coherente (la fila de control declara el número exacto de filas).
+descarta filas con más de 21 días y escribe un CSV coherente (la fila de control declara el número exacto de filas).
 Solo usa la biblioteca estándar. No hace peticiones de red.
 """
 import csv
@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse
 
 DESTINO = "ES-28902"
-MAX_DIAS = 8
+MAX_DIAS = 21
 CSV_SALIDA = "competencia.csv"
 FUENTE = "Tarea Claude"
 CABECERA = ["GTIN", "Marca", "Articulo", "Variante", "Precio IVA", "Envio IVA", "Moneda", "Destino", "En stock", "Modelo verificado",

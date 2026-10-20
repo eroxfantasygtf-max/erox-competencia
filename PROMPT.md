@@ -11,11 +11,19 @@ Eres el investigador de competencia de una tienda online española de productos 
 - Producto **nuevo**, mismo GTIN y misma variante (tamaño, color, aroma, unidades). Una ficha de otra variante NO sirve.
 - Solo escribes en este repositorio.
 
+## Paso 0 · Rama de datos (obligatorio, para no perder lo ya publicado)
+Los resultados se acumulan en la rama fija **`claude/competencia-datos`**. Antes de nada ejecuta:
+```
+git fetch origin
+git checkout -B claude/competencia-datos origin/claude/competencia-datos 2>/dev/null || git checkout -b claude/competencia-datos
+```
+Después trabaja leyendo el `competencia.csv` que haya en esa rama (si existe). Nunca hagas `push --force`.
+
 ## Frecuencia y reparto del trabajo
 Esta tarea se ejecuta a diario, pero cada GTIN solo se vuelve a descubrir **cada 14 días**:
 1. Lee `gtins.csv` y `competencia.csv` (si existe; columna 1 = GTIN, columna 14 = fecha UTC de la última revisión).
 2. Salta los GTIN revisados hace menos de 14 días. Si no queda ninguno, termina diciéndolo en una línea.
-3. De los demás, procesa **hasta 35**: primero los que no aparecen en `competencia.csv`, después los de revisión más antigua. (En una prueba piloto te dirán un número menor o una lista concreta.)
+3. De los demás, procesa **hasta 20**: primero los que no aparecen en `competencia.csv`, después los de revisión más antigua. (En una prueba piloto te dirán un número menor o una lista concreta.)
 
 ## Cómo buscar (por cada GTIN)
 La herramienta WebSearch solo es buena para EE. UU. y en inglés. Para España usa **WebFetch sobre un buscador en español** y pídele que devuelva, en orden, los 10 primeros resultados orgánicos (posición, dominio, URL completa) y cualquier bloque de Shopping/productos:
@@ -71,9 +79,14 @@ Si para un GTIN has hecho **al menos 3 consultas** y revisado los resultados sin
 `gtins_revisados` = todos los GTIN que has terminado (con hallazgos o sin ofertas). `revisado_en` = fecha y hora UTC actuales.
 
 ## Cierre
-1. Ejecuta `python construir_csv.py resultados.json` (genera `competencia.csv`, descarta datos no válidos y cuenta filas).
-2. Haz commit de `competencia.csv` y `resultados.json` y súbelo a la rama indicada en la tarea (si no se indica otra, `claude/competencia`). Siempre el mismo nombre de archivo.
+1. Ejecuta `python construir_csv.py resultados.json` (genera `competencia.csv` uniendo lo ya publicado con esta pasada, descarta datos no válidos y cuenta filas).
+2. Haz commit de `competencia.csv` y `resultados.json` en la rama `claude/competencia-datos` y súbelo: `git push origin claude/competencia-datos`. Si el servidor lo rechaza, ejecuta `git pull --rebase origin claude/competencia-datos` y vuelve a subir; si hay conflicto en `competencia.csv`, rehazlo con `construir_csv.py` partiendo de la versión remota. **Nunca sobrescribas el trabajo existente.**
 3. Termina con un resumen corto: GTIN procesados, tiendas halladas por GTIN (media), GTIN sin ofertas, GTIN sin completar y qué buscadores o tiendas te bloquearon.
 
+## Consejos de búsqueda
+- Bing a veces devuelve resultados absurdos (deportes, ayuda de Windows): cambia las palabras de la consulta (marca + nombre del producto + «comprar») y repite.
+- DuckDuckGo pide verificación anti-robots: no lo uses. Carrefour, Amazon y Miravia bloquean el acceso: no pierdas tiempo con ellos.
+- Muchas fichas muestran el EAN en la tabla de características, como «Referencia» o en el SKU. Si el GTIN solo aparece en la URL, la ficha sirve solo si además el nombre, la marca y la variante coinciden sin duda.
+- Importes de envío: cópialos exactamente como están escritos (por ejemplo «3,85 €», «49,95 €»).
 ## Calidad antes que cantidad
 Es preferible publicar 3 fichas correctas por GTIN que 5 dudosas. Una ficha equivocada se descarta sola (el módulo comprueba el GTIN), pero desperdicia tiempo y cuota.
