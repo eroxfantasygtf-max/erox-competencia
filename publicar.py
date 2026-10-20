@@ -70,6 +70,8 @@ def main():
     marcas = {m.lower() for m in res.get("marcas", [])}
     with open("gtins.csv", newline="", encoding="utf-8-sig") as f:
         todos = [r["gtin"] for r in _csv.DictReader(f) if r["marca"].strip().lower() in marcas]
+    if res.get("procesados") is not None:
+        todos = [g for g in todos if g in set(res["procesados"])]    # modo --pendientes: solo lo trabajado en esta pasada
     if res.get("pendientes_por_tope"):
         vistos = set(por_gtin) | {d["gtin"] for d in res.get("dudosas", [])} | {s["gtin"] for s in res.get("sin_candidatas", [])}
         todos = [g for g in todos if g in vistos]
@@ -78,6 +80,18 @@ def main():
         json.dump(out, f, ensure_ascii=False, indent=1)
     print("GTIN revisados %d · con tiendas %d · fichas publicadas %d · sin ofertas %d · dudosas sin resolver %d" % (
         len(todos), len(por_gtin), len(hallazgos), len(sin_ofertas), len(pendientes)))
+    # registro de revisiones (haya o no fichas): evita repetir marcas ya trabajadas
+    ahora = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    previo = {}
+    if os.path.exists("revisados.csv"):
+        with open("revisados.csv", newline="", encoding="utf-8-sig") as f:
+            previo = {r["gtin"]: r["fecha"] for r in csv.DictReader(f)}
+    for g in todos:
+        previo[g] = ahora
+    with open("revisados.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f, lineterminator="\n")
+        w.writerow(["gtin", "fecha"])
+        w.writerows(sorted(previo.items()))
     subprocess.check_call([sys.executable, "construir_csv.py", "resultados.json"])
 
 

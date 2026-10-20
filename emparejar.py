@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Fase 2 · paso 2: empareja nuestros productos con las fichas de cada tienda y los COMPRUEBA por GTIN.
 
-Uso:  python emparejar.py "DUREX,SATISFYER"
+Uso:  python emparejar.py "DUREX,SATISFYER" [--pendientes]
+      --pendientes: salta los productos que ya tienen fichas publicadas en competencia.csv (para completar solo lo que falta)
 Necesita haber ejecutado antes `python catalogo.py "DUREX,SATISFYER"` (work/<tienda>.tsv).
 Para cada producto de esas marcas y cada tienda:
   1. puntúa las fichas candidatas por parecido de palabras (marca + artículo + variante),
@@ -82,6 +83,10 @@ def main():
         sys.exit(__doc__)
     marcas = [m.strip() for m in sys.argv[1].split(",") if m.strip()]
     prods = cargar_productos(marcas)
+    if "--pendientes" in sys.argv and os.path.exists("competencia.csv"):
+        with open("competencia.csv", newline="", encoding="utf-8-sig") as f:
+            con_fichas = {r[0] for r in list(csv.reader(f))[2:] if len(r) > 15 and r[15] == "PENDIENTE"}
+        prods = [p for p in prods if p["gtin"] not in con_fichas]
     cat = cargar_catalogos()
     tareas, sin = [], []
     for p in prods:
@@ -108,7 +113,7 @@ def main():
     verificados = [r for k, r in res if k == "ok"]
     dudosas = [r for k, r in res if k == "dudosa"]
     out = {"marcas": marcas, "productos": len(prods), "tiendas_con_catalogo": len([h for h, f in cat.items() if f]), "verificados": verificados,
-           "dudosas": dudosas, "sin_candidatas": sin, "pendientes_por_tope": len(tareas) - len(recorte)}
+           "dudosas": dudosas, "sin_candidatas": sin, "pendientes_por_tope": len(tareas) - len(recorte), "procesados": [p["gtin"] for p in prods]}
     os.makedirs("work", exist_ok=True)
     with open("work/resultado.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
