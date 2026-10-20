@@ -58,7 +58,7 @@ def hojas_sitemap(host, sitemap_pista=""):
 
 
 def cargar_marcas(ruta="gtins.csv"):
-    with open(ruta, newline="", encoding="utf-8") as f:
+    with open(ruta, newline="", encoding="utf-8-sig") as f:
         return sorted({r["marca"].strip() for r in csv.DictReader(f) if r.get("marca")})
 
 
@@ -94,7 +94,7 @@ def main():
     marcas = [m.strip() for m in sys.argv[1].split(",") if m.strip()]
     ruta = sys.argv[2] if len(sys.argv) > 2 else "tiendas.csv"
     os.makedirs("work", exist_ok=True)
-    with open(ruta, newline="", encoding="utf-8") as f:
+    with open(ruta, newline="", encoding="utf-8-sig") as f:
         tiendas = [(r["host"].strip().lower(), (r.get("sitemap") or "").strip(), marcas) for r in csv.DictReader(f) if r.get("host")]
     with ThreadPoolExecutor(max_workers=6) as ex:
         res = list(ex.map(procesar, tiendas))

@@ -16,6 +16,8 @@ La parte mecánica la hacen **scripts** (rastrear catálogos, puntuar candidatas
 ```
 git fetch origin
 git checkout -B claude/competencia-datos origin/claude/competencia-datos 2>/dev/null || git checkout -b claude/competencia-datos
+# trae a esta rama los scripts y listas más recientes de main (no hay conflictos: main no contiene los datos)
+git merge origin/main -m "Sincroniza scripts desde main" --no-edit
 ```
 Los resultados se acumulan en `competencia.csv` de esa rama.
 
@@ -28,13 +30,13 @@ Los resultados se acumulan en `competencia.csv` de esa rama.
 ```
 python catalogo.py "MARCA1,MARCA2"
 ```
-Lee `tiendas.csv` (tiendas conocidas) y guarda en `work/` las fichas de esas marcas de cada tienda. Puede tardar varios minutos; si una tienda falla, el script sigue con las demás.
+Lee `tiendas.csv` (tiendas conocidas) y guarda en `work/` las fichas de esas marcas de cada tienda. Tarda 2-4 minutos: lánzalo **en segundo plano** (`python catalogo.py "MARCA1,MARCA2" > work/catalogo.log 2>&1 &`) y espera a que termine (`wait`, o comprueba `work/resumen_catalogo.json`), porque un comando en primer plano se corta a los 120 s. Si una tienda falla, el script sigue con las demás.
 
 ## Paso 3 · Emparejar y comprobar
 ```
 python emparejar.py "MARCA1,MARCA2"
 ```
-Genera `work/resultado.json` con `verificados` (ficha + GTIN comprobado), `dudosas` (había candidatas pero ninguna pasó la comprobación) y `sin_candidatas`.
+También tarda 2-4 minutos: lánzalo en segundo plano igual que el paso anterior. Genera `work/resultado.json` con `verificados` (ficha + GTIN comprobado), `dudosas` (había candidatas pero ninguna pasó la comprobación) y `sin_candidatas`.
 
 ## Paso 4 · Tu parte: resolver lo que los scripts no emparejan
 Trabaja sobre `dudosas` y `sin_candidatas` (máximo 30 productos por pasada; empieza por los que no tienen **ninguna** tienda verificada):

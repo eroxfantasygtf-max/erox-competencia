@@ -53,7 +53,7 @@ def main():
         sys.exit(1)
     filas = []
     if os.path.exists("envios.csv"):
-        with open("envios.csv", newline="", encoding="utf-8") as f:
+        with open("envios.csv", newline="", encoding="utf-8-sig") as f:
             filas = [r for r in csv.DictReader(f) if r.get("host", "").lower() != host]
     filas.append({"host": host, "sitemap": "", "envio_base": base, "envio_gratis_desde": gratis, "envio_url": url,
                   "comprobado_en": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")})

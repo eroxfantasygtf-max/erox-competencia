@@ -27,7 +27,7 @@ def politicas():
     for ruta in ("tiendas.csv", "envios.csv"):
         if not os.path.exists(ruta):
             continue
-        with open(ruta, newline="", encoding="utf-8") as f:
+        with open(ruta, newline="", encoding="utf-8-sig") as f:
             for r in csv.DictReader(f):
                 base = (r.get("envio_base") or "").strip()
                 url = (r.get("envio_url") or "").strip()
@@ -68,7 +68,7 @@ def main():
     # GTIN revisados = los de las marcas procesadas, salvo los que quedaron pendientes por tope de fichas
     import csv as _csv
     marcas = {m.lower() for m in res.get("marcas", [])}
-    with open("gtins.csv", newline="", encoding="utf-8") as f:
+    with open("gtins.csv", newline="", encoding="utf-8-sig") as f:
         todos = [r["gtin"] for r in _csv.DictReader(f) if r["marca"].strip().lower() in marcas]
     if res.get("pendientes_por_tope"):
         vistos = set(por_gtin) | {d["gtin"] for d in res.get("dudosas", [])} | {s["gtin"] for s in res.get("sin_candidatas", [])}

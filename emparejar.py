@@ -28,7 +28,7 @@ MAX_ABRIR = 1800  # tope de fichas abiertas por pasada
 
 def cargar_productos(marcas, ruta="gtins.csv"):
     ms = {m.lower() for m in marcas}
-    with open(ruta, newline="", encoding="utf-8") as f:
+    with open(ruta, newline="", encoding="utf-8-sig") as f:
         return [r for r in csv.DictReader(f) if r["marca"].strip().lower() in ms]
 
 
@@ -37,7 +37,7 @@ def cargar_catalogos():
     for ruta in glob.glob("work/*.tsv"):
         host = os.path.basename(ruta)[:-4]
         filas = []
-        with open(ruta, encoding="utf-8") as f:
+        with open(ruta, encoding="utf-8-sig") as f:
             for linea in f:
                 u, _, m = linea.rstrip("\n").partition("\t")
                 if u:
