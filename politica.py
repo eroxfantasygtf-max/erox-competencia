@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Registra la política de envíos de una tienda, comprobando que los importes figuran escritos en su página.
 
-Uso:  python politica.py HOST URL_PAGINA_ENVIOS BASE [GRATIS_DESDE]
+Uso:  python politica.py --faltan                      (lista las tiendas con fichas verificadas que AÚN NO tienen política de envíos válida)
+      python politica.py HOST URL_PAGINA_ENVIOS BASE [GRATIS_DESDE]
 Ejemplo:  python politica.py hojafresca.com https://hojafresca.com/content/6-envios-gratis 3.85 49.95
 Comprueba que URL es del mismo dominio, que BASE (y GRATIS_DESDE si se indica) aparecen en el texto de la página y, si es así,
 añade o actualiza la fila de `envios.csv`. Si no aparecen, no escribe nada (código de salida 1).
@@ -32,7 +33,36 @@ def aparece(texto, importe):
     return any(re.search(r"(?<![\d.,])" + f + r"(?!\d)", texto) for f in formas)
 
 
+def tiene_politica(host):
+    """¿Hay base e URL en tiendas.csv o envios.csv para esa tienda? (una fila sin importes NO cuenta)"""
+    for ruta in ("tiendas.csv", "envios.csv"):
+        if os.path.exists(ruta):
+            with open(ruta, newline="", encoding="utf-8-sig") as f:
+                for r in csv.DictReader(f):
+                    if (r.get("host") or "").strip().lower() == host and (r.get("envio_base") or "").strip() and (r.get("envio_url") or "").strip():
+                        return True
+    return False
+
+
+def listar_faltan():
+    import json
+    cuenta = {}
+    for ruta in ("work/resultado.json", "work/extra.json"):
+        if os.path.exists(ruta):
+            with open(ruta, encoding="utf-8") as f:
+                datos = json.load(f)
+            for r in (datos.get("verificados", []) if isinstance(datos, dict) else datos):
+                if r.get("ok") and r.get("host"):
+                    cuenta[r["host"].lower()] = cuenta.get(r["host"].lower(), 0) + 1
+    sin = sorted(((n, h) for h, n in cuenta.items() if not tiene_politica(h)), reverse=True)
+    for n, h in sin:
+        print("%s\t%d fichas verificadas" % (h, n))
+    print("RESUMEN: %d tiendas con fichas verificadas y SIN política de envíos válida" % len(sin))
+
+
 def main():
+    if len(sys.argv) == 2 and sys.argv[1] == "--faltan":
+        return listar_faltan()
     if len(sys.argv) < 4:
         sys.exit(__doc__)
     host, url, base = sys.argv[1].lower(), sys.argv[2], sys.argv[3]
