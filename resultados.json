@@ -1,90 +1,23 @@
 {
- "revisado_en": "2026-10-20T13:02:44Z",
+ "revisado_en": "2026-10-20T13:16:43Z",
  "gtins_revisados": [
-  "810476011383",
-  "810476014667",
-  "810476014971",
-  "810476019914",
-  "4260605480010",
-  "4260605480027",
-  "4260605480034",
-  "4260605480041",
-  "4260605480058",
-  "4260605480065",
-  "4260605480072",
-  "4260605480089",
-  "4260605480096",
-  "4260605480102",
-  "4260605480119",
-  "4260605480126",
-  "4260605480133",
-  "4260605480140",
-  "4260605480157",
-  "4260605480164",
-  "4260605480171",
-  "4260605480188",
-  "4260605480195",
-  "4260605480201",
-  "4260605480218",
-  "4260605482168",
-  "4260605482175",
-  "4260605482182",
-  "4260605482199",
-  "4260605482281",
-  "4260605482298",
-  "4260605482304",
-  "8435565956028"
+  "827160104634",
+  "827160104665",
+  "827160115401",
+  "8058664108336",
+  "8411134135803",
+  "8411134135810",
+  "8411134135834",
+  "8411134135872"
  ],
  "hallazgos": [
   {
-   "gtin": "810476011383",
-   "marca": "FLESHLIGHT",
-   "articulo": "MASTURBADOR BOCA – FLESHLIGHT",
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
    "variante": "",
-   "url": "https://sexshop-online.com/pt/brinquedos-sexuais/fleshlight-boost-masturbador-boca-blow-md-flesh-rp",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); FLESHLIGHT BOOST - MASTURBADOR BOCA BLOW MD FLESH RP-FLESHLIGHT BOOST"
-  },
-  {
-   "gtin": "810476011383",
-   "marca": "FLESHLIGHT",
-   "articulo": "MASTURBADOR BOCA – FLESHLIGHT",
-   "variante": "",
-   "url": "https://orgasmix.es/fleshlight-masturbador-boca-blow-md-flesh.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 🔥 Fleshlight Boost masturbador boca realista | Orgasmix",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "810476011383",
-   "marca": "FLESHLIGHT",
-   "articulo": "MASTURBADOR BOCA – FLESHLIGHT",
-   "variante": "",
-   "url": "https://www.sexshop.express/juguetes-eroticos/3725-fleshlight-boost-masturbador-boca-blow-md-flesh-rp-810476011383.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masturbador Boca Blow MD Flesh RP - Sensación Realista de Sexo Oral",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "810476019914",
-   "marca": "FLESHLIGHT",
-   "articulo": "QUICKSHOT",
-   "variante": "",
-   "url": "https://www.easytoys.es/quickshot-vantage-fleshlight-transparente-p-26466/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Quickshot Vantage Fleshlight - Transparente - EasyToys"
-  },
-  {
-   "gtin": "810476019914",
-   "marca": "FLESHLIGHT",
-   "articulo": "QUICKSHOT",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-vaginas-y-anos/fleshlight-quickshot-vantage-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Fleshlight Quickshot Vantage transparente - Boudoir",
+   "url": "https://www.sexshopboudoir.es/para-clitoris/control-feel-xl-bala-vibradora",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Feel XL, vibrador vaginal 16 cm - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -92,12 +25,20 @@
    }
   },
   {
-   "gtin": "810476019914",
-   "marca": "FLESHLIGHT",
-   "articulo": "QUICKSHOT",
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
    "variante": "",
-   "url": "https://www.sexshop.express/masturbadores-varios/3199-fleshlight-quickshot-vantage-masturbador-810476019914.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Fleshlight Quickshot Vantage: Masturbador Compacto para Parejas",
+   "url": "https://sexshop-online.com/pt/mini-vibradores/control-feel-xl-bala-vibradorad-228296",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL TOYS ★ VIBRADOR BOLA FEEL XL | Silencioso & Poderoso"
+  },
+  {
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
+   "variante": "",
+   "url": "https://www.sexshop.express/mini-vibradores/5341-control-feel-xl-bala-vibradora-8058664108336.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Feel XL Bala Vibratoria - 5 Velocidades, Sumergible y Hipoalergénica",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "55",
@@ -105,135 +46,49 @@
    }
   },
   {
-   "gtin": "810476019914",
-   "marca": "FLESHLIGHT",
-   "articulo": "QUICKSHOT",
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
    "variante": "",
-   "url": "https://sexshop-online.com/pt/masturbadores-varios/fleshlight-quickshot-vantage-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); FLESHLIGHT - QUICKSHOT VANTAGE MASTURBADOR-FLESHLIGHT ORIGIN"
+   "url": "https://dulcespecados.com/balas-vibradoras/4693-control-feel-xl-bala-vibradorad-228296-8058664108336.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control - Feel XL Bala Vibradora | Dulces Pecados"
   },
   {
-   "gtin": "4260605482175",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xl-60mm-100-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XL 60mm 100 uds – Condonesmix",
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "PJUR ANALYSE ME",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-relajacion-anal/pjur-analyse-me-gel-relajante-anal-30-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur analyse me! Relaxing 30 ml, lubricante anal - Boudoir",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
    }
   },
   {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxl-64-mm-100-unidadesd-242303",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (100 UNIDADES)"
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "PJUR ANALYSE ME",
+   "variante": "",
+   "url": "https://www.easytoys.es/pjur-analyse-me-lubricante-anal-a-base-de-silicona-30-ml-p-61511/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Analyse Me! Lubricante anal a base de silicona - 30 ml - EasyToys"
   },
   {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xl-64mm-100-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XL 64mm 100 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "PJUR ANALYSE ME",
+   "variante": "",
+   "url": "https://lovegames.es/lubricantes-sexuales-relajacion-anal/pjur-analyse-me-lubricante-anal-glide-30-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Analyse Me! Lubricante Anal Glide 30 ml"
   },
   {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-100-unidadesd-242304",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xxl-69mm-100-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XXL 69mm 100 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-100-unidadesd-242298",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO XS 47 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-xs-47mm-100-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XS 47mm 100 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-47-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 47 caja 3 uds extrafino – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 3",
-   "url": "https://www.almacenerotico.com/602-3-preservativos-mister-size-talla-47-extrafinos-4260605480010.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos Mister Size Talla 47 Extrafinos",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "60",
-    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-60-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 60 Caja 3 uds extrafinos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xl-60-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 3 Unidades Ajuste Perfecto",
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "PJUR ANALYSE ME",
+   "variante": "",
+   "url": "https://factormujer.com/lubricante-pjur-analyse-silicona-30ml",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Pjur Analyse Silicona 30ml - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -241,25 +96,12 @@
    }
   },
   {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 3 uds extrafinos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xxl-64-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (3 uds)",
+   "gtin": "827160104665",
+   "marca": "PJUR",
+   "articulo": "PJUR BACK DOOR",
+   "variante": "",
+   "url": "https://factormujer.com/lubricante-anal-pjur-back-door-silicona-30ml",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lubricante anal Pjur Back Door - silicona (30ml)",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -267,25 +109,33 @@
    }
   },
   {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-3-uds-extrafino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 caja 3 uds extrafino – Condonesmix",
+   "gtin": "827160104665",
+   "marca": "PJUR",
+   "articulo": "PJUR BACK DOOR",
+   "variante": "",
+   "url": "https://www.easytoys.es/pjur-back-door-lubricante-relajante-de-silicona-30ml-p-66066/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur® BACK DOOR Lubricante Relajante de Silicona - 30ml - EasyToys"
+  },
+  {
+   "gtin": "827160115401",
+   "marca": "PJUR",
+   "articulo": "PJUR ORIGINAL",
+   "variante": "",
+   "url": "https://almasecreta.es/producto/pjur-original-30-ml",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160115401»); Pjur Original 30 ml | Alma Secreta",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
    }
   },
   {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xxxl-69-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (3 uds)",
+   "gtin": "827160115401",
+   "marca": "PJUR",
+   "articulo": "PJUR ORIGINAL",
+   "variante": "",
+   "url": "https://factormujer.com/lubricante-pjur-original-bodyglide-silicona-30ml",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lubricante Pjur ORIGINAL Bodyglide silicona (30ml) - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -293,281 +143,199 @@
    }
   },
   {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xs-47-mm-10-unidadesd-242276",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 10",
-   "url": "https://www.easytoys.es/mister-size-xs-preservativos-ultrafinos-10-unidades-p-43864/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE Preservativos de 47 mm 10 unidades - EasyToys"
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-36-unidadesd-242283",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 36",
-   "url": "https://www.easytoys.es/mister-size-xs-preservativos-ultrafinos-36-unidades-p-43885/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE 47 mm Preservativos 36 piezas - EasyToys"
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 10",
-   "url": "https://factormujer.com/mister-size-xl-60-10",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 10 Unidades Ajuste Perfecto",
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Thai Passion",
+   "url": "https://www.farmaciasdirect.es/products/control-thai-passion-2-in-1-massaje-pleasure-gel-200-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Lubricante Thai Passion, 200 Ml al mejor precio.",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 36",
-   "url": "https://factormujer.com/mister-size-xl-60-36",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 36 Unidades Ajuste Perfecto",
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Thai Passion",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/control-2-1-massage-pleasure-thai-passion-200ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control 2 en 1 gel de masaje Thai Passion 200 ml - Boudoir",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
    }
   },
   {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 10 uds extrafinos – Condonesmix",
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Thai Passion",
+   "url": "https://sexshop-online.com/pt/oleos-com-sabor/control-2-en-1-massage-pleasure-thai-passion-200-mld-216117",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - 2 EN 1 MASSAGEM & PRAZER TAILANDÊS PAIXO 200 ML"
+  },
+  {
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Thai Passion",
+   "url": "https://www.sexshop.express/aceites-con-sabores/1330-control-2-en-1-massage-pleasure-thai-passion-200-ml-8411134135810.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Gel 2 en 1 Masaje y Placer Thai Passion 200 ml - Hidratante y Sensual",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "3.99",
+    "gratis_desde": "55",
+    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
    }
   },
   {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xxl-64-mm-10-unidadesd-242281",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (10 UNIDADES)"
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Thai Passion",
+   "url": "https://dulcespecados.com/aceites-con-sabores/1156-control-2-en-1-massage-pleasure-thai-passion-200-mld-216117-8411134135810.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control - 2 en 1 Massage & Pleasure Thai Passion 200 ml"
   },
   {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://www.easytoys.es/mister-size-xxl-preservativos-ultrafinos-10-unidades-p-43879/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE 64 mm Condooms 10 stuks - EasyToys"
-  },
-  {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 10",
-   "url": "https://factormujer.com/mister-size-xxl-64-10",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (10 uds)",
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Mediterranean Sea",
+   "url": "https://farmaciatana.es/2483-control-gel-mediterranean-sea-200-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control gel Mediterranean Sea 200 ml | Farmacia Tañá",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "4.99",
+    "gratis_desde": "39.00",
+    "url": "https://farmaciatana.es/content/1-entrega"
    }
   },
   {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-36-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 36 uds extrafinos – Condonesmix",
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Mediterranean Sea",
+   "url": "https://www.farmaciasdirect.es/products/control-lubricante-mediterranean-sea-200-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Lubricante Mediterranean Sea, 200 Ml al mejor precio.",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 36",
-   "url": "https://factormujer.com/mister-size-xxl-64-36",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (36 uds)",
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Mediterranean Sea",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/control-2-1-massage-pleasure-mediterranean-sea-200ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control 2 en 1 gel de masaje Ocean Spa 200 ml - Boudoir",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
    }
   },
   {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 36",
-   "url": "https://www.easytoys.es/mister-size-xxl-preservativos-ultrafinos-36-unidades-p-43900/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE 64 mm Condones 36 piezas - EasyToys"
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Mediterranean Sea",
+   "url": "https://sexshop-online.com/pt/oleos-sem-sabor/control-2-en-1-massage-pleasure-mediterranean-sea-200-mld-216116",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - 2 EN 1 MASSAGEM & PRAZER MAR MEDITERRNICO 200 ML"
   },
   {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxl-64-mm-36-unidadesd-242288",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-10-uds-extrafinos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 Caja 10 uds extrafinos – Condonesmix",
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Mediterranean Sea",
+   "url": "https://www.sexshop.express/aceites-sin-sabores/1272-control-2-en-1-massage-pleasure-mediterranean-sea-200-ml-8411134135872.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Gel 2 en 1 Masaje y Placer Mediterráneo 200 ml - Hidratante y Sensual",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "3.99",
+    "gratis_desde": "55",
+    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
    }
   },
   {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 10",
-   "url": "https://www.easytoys.es/mister-size-xxxl-preservativos-ultrafinos-10-unidades-p-43882/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE Preservativos de 69 mm 10 unidades - EasyToys"
+   "gtin": "8411134135803",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Exotic",
+   "url": "https://sexshop-online.com/pt/oleos-com-sabor/control-2-en-1-massage-pleasure-exotic-200-mld-216115",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - 2 EN 1 MASSAGEM & PRAZER EXÓTICO 200 ML"
   },
   {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 10",
-   "url": "https://factormujer.com/mister-size-xxxl-69-10",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (10 uds)",
+   "gtin": "8411134135803",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Exotic",
+   "url": "https://farmaciatana.es/2476-control-exotic-escape-200-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Exotic Escape 200 ml | Comprar Online | Farmacia Tañá",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "4.99",
+    "gratis_desde": "39.00",
+    "url": "https://farmaciatana.es/content/1-entrega"
    }
   },
   {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xxxl-69-mm-10-unidadesd-242282",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-36-uds-extrafino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 caja 36 uds extrafino – Condonesmix",
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Madagascar Sweetness",
+   "url": "https://www.farmaciasdirect.es/products/control-madagascar-sweetness-vainilla-gel-de-masaje-2-en-1-200ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Madagascar Sweetness Vainilla Gel De Masaje 2 En 1, 200Ml al mejo",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 36",
-   "url": "https://www.easytoys.es/mister-size-xxxl-preservativos-ultrafinos-36-unidades-p-43903/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE Preservativos de 69 mm 36 unidades - EasyToys"
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 36",
-   "url": "https://factormujer.com/mister-size-xxxl-69-36",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (36 uds)",
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Madagascar Sweetness",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/control-2-1-massage-pleasure-madagascar-sweetness-200ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control 2 en 1 gel de masaje Sweet Vanilla 200 ml - Boudoir",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
    }
   },
   {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 69mm, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-36-unidadesd-242289",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 49mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-49-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 49 Caja 3 uds – Condonesmix",
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Madagascar Sweetness",
+   "url": "https://farmaciatana.es/2482-control-gel-madagascar-sweetness-200-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control gel Madagascar Sweetness 200 ml | Farmacia Tañá",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "4.99",
+    "gratis_desde": "39.00",
+    "url": "https://farmaciatana.es/content/1-entrega"
    }
   },
   {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 53mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-53-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister size Talla 53 Caja 3 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Madagascar Sweetness",
+   "url": "https://sexshop-online.com/pt/oleos-com-sabor/control-2-en-1-massage-pleasure-madagascar-sweetness-200-mld-216118",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - 2 EN 1 MASSAGEM E PRAZER MADAGASCAR DOCE 200 ML"
   },
   {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 57mm, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-talla-57-caja-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 57 Caja 3 uds extrafinos – Condonesmix",
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "CONTROL LUBRICANTE EXOTIC 2 EN 1",
+   "variante": "Aroma: Madagascar Sweetness",
+   "url": "https://www.sexshop.express/aceites-con-sabores/1331-control-2-en-1-massage-pleasure-madagascar-sweetness-200-ml-8411134135834.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Gel 2 en 1 Masaje y Placer Madagascar Sweetness 200 ml - Sensualidad",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 57mm, Unidades: 3",
-   "url": "https://www.almacenerotico.com/603-3-preservativos-mister-size-talla-57-extrafinos-4260605480102.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos Mister Size Talla 57 Extrafinos",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "60",
-    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
+    "base": "3.99",
+    "gratis_desde": "55",
+    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
    }
   }
  ],
