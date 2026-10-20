@@ -23,7 +23,7 @@ from verificar import verificar
 
 TOP = 3          # fichas que se abren por producto y tienda
 UMBRAL = 0.34    # parecido mínimo de palabras
-MAX_ABRIR = 700  # tope de fichas abiertas por pasada
+MAX_ABRIR = 1800  # tope de fichas abiertas por pasada
 
 
 def cargar_productos(marcas, ruta="gtins.csv"):
@@ -94,6 +94,8 @@ def main():
         if not hubo:
             sin.append({"gtin": p["gtin"], "marca": p["marca"], "articulo": p["articulo"], "variante": p.get("variante", "")})
     # reparto justo si hay demasiadas: se limita el número de fichas abiertas
+    # reparto por rondas: primero la mejor candidata de cada (producto, tienda) y así todos los productos reciben su parte del tope
+    tareas.sort(key=lambda t: (-t[2][0][0], t[0]['gtin']))
     abiertas = 0
     recorte = []
     for t in tareas:

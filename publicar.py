@@ -5,8 +5,8 @@ Uso:  python publicar.py
 Lee   work/resultado.json   (de emparejar.py)  y, si existe, work/extra.json (fichas añadidas por la IA y comprobadas con verificar.py,
       mismo formato que los elementos de «verificados»).
 Aplica:
-  · como máximo 5 tiendas por GTIN (las de menor precio visible),
-  · la política de envíos de cada tienda desde tiendas.csv (el módulo la vuelve a comprobar leyendo su página),
+  · como máximo 5 tiendas por GTIN (primero las que están en stock, y las de menor precio visible),
+  · la política de envíos de cada tienda desde tiendas.csv y envios.csv (el módulo la vuelve a comprobar leyendo su página),
   · «sin ofertas» solo si hay catálogos de ≥ 8 tiendas rastreados y ninguna candidata.
 Nunca publica una ficha cuyo GTIN no haya sido comprobado.
 """
@@ -21,18 +21,19 @@ MAX_TIENDAS = 5
 MIN_TIENDAS_SIN_OFERTAS = 8
 
 
-def politicas(ruta="tiendas.csv"):
+def politicas():
+    """Políticas de envío por tienda: `tiendas.csv` (lista que mantienes tú) y `envios.csv` (las que aprende esta tarea; mandan sobre las vacías)."""
     out = {}
-    if not os.path.exists(ruta):
-        return out
-    with open(ruta, newline="", encoding="utf-8") as f:
-        for r in csv.DictReader(f):
-            base = (r.get("envio_base") or "").strip()
-            url = (r.get("envio_url") or "").strip()
-            if base and url:
-                out[r["host"].strip().lower()] = {"base": base, "gratis_desde": (r.get("envio_gratis_desde") or "").strip(), "url": url}
+    for ruta in ("tiendas.csv", "envios.csv"):
+        if not os.path.exists(ruta):
+            continue
+        with open(ruta, newline="", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                base = (r.get("envio_base") or "").strip()
+                url = (r.get("envio_url") or "").strip()
+                if base and url and r.get("host"):
+                    out[r["host"].strip().lower()] = {"base": base, "gratis_desde": (r.get("envio_gratis_desde") or "").strip(), "url": url}
     return out
-
 
 def main():
     with open("work/resultado.json", encoding="utf-8") as f:
@@ -48,7 +49,8 @@ def main():
             por_gtin.setdefault(r["gtin"], {})[r["host"]] = r
     hallazgos = []
     for gtin, tiendas in por_gtin.items():
-        orden = sorted(tiendas.values(), key=lambda r: (r.get("precio") is None, r.get("precio") or 0))[:MAX_TIENDAS]
+        # primero las que están en stock y, dentro de ellas, las de menor precio visible
+        orden = sorted(tiendas.values(), key=lambda r: (r.get("disponibilidad") == "OutOfStock", r.get("precio") is None, r.get("precio") or 0))[:MAX_TIENDAS]
         for r in orden:
             h = {"gtin": gtin, "marca": r.get("marca", ""), "articulo": r.get("articulo", ""), "variante": r.get("variante", ""), "url": r["url"],
                  "evidencia": "GTIN comprobado por código (%s: %s); %s" % (r["nivel"], r["evidencia"], (r.get("titulo") or "")[:80])}

@@ -46,6 +46,17 @@ Trabaja sobre `dudosas` y `sin_candidatas` (máximo 30 productos por pasada; emp
 3. Añade a `work/extra.json` (lista JSON) los resultados con `"ok": true`, completando `host` (dominio de la URL), `marca`, `articulo` y `variante` con los de `gtins.csv`.
 4. Si ninguna tienda del catálogo tiene el producto, **no inventes**: déjalo. Opcional, para productos importantes: busca la ficha con Bing desde la terminal, por ejemplo `curl -s -A "Mozilla/5.0" "https://www.bing.com/search?q=site:TIENDA+MARCA+ARTICULO&cc=es&setlang=es&mkt=es-ES"` y comprueba cada URL con `verificar.py`.
 
+## Paso 4b · Políticas de envío de las tiendas que salieron verificadas
+El módulo **no usa una ficha si no puede comprobar los portes a domicilio**. Mira `work/resultado.json` (y `work/extra.json`): para cada tienda con fichas verificadas que **no tenga** política en `tiendas.csv` ni en `envios.csv` (máximo 15 tiendas por pasada, las que más fichas tengan):
+1. Busca su página de envíos / gastos de envío (enlace del pie de página, «envíos», «condiciones de compra», «entrega»): `curl` a la portada y `grep -i` por esos enlaces.
+2. Lee el texto de esa página y localiza el **importe base del envío estándar a domicilio en península** y, si existe, el **pedido mínimo para envío gratis**. Si hay varias tarifas, usa la de un pedido pequeño de un solo artículo ligero. Si no queda claro, no registres esa tienda.
+3. Regístrala con el script, que comprueba que los importes están escritos en la página:
+   ```
+   python politica.py DOMINIO URL_PAGINA_ENVIOS BASE [GRATIS_DESDE]
+   ```
+   (importes con punto decimal, p. ej. `4.90 50`). Si dice `NO`, corrige o descarta la tienda.
+`envios.csv` se sube con el resto (Paso 6).
+
 ## Paso 5 · Publicar
 ```
 python publicar.py
@@ -53,7 +64,7 @@ python publicar.py
 Elige hasta 5 tiendas por GTIN (las de menor precio visible), añade la política de envíos de `tiendas.csv`, escribe `resultados.json` y genera `competencia.csv` (uniéndolo a lo ya publicado; descarta filas de más de 21 días).
 
 ## Paso 6 · Subir
-Haz commit de `competencia.csv` y `resultados.json` y súbelo: `git push origin claude/competencia-datos`. Si lo rechaza, `git pull --rebase origin claude/competencia-datos` y repite; si hay conflicto en `competencia.csv`, rehazlo ejecutando `publicar.py` partiendo de la versión remota.
+Haz commit de `competencia.csv`, `resultados.json` y `envios.csv` (si existe) y súbelo: `git push origin claude/competencia-datos`. Si lo rechaza, `git pull --rebase origin claude/competencia-datos` y repite; si hay conflicto en `competencia.csv`, rehazlo ejecutando `publicar.py` partiendo de la versión remota.
 
 ## Resumen final (corto)
 Marcas procesadas · productos · productos con ≥1 tienda verificada · fichas publicadas · tiendas rastreadas con éxito y las que fallaron · casos con título incoherente · tiempo aproximado.
