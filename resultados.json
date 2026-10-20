@@ -1,0 +1,19 @@
+{
+  "revisado_en": "2026-10-20T10:00:38Z",
+  "gtins_revisados": ["8428076001059","4061504006819","8411134135872","4049369015030","7350022270312"],
+  "hallazgos": [
+    {"gtin":"8428076001059","marca":"DUREX","articulo":"DUREX SENSITIVO SUAVE","variante":"3 Unidades","url":"https://ladrogueria.com/preservativos/1849-preservativo-sensitivo-suave-3-8428076001059.html","evidencia":"pos. 1 en Bing (consulta 1) y 2 (consulta 2); ean13 visible en la ficha"},
+    {"gtin":"8428076001059","marca":"DUREX","articulo":"DUREX SENSITIVO SUAVE","variante":"3 Unidades","url":"https://cosmeticobank.com/es/inicio/23815-preservativos-sensitive-3-unidades-durex-8428076001059.html","evidencia":"pos. 2 en Bing (consulta 1); GTIN en la URL de la ficha, caja de 3 unidades"},
+    {"gtin":"4061504006819","marca":"SATISFYER","articulo":"SATISFYER TRENDSETTER","variante":"Negro","url":"https://www.gelesenergeticosdeporte.com/product/satisfyer-connect-trendsetter-plug-vibrador-app-negro/","evidencia":"pos. 2 en Bing (consulta 3); SKU SA4061504006819 en la ficha, color negro"},
+    {"gtin":"4061504006819","marca":"SATISFYER","articulo":"SATISFYER TRENDSETTER","variante":"Negro","url":"https://www.placerintenso.es/47184-satisfyer-trendsetter-connect-app-negro.html","evidencia":"pos. 4 en Bing (consulta 3); sin EAN visible, marca+modelo+color negro coinciden"},
+    {"gtin":"8411134135872","marca":"CONTROL","articulo":"CONTROL LUBRICANTE EXOTIC 2 EN 1","variante":"Mediterranean Sea","url":"https://hojafresca.com/otros/21304-mediterranean-sea-massage-gel-200ml-de-control-8411134135872.html","evidencia":"pos. 4 en Bing (consulta 1); GTIN como Referencia y en la URL"},
+    {"gtin":"8411134135872","marca":"CONTROL","articulo":"CONTROL LUBRICANTE EXOTIC 2 EN 1","variante":"Mediterranean Sea","url":"https://www.farmaciasdirect.es/products/control-lubricante-mediterranean-sea-200-ml","evidencia":"pos. 2 en Bing (consulta 2) y 1 (consulta 3); sin EAN visible, marca+modelo+aroma 200 ml coinciden; InStock"},
+    {"gtin":"4049369015030","marca":"SATISFYER","articulo":"SATISFYER PRO 2","variante":"","url":"https://canarycompras.com/es/inicio/55899-succionador-de-clitoris-pro-2-next-gen-version-2020-satisfyer-4049369015030.html","evidencia":"pos. 2 en Bing (consulta 1); ean13 visible, en stock"},
+    {"gtin":"4049369015030","marca":"SATISFYER","articulo":"SATISFYER PRO 2","variante":"","url":"https://comercialatalaya.com/producto/succionador-de-clitoris-pro-2-next-gen-version-2020-satisfyer-4049369015030/","evidencia":"pos. 3 en Bing (consulta 1); GTIN como SKU, hay existencias"},
+    {"gtin":"4049369015030","marca":"SATISFYER","articulo":"SATISFYER PRO 2","variante":"","url":"https://www.kriplus.es/9772-air-pulse-stimulator-satisfyer-pro-2-next-generati-4049369015030.html","evidencia":"pos. 6 en Bing (consulta 1); GTIN en la URL, en stock"},
+    {"gtin":"7350022270312","marca":"LELO","articulo":"LELO LUNA BEADS CLASSIC","variante":"","url":"https://levelfisio.com/es/bolas-chinas/1463-lelo-luna-beads-7350022270312.html","evidencia":"pos. 2 en Bing (consulta 1), 1 (consulta 2) y 1 (consulta 3); GTIN en la URL, versión 35 mm classic","politica_envio":{"base":"4.95","gratis_desde":"99","url":"https://levelfisio.com/es/content/1-condiciones-generales-de-venta"}},
+    {"gtin":"7350022270312","marca":"LELO","articulo":"LELO LUNA BEADS CLASSIC","variante":"","url":"https://www.almacenerotico.com/12144-bolas-lelo-luna-beads-7350022270312.html","evidencia":"pos. 3 en Bing (consulta 1); GTIN en la URL, últimas unidades en stock"},
+    {"gtin":"7350022270312","marca":"LELO","articulo":"LELO LUNA BEADS CLASSIC","variante":"","url":"https://www.puntlove.es/bolas-chinas/terapeuticas-con-pesos/producto/bolas-chinas-lelo-luna-beads/","evidencia":"pos. 6 en Bing (consulta 1) y 4 (consulta 3); GTIN como Ref. en la ficha"}
+  ],
+  "sin_ofertas": []
+}
