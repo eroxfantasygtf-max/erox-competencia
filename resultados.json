@@ -1,0 +1,20 @@
+{
+  "revisado_en": "2026-10-20T09:24:35Z",
+  "gtins_revisados": ["8428076001059","4061504006819","8411134135872","4049369015030","7350022270312"],
+  "hallazgos": [
+    {"gtin":"8428076001059","marca":"DUREX","articulo":"DUREX SENSITIVO SUAVE","variante":"3 Unidades",
+     "url":"https://www.farmaciasdirect.eu/products/durex-condoms-sensitive-soft-sensitive-condoms-thin-for-sensitivity-3-condoms",
+     "evidencia":"SKU DU8428076001059 en la ficha, pack de 3 preservativos, InStock"},
+    {"gtin":"8411134135872","marca":"CONTROL","articulo":"CONTROL LUBRICANTE EXOTIC 2 EN 1","variante":"Aroma: Mediterranean Sea",
+     "url":"https://www.promofarma.com/en/control-mediterranean-sea-massage-200ml/p-84563",
+     "evidencia":"Control Mediterranean Sea 2 en 1 200 ml; el EAN 8411134135872 corresponde a este producto según la ficha de Primor (agotada); la ficha no muestra el EAN"}
+  ],
+  "sin_ofertas": [
+    {"gtin":"4061504006819","marca":"SATISFYER","articulo":"SATISFYER TRENDSETTER","variante":"Color: Negro",
+     "consultas":["\"4061504006819\" satisfyer trendsetter","satisfyer trendsetter negro plug anal vibrador comprar tienda España"],"motivo":"Solo tiendas fuera de España (Galaxus, Notino FR/UK); ninguna tienda española localizada"},
+    {"gtin":"4049369015030","marca":"SATISFYER","articulo":"SATISFYER PRO 2","variante":"",
+     "consultas":["\"4049369015030\" satisfyer pro 2","satisfyer pro 2 comprar EAN 4049369015030 sexshop"],"motivo":"Solo eBay, Rossmann DE y Shop Apotheke AT (vendedor externo); ninguna tienda española verificada"},
+    {"gtin":"7350022270312","marca":"LELO","articulo":"LELO LUNA BEADS CLASSIC","variante":"",
+     "consultas":["\"7350022270312\" lelo luna beads classic","lelo luna beads classic comprar sexshop españa"],"motivo":"Solo tiendas fuera de España (Dermstore, Beautysense, Apotea); ninguna tienda española localizada"}
+  ]
+}
