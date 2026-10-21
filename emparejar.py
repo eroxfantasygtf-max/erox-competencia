@@ -19,7 +19,7 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 
-from utiles import clave_gtin, tokens
+from utiles import clave_gtin, firma_articulo, tokens
 from verificar import verificar
 
 TOP = 3          # fichas que se abren por producto y tienda
@@ -52,9 +52,10 @@ def candidatas(prod, filas):
     # los números de la variante (3, 12, 45 mm…) deben coincidir si aparecen en nuestra variante
     nums = set(re.findall(r"\d+", prod.get("variante", "") or ""))
     bt = set(tokens(prod["marca"]))
+    firma = firma_articulo(prod["marca"], prod["articulo"])      # fichas cuya URL no lleva la marca pero sí el nombre de la línea
     puntuadas = []
     for u, slug, m in filas:
-        if not bt <= slug or not qt:
+        if not (bt <= slug or (firma and firma <= slug)) or not qt:
             continue
         acierto = sum(1 for t in qt if t in slug)
         score = acierto / len(qt)
