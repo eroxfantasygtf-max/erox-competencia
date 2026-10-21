@@ -24,7 +24,7 @@ from verificar import verificar
 
 TOP = 3          # fichas que se abren por producto y tienda
 UMBRAL = 0.34    # parecido mínimo de palabras
-MAX_ABRIR = 1800  # tope de fichas abiertas por pasada
+MAX_ABRIR = 2400  # tope de fichas abiertas por pasada (repartido por rondas entre todos los productos)
 
 
 def cargar_productos(marcas, ruta="gtins.csv"):
@@ -78,6 +78,35 @@ def trabajo(args):
                        "candidatas": [u for _, u in cands]})
 
 
+def repartir(tareas, tope):
+    """Reparte el tope de fichas abiertas por RONDAS entre productos: primero la mejor tienda candidata de cada producto, luego la segunda…
+    Así ningún producto se queda sin revisar porque otros tengan muchas candidatas (antes se ordenaba solo por parecido)."""
+    por_gtin = {}
+    for t in tareas:
+        por_gtin.setdefault(t[0]["gtin"], []).append(t)
+    for lst in por_gtin.values():
+        lst.sort(key=lambda t: -t[2][0][0])
+    gtins = sorted(por_gtin)
+    orden = []
+    ronda = 0
+    while True:
+        hubo = False
+        for g in gtins:
+            if ronda < len(por_gtin[g]):
+                orden.append(por_gtin[g][ronda])
+                hubo = True
+        if not hubo:
+            break
+        ronda += 1
+    recorte, abiertas = [], 0
+    for t in orden:
+        if abiertas + len(t[2]) > tope:
+            break
+        abiertas += len(t[2])
+        recorte.append(t)
+    return recorte
+
+
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
@@ -98,16 +127,8 @@ def main():
                 tareas.append((p, host, c))
         if not hubo:
             sin.append({"gtin": p["gtin"], "marca": p["marca"], "articulo": p["articulo"], "variante": p.get("variante", "")})
-    # reparto justo si hay demasiadas: se limita el número de fichas abiertas
-    # reparto por rondas: primero la mejor candidata de cada (producto, tienda) y así todos los productos reciben su parte del tope
-    tareas.sort(key=lambda t: (-t[2][0][0], t[0]['gtin']))
-    abiertas = 0
-    recorte = []
-    for t in tareas:
-        if abiertas + len(t[2]) > MAX_ABRIR:
-            break
-        abiertas += len(t[2])
-        recorte.append(t)
+    # si hay demasiadas, se limita el número de fichas abiertas repartiéndolo entre TODOS los productos
+    recorte = repartir(tareas, MAX_ABRIR)
     with ThreadPoolExecutor(max_workers=6) as ex:
         res = list(ex.map(trabajo, recorte))
     verificados = [r for k, r in res if k == "ok"]
