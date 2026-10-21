@@ -1,117 +1,48 @@
 {
- "revisado_en": "2026-10-21T16:27:18Z",
+ "revisado_en": "2026-10-21T17:04:22Z",
  "gtins_revisados": [
   "810476011383",
   "810476014667",
   "810476014971",
   "810476019914",
-  "4049369015030",
-  "4049369015054",
-  "4049369015108",
-  "4049369015115",
-  "4049369015504",
-  "4049369015832",
-  "4049369015849",
-  "4049369015856",
-  "4049369015887",
-  "4049369016419",
-  "4049369016488",
-  "4049369016495",
-  "4049369016501",
-  "4049369016518",
-  "4049369016525",
-  "4049369016532",
-  "4049369016570",
-  "4049369043408",
-  "4049369043415",
-  "4049369043422",
-  "4061504001753",
-  "4061504002019",
-  "4061504002033",
-  "4061504002057",
-  "4061504003252",
-  "4061504003269",
-  "4061504003337",
-  "4061504006819",
-  "4061504006826",
-  "4061504009872",
-  "4061504009889",
-  "4061504010007",
-  "4061504010014",
-  "4061504010021",
-  "4061504037332",
-  "4061504045054",
-  "4061504046006",
-  "4061504046013",
-  "4061504046020",
-  "4061504051857",
-  "4061504051864",
-  "4061504065847",
-  "4061504092584",
   "4260605480010",
   "4260605480027",
   "4260605480034",
   "4260605480041",
+  "4260605480058",
+  "4260605480065",
   "4260605480072",
+  "4260605480089",
+  "4260605480096",
   "4260605480102",
+  "4260605480119",
+  "4260605480126",
   "4260605480133",
   "4260605480140",
   "4260605480157",
-  "4260605480164"
+  "4260605480164",
+  "4260605480171",
+  "4260605480188",
+  "4260605480195",
+  "4260605480201",
+  "4260605480218",
+  "4260605482168",
+  "4260605482175",
+  "4260605482182",
+  "4260605482199",
+  "4260605482281",
+  "4260605482298",
+  "4260605482304",
+  "8435565956028"
  ],
  "hallazgos": [
   {
-   "gtin": "4049369015030",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://comercialatalaya.com/producto/succionador-de-clitoris-pro-2-next-gen-version-2020-satisfyer-4049369015030/",
-   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 4049369015030); SUCCIONADOR DE CLITORIS PRO 2 NEXT GEN VERSION 2020 SATISFYER 4049369015030 | Co"
-  },
-  {
-   "gtin": "4049369015030",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://www.promofarma.com/es/vb/satisfyer-pro-2",
-   "evidencia": "GTIN comprobado por código (estructurado: dato «gtin» en la ficha); Satisfyer pro 2 | PromoFarma"
-  },
-  {
-   "gtin": "4049369015030",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://sexplace.es/satisfyer-pro/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - PRO 2 NEXT GENERATION | SexPlace.ES"
-  },
-  {
-   "gtin": "4049369015054",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://sexplace.es/kit-fundas-satisfyer-pro-2-next-generation/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); KIT FUNDAS SATISFYER PRO 2 NEXT GENERATION - Sexplace.es"
-  },
-  {
-   "gtin": "4049369015054",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://www.diversual.com/es/satisfyer-repuesto-pro-2-boquillas-5-uds-96694.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Repuesto Pro 2 Boquillas 5 Uds, Accesorio - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4049369015054",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/satisfyer-pro-2-ng-kit-fundas-5pcs",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Cabezales Satisfyer pro 2 kit 5pcs – Condonesmix",
+   "gtin": "4260605480010",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 3",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-47-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 47 caja 3 uds extrafino – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -119,25 +50,33 @@
    }
   },
   {
-   "gtin": "4049369015054",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://factormujer.com/kit-de-5-fundas-satisfyer-pro2",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Kit de 5 fundas Satisfyer pro2",
+   "gtin": "4260605480010",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 3",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-47mm-caja-3/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 47mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
    }
   },
   {
-   "gtin": "4049369015054",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO 2",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/6587-satisfyer-pro-2-kit-5-fundas-4049369015054.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Pro 2 Kit 5 Fundas",
+   "gtin": "4260605480010",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 3",
+   "url": "https://mascondon.com/1433-mister-size-47-mm-3-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 47 (3 unidades): Experimenta la máxima comodidad y segurida"
+  },
+  {
+   "gtin": "4260605480010",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 3",
+   "url": "https://www.almacenerotico.com/602-3-preservativos-mister-size-talla-47-extrafinos-4260605480010.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos Mister Size Talla 47 Extrafinos",
    "politica_envio": {
     "base": "5.95",
     "gratis_desde": "60",
@@ -145,77 +84,70 @@
    }
   },
   {
-   "gtin": "4049369015108",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://www.diversual.com/es/satisfyer-pro-penguin-estimulador-mujer-94460.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Penguin | Succionador clítoris pingüino - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
+   "gtin": "4260605480010",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (3 UNIDADES)"
   },
   {
-   "gtin": "4049369015108",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://almasecreta.es/producto/satisfyer-succionador-de-clitoris-pro-penguin-next-gen-nego-blanco",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Pro Penguin Next Gen Nego, Blanco | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
+   "gtin": "4260605480027",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 10",
+   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xs-47-mm-10-unidadesd-242276",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (10 UNIDADES)"
   },
   {
-   "gtin": "4049369015108",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-pro-penguin-ng-nueva-edicion-2020",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Pro Penguin Ng Nueva Edición 2020 al mejor precio.",
+   "gtin": "4260605480027",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 10",
+   "url": "https://www.easytoys.es/mister-size-xs-preservativos-ultrafinos-10-unidades-p-43864/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE Preservativos de 47 mm 10 unidades - EasyToys"
+  },
+  {
+   "gtin": "4260605480027",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 10",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-4-a-24/mister-size-preservativos-talla-xs-47-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (10 UNIDADES) | Maskeamor.com",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
    }
   },
   {
-   "gtin": "4049369015108",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://www.noestabu.com/tienda-online/id/satisfyer-pro-penguin-next-generation",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Pro Penguin ❤️ ¡Ondas de Placer y Elegancia!",
+   "gtin": "4260605480027",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 10",
+   "url": "https://losjuguetesdera.es/products/mister-size-preservativos-talla-xs-47-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (10 UNIDADES) – losjuguetesdera",
    "politica_envio": {
-    "base": "5.90",
-    "gratis_desde": "40.00",
-    "url": "https://www.noestabu.com/sexshop-entrega-especial-en-sabado"
+    "base": "3.99",
+    "gratis_desde": "65.00",
+    "url": "https://losjuguetesdera.es/pages/gastos-de-envios"
    }
   },
   {
-   "gtin": "4049369015108",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://divinoysecreto.com/satisfyer-succionador-de-clitoris-pro-penguin-next-gen-nego-blanco.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Comprar Satisfyer Succionador de Clítoris Pro Penguin Next Gen Nego, Blanco ▷▷ e",
-   "politica_envio": {
-    "base": "4.50",
-    "gratis_desde": "39.99",
-    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
-   }
+   "gtin": "4260605480027",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 10",
+   "url": "https://loquequierashop.com/products/mister-size-condoms-size-xs-47-mm-10-units",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - CONDONES TALLA XS 47 MM (10 UNIDADES) – Lo Que Quieras"
   },
   {
-   "gtin": "4049369015115",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/fundas-satisfyer-pro-penguin",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Cabezales Satisfyer pro penguin – Condonesmix",
+   "gtin": "4260605480041",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 3",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-49-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 49 Caja 3 uds – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -223,735 +155,41 @@
    }
   },
   {
-   "gtin": "4049369015115",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-caps-pro-penguin-ng-kit-fundas-5pcs",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Caps Pro Penguin Ng Kit Fundas 5Pcs al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369015115",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/estimuladores/satisfyer-pro-penguin-ng-kit-fundas-5-pcsd-216593",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER ★ PRO PENGUIN NG KIT FUNDAS 5 PCS | Proteção Premium"
-  },
-  {
-   "gtin": "4049369015115",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-vibradores/satisfyer-pro-penguin-ng-kit-fundas-5pcs",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Capuchones Satisfyer Pro Penguin NG, 5 unidades - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369015115",
-   "marca": "SATISFYER",
-   "articulo": "KIT FUNDAS SATISFYER PRO PENGUIN",
-   "variante": "",
-   "url": "https://www.tudeseo.net/producto/satisfyer-pro-penguin-ng-kit-fundas-5pcs/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - PRO PENGUIN NG KIT FUNDAS 5 PCS"
-  },
-  {
-   "gtin": "4049369015504",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO G-SPOT RABBIT!",
-   "variante": "",
-   "url": "https://www.jaloo.es/vibrador-conejito/1032-vibrador-rabbit-pro-g-spot-satisfyer-4049369015504.html",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Vibrador Rabbit Pro G-Spot | Jaloo España"
-  },
-  {
-   "gtin": "4049369015504",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO G-SPOT RABBIT!",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/6595-satisfyer-pro-g-spot-rabbit-4049369015504.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Pro G-Spot Rabbit",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "60",
-    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369015504",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO G-SPOT RABBIT!",
-   "variante": "",
-   "url": "https://factormujer.com/satisfyer-pro-g-spot-rabbit-succionador",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Satisfyer Pro+ G-Spot - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4049369015504",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO G-SPOT RABBIT!",
-   "variante": "",
-   "url": "https://intimates.es/vibradores-punto-g/39022-satisfyer-pro-g-spot-rabbit-ondas-de-presion-sin-contacto.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Código de barras: 4049369015504»); Pro + G-Spot · Air Pulse Stimulator + Vibration · Satisfyer"
-  },
-  {
-   "gtin": "4049369015504",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO G-SPOT RABBIT!",
-   "variante": "",
-   "url": "https://www.puntlove.es/vibradores/satisfyer-partner/producto/satisfyer-pro-g-spot-rabbit/",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Ref.: 4049369015504»); Satisfyer PRO G-SPOT RABBIT - Vibradores Satisfyer - VIBRADORES - PuntLove, erot",
+   "gtin": "4260605480041",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 3",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-49mm-caja-3/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 49mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
    "politica_envio": {
     "base": "4.95",
-    "gratis_desde": "44",
-    "url": "https://www.puntlove.es/gastos-de-envio.php"
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
    }
   },
   {
-   "gtin": "4049369015887",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE",
-   "variante": "",
-   "url": "https://mascondon.com/1234-satisfyer-masturbador-men-one.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER MASTURBADOR MEN ONE"
+   "gtin": "4260605480041",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 3",
+   "url": "https://mascondon.com/1432-mister-size-49-mm-3-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 49 (3 unidades): Experimenta la máxima comodidad y segurida"
   },
   {
-   "gtin": "4049369015887",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-men-one-masturbador-para-hombres",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Men One Masturbador Para Hombres al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
+   "gtin": "4260605480041",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-s-49-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA S 49 MM (3 UNIDADES)"
   },
   {
-   "gtin": "4049369015887",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE",
-   "variante": "",
-   "url": "https://www.jaloo.es/masturbadores-masculinos/951-masturbateur-masculin-satisfyer-men-one-masturbator-4049369015887.html",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Masturbador Masculino Men One Satisfyer 25 cm | Jaloo España"
-  },
-  {
-   "gtin": "4049369015887",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE",
-   "variante": "",
-   "url": "https://www.satisfyer.com/uk/satisfyer-men-one",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Satisfyer Men One Masturbatordisrekt online kaufen | Satisfyer DE | Satisfyer UK",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "49",
-    "url": "https://www.satisfyer.com/es/gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "4049369015887",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE",
-   "variante": "",
-   "url": "https://intimates.es/masturbadores-strokers/28065-men-one-revoluciona-el-disfrute-masculino-satisfyer.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN: 4049369015887»); Men One · Revoluciona el disfrute masculino · Satisfyer"
-  },
-  {
-   "gtin": "4049369016419",
-   "marca": "SATISFYER",
-   "articulo": "CABLE CARGADOR SATISFYER",
-   "variante": "",
-   "url": "https://mascondon.com/1216-cable-cargador-satisfyer-magnetico-usb-blanco.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Cable cargador Satisfyer Magnético - USB Blanco"
-  },
-  {
-   "gtin": "4049369016419",
-   "marca": "SATISFYER",
-   "articulo": "CABLE CARGADOR SATISFYER",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-cable-usb-cargador-blanco",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Cable Usb Cargador Blanco: Permite recargar el dispositivo cuando el c",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369016419",
-   "marca": "SATISFYER",
-   "articulo": "CABLE CARGADOR SATISFYER",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/estimuladores/satisfyer-cable-usb-cargador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Cargador Satisfyer USB magnético, para el Pro 2 | Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369016419",
-   "marca": "SATISFYER",
-   "articulo": "CABLE CARGADOR SATISFYER",
-   "variante": "",
-   "url": "https://www.tudeseo.net/producto/satisfyer-cable-usb-cargador/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - CABLE USB CARGADOR BLANCO"
-  },
-  {
-   "gtin": "4049369016419",
-   "marca": "SATISFYER",
-   "articulo": "CABLE CARGADOR SATISFYER",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/carregadores/satisfyer-cable-usb-cargador-blancod-214064",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - CABO CARREGADOR"
-  },
-  {
-   "gtin": "4049369016488",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER VIBES FLOWER POWER",
-   "variante": "",
-   "url": "https://factormujer.com/vibrador-power-flower-satisfyer",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Vibrador Power Flower de Satisfyer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4049369016488",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER VIBES FLOWER POWER",
-   "variante": "",
-   "url": "https://intimates.es/vibradores-de-clitoris/28579-power-flower-laminas-de-placer-satisfyer-vibes.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Código de barras: 4049369016488»); Power Flower · Láminas de placer · Satisfyer Vibes"
-  },
-  {
-   "gtin": "4049369016488",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER VIBES FLOWER POWER",
-   "variante": "",
-   "url": "https://www.puntlove.es/vibradores/satisfyer-partner/producto/satisfyer-vibes-power-flower/",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Ref.: 4049369016488»); SatisfyerVibes Power Flower - Vibradores Satisfyer - VIBRADORES - PuntLove, erot",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44",
-    "url": "https://www.puntlove.es/gastos-de-envio.php"
-   }
-  },
-  {
-   "gtin": "4049369016488",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER VIBES FLOWER POWER",
-   "variante": "",
-   "url": "https://www.satisfyer.com/uk/satisfyer-power-flower",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Satisfyer Power Flower Zungenvibrator kaufen | Satisfyer DE | Satisfyer UK",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "49",
-    "url": "https://www.satisfyer.com/es/gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "4049369016488",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER VIBES FLOWER POWER",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-vibrator-vibe-power-flower",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Vibrator Vibe Power Flower al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369016495",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOVEBALLS TRAINING SET",
-   "variante": "Set: 1",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-balls-loveballs-training-set-1numero",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Balls Loveballs Training Set 1 al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369016495",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOVEBALLS TRAINING SET",
-   "variante": "Set: 1",
-   "url": "https://sexshop-online.com/pt/bolas-de-silicone/satisfyer-loveballs-training-set-1d-218436",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER Loveballs Set 1 ★ Treine seu prazer com as bolas premium"
-  },
-  {
-   "gtin": "4049369016501",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOVEBALLS TRAINING SET",
-   "variante": "Set: 3",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-balls-loveballs-training-set-3numero",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Balls Loveballs Training Set 3 al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369016501",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOVEBALLS TRAINING SET",
-   "variante": "Set: 3",
-   "url": "https://sexshop-online.com/pt/bolas-de-silicone/satisfyer-loveballs-training-set-3d-218438",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER BALLS ★ Loveballs Training Set 3 | Treino do Assoalho Pélvic"
-  },
-  {
-   "gtin": "4049369016501",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOVEBALLS TRAINING SET",
-   "variante": "Set: 3",
-   "url": "https://dulcespecados.com/bolas-silicona/4379-satisfyer-loveballs-training-set-3d-218438-4049369016501.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Set Bolas Chinas Satisfyer Loveballs Training 3 | DP"
-  },
-  {
-   "gtin": "4049369016518",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOVEBALLS TRAINING SET",
-   "variante": "Set: 2",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-balls-loveballs-training-set-2numero",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Balls Loveballs Training Set 2 al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369016518",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOVEBALLS TRAINING SET",
-   "variante": "Set: 2",
-   "url": "https://sexshop-online.com/pt/bolas-de-silicone/satisfyer-loveballs-training-set-2d-218437",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER Loveballs Training Set 2 ★ Treino do assoalho pélvico"
-  },
-  {
-   "gtin": "4049369016525",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2+",
-   "variante": "",
-   "url": "https://factormujer.com/succionador-y-vibrador-satisfyer-pro-2",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Satisfyer Pro 2+ - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4049369016525",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2+",
-   "variante": "",
-   "url": "https://www.promofarma.com/es/vb/satisfyer-pro-2",
-   "evidencia": "GTIN comprobado por código (estructurado: dato «gtin» en la ficha); Satisfyer pro 2 | PromoFarma"
-  },
-  {
-   "gtin": "4049369016525",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2+",
-   "variante": "",
-   "url": "https://www.universosexshop.com/satisfyer/322737-satisfyer-pro-2-vibration-estimulador-y-succionador-de-clitoris.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer PRO 2 vibration estimulador y succionador de clítoris por sólo 47,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4049369016525",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2+",
-   "variante": "",
-   "url": "https://mundosex.es/products/satisfyer-pro-2-vibration-edicion-2020",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - PRO 2 VIBRATION EDICIÓN 2020"
-  },
-  {
-   "gtin": "4049369016532",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 3",
-   "variante": "",
-   "url": "https://www.universosexshop.com/estimuladores/322801-satisfyer-pro-3-vibration-estimulador-de-clitoris.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Pro 3 Vibration estimulador de clítoris por sólo 47,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4049369016532",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 3",
-   "variante": "",
-   "url": "https://mundosex.es/products/satisfyer-pro-3-vibration-edicion-2020",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - PRO 3 VIBRATION EDICIÓN 2020"
-  },
-  {
-   "gtin": "4049369016570",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN VIBRATION +",
-   "variante": "",
-   "url": "https://www.diversual.com/es/satisfyer-men-vibration-con-app-negro-103876.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Men Vibration+ con App Negro, Masturbador automático masculino - diver",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4049369016570",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN VIBRATION +",
-   "variante": "",
-   "url": "https://mascondon.com/1695-satisfyer-men-vibration-app-black.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Men Vibration+ App Black, Placer Realista | Mascondon"
-  },
-  {
-   "gtin": "4049369016570",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN VIBRATION +",
-   "variante": "",
-   "url": "https://www.platanomelon.com/products/satisfyer-men-vibration-app",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Men Vibration + App- Platanomelón"
-  },
-  {
-   "gtin": "4049369016570",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN VIBRATION +",
-   "variante": "",
-   "url": "https://toqueteo.es/products/masturbador-men-vibration-con-connect-app-satisfyer",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masturbador con vibración y app Satisfyer Men Vibration+ – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4049369016570",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN VIBRATION +",
-   "variante": "",
-   "url": "https://www.lolapecados.com/producto/satisfyer-masturbador-men-vibration-con-app-satisfyer-connect/",
-   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 4049369016570); SATISFYER MASTURBADOR MEN VIBRATION CON APP CONNECT",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60.00",
-    "url": "https://www.lolapecados.com/envio/"
-   }
-  },
-  {
-   "gtin": "4061504001753",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN CLASSIC",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-masturbador-men-classic-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Masturbador Men Classic Negro al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504001753",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN CLASSIC",
-   "variante": "",
-   "url": "https://mascondon.com/1496-satisfyer-masturbador-men-classic-negro.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Masturbador Men Classic Negro - Placer Hombre | Mascondon |"
-  },
-  {
-   "gtin": "4061504001753",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN CLASSIC",
-   "variante": "",
-   "url": "https://kiwichi.com/satisfyer-men-classic-negro/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER Men Classic Negro | Kiwichi",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "69.00",
-    "url": "https://kiwichi.com/politicas-de-envio-y-entrega"
-   }
-  },
-  {
-   "gtin": "4061504001753",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN CLASSIC",
-   "variante": "",
-   "url": "https://www.diversual.com/es/satisfyer-men-classic-masturbador-negro-99118.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Men Classic Negro, Masturbador masculino - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4061504001753",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN CLASSIC",
-   "variante": "",
-   "url": "https://www.almacenerotico.com/3669-masturbador-masculino-texturado-satisfyer-men-classic-4061504001753.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Masturbador Masculino Texturado Satisfyer Men Classic",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "60",
-    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504002019",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Transparente",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-feel-confident-kit-copa-menstrual-transparente-15-20-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Feel Confident Kit Copa Menstrual Transparente 15 + 20 Ml al me",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504002019",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Transparente",
-   "url": "https://sexshop-online.com/pt/copo-menstrual/satisfyer-feel-confident-kit-copa-menstrual-azul-intenso-1520mlsatisfyer",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 4061504002019»); SATISFYER FEEL CONFIDENT KIT COPA MENSTRUAL 15+20ML-SATISFYER"
-  },
-  {
-   "gtin": "4061504002019",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Transparente",
-   "url": "https://www.tudeseo.net/producto/satisfyer-feel-confident-kit-copa-menstrual-transparente-1520ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - FEEL CONFIDENT KIT COPA MENSTRUAL TRANSPARENTE 15"
-  },
-  {
-   "gtin": "4061504002019",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Transparente",
-   "url": "https://www.universosexshop.com/higiene-femenina/4222518-satisfyer-feel-confident-copa-menstrual-transparente.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Feel Confident Copa Menstrual Transparente por sólo 7,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4061504002019",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Transparente",
-   "url": "https://www.sexshop.express/copas-vaginales/1889-satisfyer-feel-confident-kit-copa-menstrual-azul-intenso-15-20-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Copa Menstrual Feel Confident Kit - 15 y 20 ml | Higiene Ecológica",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "4061504002033",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Lila",
-   "url": "https://kiwichi.com/copa-menstrual-satisfyer-feel-good-kit-15-20-ml-lila/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Copa Menstrual - Satisfyer - Feel Good Kit - 15 + 20 ml Lila",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "69.00",
-    "url": "https://kiwichi.com/politicas-de-envio-y-entrega"
-   }
-  },
-  {
-   "gtin": "4061504002033",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Lila",
-   "url": "https://www.sexshopboudoir.es/varios-copa-vaginal/satisfyer-feel-confident-kit-copa-menstrual-lila-15-20ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Feel Confident lila, copas 15 y 20 ml - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504002033",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Lila",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-feel-confident-kit-copa-menstrual-lila-15-20-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Feel Confident Kit Copa Menstrual Lila 15 + 20 Ml al mejor prec",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504002033",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Lila",
-   "url": "https://sexshop-online.com/pt/copos-menstruais/satisfyer-feel-confident-kit-copa-menstrual-lila-15-20-mld-223856",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - COPO MENSTRUAL FEEL CONFIDENT ROXO 15 + 20 ML"
-  },
-  {
-   "gtin": "4061504002033",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Lila",
-   "url": "https://www.tudeseo.net/producto/satisfyer-feel-confident-kit-copa-menstrual-lila-1520ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - FEEL CONFIDENT KIT COPA MENSTRUAL LILA 15 + 20 ML"
-  },
-  {
-   "gtin": "4061504002057",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Azul",
-   "url": "https://www.sexshopboudoir.es/varios-copa-vaginal/satisfyer-feel-confident-kit-copa-menstrual-1520ml",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 4061504002057»); Satisfyer Feel Confident, 2 copas menstruales - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504002057",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Azul",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-feel-confident-kit-copa-menstrual-azul-intenso-15-20-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Feel Confident Kit Copa Menstrual Azul Intenso 15 + 20 Ml al me",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504002057",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Azul",
-   "url": "https://www.tudeseo.net/producto/satisfyer-feel-confident-kit-copa-menstrual-azul-intenso-1520ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - FEEL CONFIDENT KIT COPA MENSTRUAL AZUL INTENSO 15"
-  },
-  {
-   "gtin": "4061504002057",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Azul",
-   "url": "https://www.universosexshop.com/higiene-femenina/4222515-satisfyer-feel-confident-copa-menstrual-azul-intenso.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Feel Confident Copa Menstrual Azul Intenso por sólo 7,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4061504002057",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER FEEL CONFIDENT KIT",
-   "variante": "Color: Azul",
-   "url": "https://www.sexshop.express/copas-vaginales/1889-satisfyer-feel-confident-kit-copa-menstrual-azul-intenso-15-20-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Copa Menstrual Feel Confident Kit - 15 y 20 ml | Higiene Ecológica",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "4061504003252",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Verde",
-   "url": "https://www.satisfyer.com/uk/satisfyer-lolli-plug-2",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Satisfyer Lolli Plug 2 Buttplug online kaufen | Satisfyer DE | Satisfyer UK",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "49",
-    "url": "https://www.satisfyer.com/es/gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "4061504003252",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Verde",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-anal/satisfyer-lolli-plug-2-plug-vibrator",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 4061504003252»); Satisfyer Lolli Plug 2, plug vibrador ondulado - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504003252",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Verde",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-plug-anal-con-vibracion-lolli-plug-2-verde",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Plug Anal Con Vibración Lolli Plug 2 Verde al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504003252",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Verde",
-   "url": "https://sexshop-online.com/vibradores-anales/satisfyer-lolli-plug-2-plug-vibrator-grisd-228791",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 4061504003252»); SATISFYER LOLLI PLUG 2 ★ Placer Anal Vibrante ✅"
-  },
-  {
-   "gtin": "4061504003252",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Verde",
-   "url": "https://bakanal.es/juguetes-bienestar/anal/plugs-anales/satisfyer-lolli-plug-2-plug-vibrator-verde/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER - Lolli Plug 2 Vibrador Anal Premium Verde - Bakanal Sex Shop",
+   "gtin": "4260605480041",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 3",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/tamano-xs-pequenos/mister-size-preservativos-talla-s-49-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 49 mm S 3 Unidades | Bakanal",
    "politica_envio": {
     "base": "5.95",
     "gratis_desde": "49.00",
@@ -959,138 +197,12 @@
    }
   },
   {
-   "gtin": "4061504003269",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Gris",
-   "url": "https://intimates.es/vibradores/55251-lolli-plug-2-plug-anal-con-vibracion-satisfyer.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Código de barras: 4061504003269»); Lolli Plug 2 · Plug anal con vibración · Satisfyer"
-  },
-  {
-   "gtin": "4061504003269",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Gris",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-plug-anal-con-vibracion-lolli-plug-2-ice",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Plug Anal Con Vibración Lolli Plug 2 Ice al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504003269",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Gris",
-   "url": "https://grupopikante.com/products/satisfyer-lolli-plug-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); PayPal"
-  },
-  {
-   "gtin": "4061504003269",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Gris",
-   "url": "https://www.tudeseo.net/producto/satisfyer-lolli-plug-2-plug-vibrator-gris/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - LOLLI PLUG 2 PLUG VIBRATOR GRIS"
-  },
-  {
-   "gtin": "4061504003269",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER LOLLI PLUG 2",
-   "variante": "Color: Gris",
-   "url": "https://www.universosexshop.com/plugs-anales-vibradores/4225065-satisfyer-lolli-plug-2-plug-vibrator-gris.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER LOLLI PLUG 2 PLUG VIBRATOR GRIS por sólo 23,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4061504003337",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER INTENSITY PLUG",
-   "variante": "Color: Morado",
-   "url": "https://sexplace.es/satisfyer-intensity-plug-morado/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - INTENSITY PLUG MORADO"
-  },
-  {
-   "gtin": "4061504003337",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER INTENSITY PLUG",
-   "variante": "Color: Morado",
-   "url": "https://www.satisfyer.com/uk/satisfyer-intensity-plug-connect-app",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Satisfyer Intensity Plug Analplug + Connect App | Satisfyer DE | Satisfyer UK",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "49",
-    "url": "https://www.satisfyer.com/es/gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "4061504003337",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER INTENSITY PLUG",
-   "variante": "Color: Morado",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-intensity-plug-morado",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Intensity Plug Morado al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504003337",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER INTENSITY PLUG",
-   "variante": "Color: Morado",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-plugs/satisfyer-intensity-plug",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 4061504003337»); Satisfyer Intensity Plug con app, plug vibrador - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504003337",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER INTENSITY PLUG",
-   "variante": "Color: Morado",
-   "url": "https://www.platanomelon.com/products/satisfyer-intensity-plug",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Intensity Plug | Platanomelón"
-  },
-  {
-   "gtin": "4061504006819",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Negro",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-connect-trendsetter-plug-vibrador-app-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Connect Trendsetter Plug Vibrador App - Negro al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504006819",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Negro",
-   "url": "https://mascondon.com/1516-vibrador-anal-trendsetter-con-app-satisfyer-negro.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Trendsetter - Vibrador Anal Premium con App | Mascondon |"
-  },
-  {
-   "gtin": "4061504006819",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Negro",
-   "url": "https://www.diversual.com/es/satisfyer-trendsetter-negro-102136.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Trendsetter Negro Satisfyer, Vibrador anal - diversual.com",
+   "gtin": "4260605480072",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 3",
+   "url": "https://www.diversual.com/es/mister-size-53-mm-3-uds-103328.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 53 mm 3 Uds, Preservativos - diversual.com",
    "politica_envio": {
     "base": "3.90",
     "gratis_desde": "65.00",
@@ -1098,320 +210,12 @@
    }
   },
   {
-   "gtin": "4061504006819",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Negro",
-   "url": "https://toqueteo.es/products/vibrador-anal-trendsetter-con-app-satisfyer-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador anal Trendsetter Satisfyer con app y 12 modos – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4061504006819",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Negro",
-   "url": "https://sexplace.es/satisfyer-trendsetter-connect-app-negro/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER TRENDSETTER CONNECT APP - NEGRO - Sexplace.es"
-  },
-  {
-   "gtin": "4061504006826",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Verde",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-connect-trendsetter-plug-vibrador-app-verde",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Connect Trendsetter Plug Vibrador App - Verde al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504006826",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Verde",
-   "url": "https://www.diversual.com/es/satisfyer-trendsetter-verde-102134.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Trendsetter Verde Satisfyer, Vibrador anal - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4061504006826",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Verde",
-   "url": "https://toqueteo.es/products/vibrador-anal-trendsetter-con-app-satisfyer-verde",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador anal Satisfyer Trendsetter con app y 12 modos – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4061504006826",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Verde",
-   "url": "https://sexplace.es/satisfyer-trendsetter-plug-vibrador-app-verde/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - TRENDSETTER PLUG VIBRADOR APP VERDE"
-  },
-  {
-   "gtin": "4061504006826",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TRENDSETTER",
-   "variante": "Color: Verde",
-   "url": "https://www.tudeseo.net/producto/satisfyer-trendsetter-plug-vibrador-verde/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - TRENDSETTER PLUG VIBRADOR APP VERDE"
-  },
-  {
-   "gtin": "4061504037332",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER POWER MASTURBATOR",
-   "variante": "",
-   "url": "https://www.platanomelon.com/products/satisfyer-power-masturbator",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Power Masturbator | Platanomelón"
-  },
-  {
-   "gtin": "4061504037332",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER POWER MASTURBATOR",
-   "variante": "",
-   "url": "https://www.satisfyer.com/uk/satisfyer-power-masturbator-connect-app",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Power Masturbator with Connect App | Satisfyer UK",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "49",
-    "url": "https://www.satisfyer.com/es/gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "4061504037332",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER POWER MASTURBATOR",
-   "variante": "",
-   "url": "https://intimates.es/con-control-por-app/63555-power-masturbator-masturbador-masculino-connect-app-satisfyer.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Código de barras: 4061504037332»); Power Masturbator · Masturbador masculino Connect App · Satisfyer"
-  },
-  {
-   "gtin": "4061504037332",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER POWER MASTURBATOR",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-vaginas-y-anos/satisfyer-power-masturbator-negro-y-plata",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Power Masturbator con app, negro - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504037332",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER POWER MASTURBATOR",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-power-masturbator-negro-y-plata",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Power Masturbator Negro Y Plata al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504045054",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER ABSOLUTE BEGINNERS 4",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-absolute-beginners-4-plug-anal-vibrador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Absolute Beginners 4 Plug Anal Vibrador al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504045054",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER ABSOLUTE BEGINNERS 4",
-   "variante": "",
-   "url": "https://toqueteo.es/products/plug-anal-booty-absolute-beginners-4-satisfyer",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Plug anal con vibración Booty Absolute Beginners 4 Satisfyer – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4061504045054",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER ABSOLUTE BEGINNERS 4",
-   "variante": "",
-   "url": "https://sexplace.es/satisfyer-absolute-beginners-4-plug-anal-vibrador/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - ABSOLUTE BEGINNERS 4 PLUG ANAL VIBRADOR"
-  },
-  {
-   "gtin": "4061504045054",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER ABSOLUTE BEGINNERS 4",
-   "variante": "",
-   "url": "https://www.satisfyer.com/uk/satisfyer-booty-absolute-beginners-4",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Booty Absolute Beginners 4 Anal Vibrator | Satisfyer UK",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "49",
-    "url": "https://www.satisfyer.com/es/gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "4061504045054",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER ABSOLUTE BEGINNERS 4",
-   "variante": "",
-   "url": "https://orgasmix.es/plug-anal-booty-absolute-beginners-4-satisfyer-.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 💜 Plug anal vibrador Satisfyer principiantes | Orgasmix",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4061504046006",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Rojo",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-tap-y-climax-1-vibrador-lay-on-rojo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Tap & Climax 1 Vibrador Lay-On Rojo al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504046006",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Rojo",
-   "url": "https://www.diversual.com/es/satisfyer-tap-climax-1-rojo-105150.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Tap & Climax 1 Rojo, Vibrador clitorial - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4061504046006",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Rojo",
-   "url": "https://toqueteo.es/products/estimulador-tap-climax-1-rojo-satisfyer",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador Tap & Climax 1 Satisfyer, vibración y golpeteo – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4061504046006",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Rojo",
-   "url": "https://bakanal.es/juguetes-bienestar/vibradores/vibradores-lay-on-clitoris/satisfyer-tap-climax-1-vibrador-lay-on-rojo/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER Tap & Climax 1 Vibrador Lay-On Rojo | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4061504046006",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Rojo",
-   "url": "https://www.sexshop.express/vibradores-lay-on-clitoris/2806-satisfyer-tap-climax-1-vibrador-lay-on-rojo.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Vibrador Tap & Climax 1 - Vibración y Golpeteo para Clítoris",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "4061504046013",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Negro",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-tap-y-climax-1-vibrador-lay-on-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Tap & Climax 1 Vibrador Lay-On Negro al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504046013",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Negro",
-   "url": "https://www.diversual.com/es/satisfyer-tap-climax-1-negro-105149.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Tap & Climax 1 Negro, Vibrador clitorial - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4061504046020",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Gris",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-tap-y-climax-1-vibrador-lay-on-gris",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Tap & Climax 1 Vibrador Lay-On Gris al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504046020",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER TAP & CLIMAX 1",
-   "variante": "Color: Gris",
-   "url": "https://www.diversual.com/es/satisfyer-tap-climax-1-gris-105148.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Tap & Climax 1 Gris, Vibrador clitorial - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4061504051857",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2 GENERATION 3",
-   "variante": "Color: Negro",
-   "url": "https://www.condonesmix.com/products/satisfyer-pro-2-generation-3-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pro 2 Generation 3 con App Negro – Condonesmix",
+   "gtin": "4260605480072",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 3",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-53-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister size Talla 53 Caja 3 uds – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -1419,62 +223,213 @@
    }
   },
   {
-   "gtin": "4061504051864",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2 GENERATION 3",
-   "variante": "Color: Lila",
-   "url": "https://www.easytoys.es/satisfyer-pro-2-generation-3-app-controlled-lila-p-70076/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Pro 2 Generación 3 Controlado por App - Lila - EasyToys"
+   "gtin": "4260605480072",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 3",
+   "url": "https://mascondon.com/1514-mister-size-53-mm-3-condones-extra-finos.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size Pure Feel Extra Fino 53mm | Mascondon"
   },
   {
-   "gtin": "4061504065847",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER SEAL YOU SOON",
-   "variante": "",
-   "url": "https://www.jaloo.es/succionadores-de-clitoris/1070-satisfyer-seal-you-soon-4061504065847.html",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); SATISFYER Seal You Soon | Jaloo España"
-  },
-  {
-   "gtin": "4061504065847",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER SEAL YOU SOON",
-   "variante": "",
-   "url": "https://www.satisfyer.com/uk/satisfyer-seal-you-soon",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Seal You Soon Air Pulse Vibrator | Satisfyer UK",
+   "gtin": "4260605480072",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 3",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-53mm-caja-3/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 53mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
    "politica_envio": {
     "base": "4.95",
-    "gratis_desde": "49",
-    "url": "https://www.satisfyer.com/es/gastos-de-envio"
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
    }
   },
   {
-   "gtin": "4061504065847",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER SEAL YOU SOON",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-seal-you-soon-succionador-de-clitoris",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Seal You Soon Succionador De Clitoris al mejor precio.",
+   "gtin": "4260605480072",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 3",
+   "url": "https://losplaceresdelola.com/products/mister-size-53-3-unidades-condones",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE 53MM | Preservativos ajustados y ultrafinos 3 Uds",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+    "gratis_desde": "60.00",
+    "url": "https://losplaceresdelola.com/policies/shipping-policy"
    }
   },
   {
-   "gtin": "4061504065847",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER SEAL YOU SOON",
-   "variante": "",
-   "url": "https://sexshop-online.com/succionadores-sin-vibracion/satisfyer-seal-you-soon-succionador-de-clitorisd-237586",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); SATISFYER - SEAL YOU SOON SUCCIONADOR DE CLITORIS"
+   "gtin": "4260605480102",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 3",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-57-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 57 Caja 3 uds extrafinos – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
   },
   {
-   "gtin": "4061504065847",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER SEAL YOU SOON",
-   "variante": "",
-   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/estimuladores/succionadores/satisfyer-seal-you-soon-succionador-de-clitoris/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Satisfyer Seal You Soon succionador con vibración | Bakanal",
+   "gtin": "4260605480102",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 3",
+   "url": "https://mascondon.com/1863-preservativos-mister-size-pure-feel-57-mm-3-uds-siente-como-nunca.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 57 mm 3 uds – Extra finos | Mascondon |"
+  },
+  {
+   "gtin": "4260605480102",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 3",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-57mm-caja-3/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 57mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480102",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 3",
+   "url": "https://www.almacenerotico.com/603-3-preservativos-mister-size-talla-57-extrafinos-4260605480102.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos Mister Size Talla 57 Extrafinos",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "60",
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4260605480102",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-l-57-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA L 57 MM (3 UNIDADES)"
+  },
+  {
+   "gtin": "4260605480133",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 3",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-60-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 60 Caja 3 uds extrafinos – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605480133",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 3",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-60mm-caja-3/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 60mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480133",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 3",
+   "url": "https://www.diversual.com/es/mister-size-60-mm-3-uds-103325.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 60 mm 3 Uds, Preservativos XXL - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4260605480133",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 3",
+   "url": "https://factormujer.com/mister-size-xl-60-3",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 3 Unidades Ajuste Perfecto",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480133",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 3",
+   "url": "https://losplaceresdelola.com/products/mister-size-60-3-unidades-condones",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE 60MM | Preservativos ajustados y ultrafinos 3uds",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://losplaceresdelola.com/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4260605480140",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 10",
+   "url": "https://mascondon.com/1436-mister-size-60-mm-10-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 60 mm - Paquete de 10 Unidades | Protección y Comodidad | C"
+  },
+  {
+   "gtin": "4260605480140",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 10",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-60mm-caja-10/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 60mm caja 10 - TocaBanana SexShop Nº1 en masturbadores",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480140",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 10",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-4-a-24/mister-size-preservativos-talla-xl-60-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA XL 60 MM (10 UNIDADES) | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480140",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 10",
+   "url": "https://factormujer.com/mister-size-xl-60-10",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 10 Unidades Ajuste Perfecto",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480140",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-xl-60-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 60 mm | Bakanal",
    "politica_envio": {
     "base": "5.95",
     "gratis_desde": "49.00",
@@ -1482,17 +437,590 @@
    }
   },
   {
-   "gtin": "4061504092584",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER CALENDARIO ADVIENTO 2025",
-   "variante": "",
-   "url": "https://orgasmix.es/satisfyer-calendario-adviento-premium-2025.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 🎄 Calendario Adviento Satisfyer Premium 2025 | Orgasmix",
+   "gtin": "4260605480157",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-xl-60-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos de 60 mm Formato Grande | Bakanal",
    "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
    }
+  },
+  {
+   "gtin": "4260605480157",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 36",
+   "url": "https://mascondon.com/1223-preservativos-mister-size-60mm-36-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 60mm. - 36 unidades"
+  },
+  {
+   "gtin": "4260605480157",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 36",
+   "url": "https://www.diversual.com/es/mister-size-60-mm-36-uds-100615.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 60 mm 36 Uds, Preservativos formato ahorro - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4260605480157",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 36",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-30-a-288/mister-size-preservativos-talla-xl-60-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA XL 60 MM (36 UNIDADES) | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480157",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 36",
+   "url": "https://factormujer.com/mister-size-xl-60-36",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 36 Unidades Ajuste Perfecto",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480164",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 3",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 3 uds extrafinos – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605480164",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 3",
+   "url": "https://mascondon.com/1320-preservativos-mister-size-pure-feel-extra-fino-64-mm-3-uds.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PRESERVATIVOS MISTER SIZE PURE FEEL EXTRA FINO 64 MM 3 UDS"
+  },
+  {
+   "gtin": "4260605480164",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 3",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-64mm-caja-3/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 64mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480164",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 3",
+   "url": "https://factormujer.com/mister-size-xxl-64-3",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (3 uds)",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480164",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 3",
+   "url": "https://losplaceresdelola.com/products/mister-size-64-3-unidades-condones",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE 64MM | Preservativos ajustados y ultrafinos - Pack 3",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://losplaceresdelola.com/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4260605480171",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 10",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-10-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 10 uds extrafinos – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605480171",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 10",
+   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xxl-64-mm-10-unidadesd-242281",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (10 UNIDADES)"
+  },
+  {
+   "gtin": "4260605480171",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 10",
+   "url": "https://www.diversual.com/es/mister-size-64-mm-10-uds-100619.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 64 mm 10 Uds, Preservativos XXL - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4260605480171",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 10",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-64mm-caja-de-10/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 64mm caja de 10 - TocaBanana SexShop Nº1 en masturbado",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480171",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 10",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxl-64-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXL 64 MM (10 UNIDADES)"
+  },
+  {
+   "gtin": "4260605480188",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 36",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-64-caja-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 64 Caja 36 uds extrafinos – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605480188",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 36",
+   "url": "https://www.easytoys.es/mister-size-xxl-preservativos-ultrafinos-36-unidades-p-43900/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE 64 mm Condones 36 piezas - EasyToys"
+  },
+  {
+   "gtin": "4260605480188",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 36",
+   "url": "https://factormujer.com/mister-size-xxl-64-36",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (36 uds)",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480188",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 36",
+   "url": "https://www.diversual.com/es/mister-size-64-mm-36-uds-100616.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 64 mm 36 Uds, Preservativos formato ahorro - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4260605480188",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxl-64-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXL 64 MM (36 UNIDADES)"
+  },
+  {
+   "gtin": "4260605480195",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 3",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-3-uds-extrafino",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 caja 3 uds extrafino – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605480195",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 3",
+   "url": "https://tocabanana.com/producto/preservativos-mister-size-69mm-caja-3/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 69mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4260605480195",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 3",
+   "url": "https://mascondon.com/1487-mister-size-pure-feel-extra-fino-69-mm-3-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 69 (3 unidades): Experimenta la máxima comodidad y segurida"
+  },
+  {
+   "gtin": "4260605480195",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 3",
+   "url": "https://www.diversual.com/es/mister-size-69-mm-3-uds-103326.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 69 mm 3 Uds, Preservativos XXL - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4260605480195",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 3",
+   "url": "https://factormujer.com/mister-size-xxxl-69-3",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (3 uds)",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480201",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 10",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-10-uds-extrafinos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 Caja 10 uds extrafinos – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605480201",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 10",
+   "url": "https://www.easytoys.es/mister-size-xxxl-preservativos-ultrafinos-10-unidades-p-43882/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE Preservativos de 69 mm 10 unidades - EasyToys"
+  },
+  {
+   "gtin": "4260605480201",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 10",
+   "url": "https://factormujer.com/mister-size-xxxl-69-10",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (10 uds)",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480201",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-xxxl-69-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 69 mm | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4260605480201",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 10",
+   "url": "https://losplaceresdelola.com/products/mister-size-69-10-unidades-condones",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE 69MM | Preservativos ajustados y ultrafinos",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://losplaceresdelola.com/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4260605480218",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 36",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-69-caja-36-uds-extrafino",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla 69 caja 36 uds extrafino – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605480218",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 36",
+   "url": "https://www.easytoys.es/mister-size-xxxl-preservativos-ultrafinos-36-unidades-p-43903/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE Preservativos de 69 mm 36 unidades - EasyToys"
+  },
+  {
+   "gtin": "4260605480218",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 36",
+   "url": "https://factormujer.com/mister-size-xxxl-69-36",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXXL 69 mm – Ajuste extra amplio (36 uds)",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "4260605480218",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 36",
+   "url": "https://www.diversual.com/es/mister-size-69-mm-36-uds-100617.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 69 mm 36 Uds, Preservativos formato ahorro - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4260605480218",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 36",
+   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-36-unidadesd-242289",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (36 UNIDADES)"
+  },
+  {
+   "gtin": "4260605482175",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 100",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condones-xl-60-mm-para-maximo-confort-100-uds/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Condones XL 60 mm MISTER SIZE para mayor comodidad | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4260605482175",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 60mm, Unidades: 100",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-xl-60mm-100-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XL 60mm 100 uds – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605482182",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 100",
+   "url": "https://mascondon.com/1771-mister-size-64-mm-100-condones-extra-finos.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 64 mm - Pack 100 uds | Mascondon |"
+  },
+  {
+   "gtin": "4260605482182",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 100",
+   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxl-64-mm-100-unidadesd-242303",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (100 UNIDADES)"
+  },
+  {
+   "gtin": "4260605482182",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 100",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-xl-64mm-100-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XL 64mm 100 uds – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605482182",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 100",
+   "url": "https://toqueteo.es/products/mister-size-preservativos-talla-xxl-64-mm-100-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MISTER SIZE 64 mm, pack de 100 unidades – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4260605482182",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 64mm, Unidades: 100",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxl-64-mm-100-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXL 64 MM (100 UNIDADES)"
+  },
+  {
+   "gtin": "4260605482199",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 100",
+   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-100-unidadesd-242304",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (100 UNIDADES)"
+  },
+  {
+   "gtin": "4260605482199",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 100",
+   "url": "https://mascondon.com/1772-mister-size-69-mm-extra-finos-100-condones.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 69 mm - Pack 100 uds | Mascondon |"
+  },
+  {
+   "gtin": "4260605482199",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 100",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-xxl-69mm-100-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XXL 69mm 100 uds – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605482199",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 100",
+   "url": "https://toqueteo.es/products/mister-size-preservativos-talla-xxxl-69-mm-100-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MISTER SIZE talla 69 mm - 100 unidades – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4260605482199",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 69mm, Unidades: 100",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxxl-69-mm-100-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXXL 69 MM (100 UNIDADES)"
+  },
+  {
+   "gtin": "4260605482281",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 100",
+   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-100-unidadesd-242298",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO XS 47 MM (100 UNIDADES)"
+  },
+  {
+   "gtin": "4260605482281",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 100",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-xs-47-mm-100-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos de 47 mm, 100 Unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4260605482281",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 100",
+   "url": "https://www.condonesmix.com/products/mister-size-talla-xs-47mm-100-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Talla XS 47mm 100 uds – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4260605482281",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 100",
+   "url": "https://toqueteo.es/products/mister-size-preservativos-talla-xs-47-mm-100-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Mister Size 47 mm para pene estrecho – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4260605482281",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 100",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-100-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (100 UNIDADES)"
   },
   {
    "gtin": "810476011383",
@@ -1545,6 +1073,51 @@
    "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); FLESHLIGHT BOOST - MASTURBADOR BOCA BLOW MD FLESH RP-FLESHLIGHT BOOST"
   },
   {
+   "gtin": "4260605480034",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 36",
+   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-36-unidadesd-242283",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (36 UNIDADES)"
+  },
+  {
+   "gtin": "4260605480034",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/tamano-xs-pequenos/mister-size-preservativos-talla-xs-47-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos Talla XS 47 mm 36 Unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4260605480034",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 36",
+   "url": "https://mascondon.com/1456-mister-size-pure-feel-extra-fino-47-mm-aumenta-tu-placer-con-36-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Placer Puro con Mister Size Pure Feel 47 mm - 36 Unidades |Mascondon|"
+  },
+  {
+   "gtin": "4260605480034",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (36 UNIDADES)"
+  },
+  {
+   "gtin": "4260605480034",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 47mm, Unidades: 36",
+   "url": "https://www.easytoys.es/mister-size-xs-preservativos-ultrafinos-36-unidades-p-43885/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER.SIZE 47 mm Preservativos 36 piezas - EasyToys"
+  },
+  {
    "gtin": "810476019914",
    "marca": "FLESHLIGHT",
    "articulo": "QUICKSHOT",
@@ -1555,6 +1128,19 @@
     "base": "3.90",
     "gratis_desde": "65.00",
     "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "810476019914",
+   "marca": "FLESHLIGHT",
+   "articulo": "QUICKSHOT",
+   "variante": "",
+   "url": "https://www.vivelavita.com/pt/fleshlight-quickshot-vantage-masturbador",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Fleshlight Quickshot Vantage: Dupla Sensação Premium",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
    }
   },
   {
@@ -1587,234 +1173,104 @@
    }
   },
   {
-   "gtin": "810476019914",
-   "marca": "FLESHLIGHT",
-   "articulo": "QUICKSHOT",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-vaginas-y-anos/fleshlight-quickshot-vantage-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Fleshlight Quickshot Vantage transparente - Boudoir",
+   "gtin": "4260605480058",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 10",
+   "url": "https://www.diversual.com/es/mister-size-49-mm-10-uds-103330.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 49 mm 10 Uds, Preservativos - diversual.com",
    "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504009872",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2 GENERATION 2",
-   "variante": "Color: Violeta",
-   "url": "https://www.druni.es/pro-2-violet-satisfyer-vibrador-estimulador-clitoris",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pro 2 Violet SATISFYER Vibrador estimulador de clitoris precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "4061504009872",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2 GENERATION 2",
-   "variante": "Color: Violeta",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-pro-2-estimulador-violeta",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Pro 2 Estimulador Violeta al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504009872",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2 GENERATION 2",
-   "variante": "Color: Violeta",
-   "url": "https://patiodeatras.es/tienda/satisfyer-pro-2-generation-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Shine X, estimulador del clítoris PATIODEATRAS.ES"
-  },
-  {
-   "gtin": "4061504009872",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2 GENERATION 2",
-   "variante": "Color: Violeta",
-   "url": "https://www.almacenerotico.com/6589-satisfyer-pro-2-succionador-violeta-4061504009872.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Pro 2 Succionador Violeta",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "60",
-    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4061504009872",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER PRO 2 GENERATION 2",
-   "variante": "Color: Violeta",
-   "url": "https://www.sexshopboudoir.es/para-clitoris/satisfyer-pro-2-estimulador-violeta",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 4061504009872»); Satisfyer Pro 2 Generation 2 violeta, ondas - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369015832",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Lusty Tongues",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-men-manga-lusty-tongues",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Men Manga Lusty Tongues al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369015832",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Lusty Tongues",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-vaginas-y-anos/satisfyer-men-manga-lusty-tongues",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Men Lusty Tongues, manga de recambio - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369015832",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Lusty Tongues",
-   "url": "https://www.tudeseo.net/producto/satisfyer-men-manga-lusty-tongues/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - MEN MANGA LUSTY TONGUES"
-  },
-  {
-   "gtin": "4049369015832",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Lusty Tongues",
-   "url": "https://losjuguetesdera.es/products/satisfyer-men-manga-lusty-tongues",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); SATISFYER - MEN MANGA LUSTY TONGUES – losjuguetesdera",
-   "politica_envio": {
-    "base": "3.99",
+    "base": "3.90",
     "gratis_desde": "65.00",
-    "url": "https://losjuguetesdera.es/pages/gastos-de-envios"
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
    }
   },
   {
-   "gtin": "4049369015832",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Lusty Tongues",
-   "url": "https://www.sexshop.express/masturbadores-varios/3262-satisfyer-men-manga-lusty-tongues-4049369015832.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Funda Lusty Tongues para Satisfyer Men One - Placer Realista",
+   "gtin": "4260605480089",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 10",
+   "url": "https://www.diversual.com/es/mister-size-53-mm-10-uds-103331.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 53 mm 10 Uds, Preservativos - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4260605480089",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 10",
+   "url": "https://mascondon.com/1488-mister-size-57-mm-10-condones-extra-finos.html",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN: 4260605480089»); Mister Size Pure Feel 57 mm - 10 Unidades Preservativos |Mascondon|"
+  },
+  {
+   "gtin": "4260605480065",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 36",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-30-a-288/mister-size-preservativos-talla-s-49-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA S 49 MM (36 UNIDADES) | Maskeamor.com",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
    }
   },
   {
-   "gtin": "4049369015849",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tri Delights",
-   "url": "https://factormujer.com/satisfyer-men-sleeve-tri-delights",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Sleeve Satisfyer men TRI DELIGHTS",
+   "gtin": "4260605480065",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 49mm, Unidades: 36",
+   "url": "https://loquequierashop.com/products/mister-size-condom-size-s-49-mm-36-units",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - CONDÓN TALLA S 49 MM (36 UNIDADES) – Lo Que Quieras"
+  },
+  {
+   "gtin": "4260605480096",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 36",
+   "url": "https://mascondon.com/1490-mister-size-57-mm-36-condones-extra-finos.html",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN: 4260605480096»); Mister Size Pure Feel 57 mm - 36 Unidades |Mascondon|"
+  },
+  {
+   "gtin": "4260605480126",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 36",
+   "url": "https://www.vivelavita.com/es/mister-size-57-36-pack-extra-fino",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Condones Mister Size 57 de Xr Brands | Ajuste Exacto y Comodidad",
    "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
    }
   },
   {
-   "gtin": "4049369015849",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tri Delights",
-   "url": "https://intimates.es/masturbadores-strokers/23910-tri-delights-cabezal-satisfyer-men-satisfyer.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Código de barras: 4049369015849»); Tri Delights · Funda intercambiable · Satisfyer"
+   "gtin": "4260605480126",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 36",
+   "url": "https://mascondon.com/1490-mister-size-57-mm-36-condones-extra-finos.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size Pure Feel 57 mm - 36 Unidades |Mascondon|"
   },
   {
-   "gtin": "4049369015849",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tri Delights",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-men-manga-tri-delights",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Men Manga Tri Delights al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
+   "gtin": "4260605480119",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 57mm, Unidades: 10",
+   "url": "https://mascondon.com/1488-mister-size-57-mm-10-condones-extra-finos.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size Pure Feel 57 mm - 10 Unidades Preservativos |Mascondon|"
   },
   {
-   "gtin": "4049369015849",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tri Delights",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-vaginas-y-anos/satisfyer-men-manga-tri-delights",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Men Tri Delights, manga de recambio - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369015849",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tri Delights",
-   "url": "https://www.tudeseo.net/producto/satisfyer-men-manga-tri-delights/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - MEN MANGA TRI DELIGHTS"
-  },
-  {
-   "gtin": "4049369015856",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tornado Bliss",
-   "url": "https://intimates.es/masturbadores-strokers/25005-tornado-bliss-cabezal-satisfyer-men-satisfyer.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Código de barras: 4049369015856»); Tornado Bliss · Funda intercambiable · Satisfyer Men"
-  },
-  {
-   "gtin": "4049369015856",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tornado Bliss",
-   "url": "https://www.farmaciasdirect.es/products/satisfyer-men-sleeve-manga-tornado-bliss",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Satisfyer Men Sleeve Manga Tornado Bliss al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4049369015856",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tornado Bliss",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-vaginas-y-anos/satisfyer-men-sleeve-manga-tornado-bliss",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Satisfyer Men Tornado Bliss, manga de recambio - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369015856",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tornado Bliss",
-   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-hombres/masturbadores-para-ellos/satisfyer-men-sleeve-tornado-bliss-placer-360-grados-para-el/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER Men Sleeve Tornado Bliss, manga recambio para masturbador | Bakanal",
+   "gtin": "4260605482304",
+   "marca": "MISTER SIZE",
+   "articulo": "MISTER SIZE – A MEDIDA",
+   "variante": "Diametro: 53mm, Unidades: 100",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-m-53-mm-100-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MISTER SIZE 53 mm talla M - Seguridad y ajuste | Bakanal",
    "politica_envio": {
     "base": "5.95",
     "gratis_desde": "49.00",
@@ -1822,363 +1278,20 @@
    }
   },
   {
-   "gtin": "4049369015856",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER MEN ONE RECAMBIOS",
-   "variante": "Modelo: Tornado Bliss",
-   "url": "https://www.tudeseo.net/producto/satisfyer-men-sleeve-manga-tornado-bliss/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - MEN SLEEVE MANGA TORNADO BLISS"
-  },
-  {
-   "gtin": "4049369043408",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Crunchy",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-para-el/satisfyer-crunchy-huevo-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Huevo masturbador Satisfyer Crunchy - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369043408",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Crunchy",
-   "url": "https://www.universosexshop.com/strokers/4225822-satisfyer-crunchy-huevo-masturbador.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER CRUNCHY HUEVO MASTURBADOR por sólo 3,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4049369043408",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Crunchy",
-   "url": "https://www.tudeseo.net/producto/satisfyer-crunchy-huevo-masturbador/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - CRUNCHY HUEVO MASTURBADOR"
-  },
-  {
-   "gtin": "4049369043415",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Savage",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-para-el/satisfyer-savage-huevo-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Huevo masturbador Satisfyer Savage - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369043415",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Savage",
-   "url": "https://www.universosexshop.com/strokers/4225821-satisfyer-savage-huevo-masturbador.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER SAVAGE HUEVO MASTURBADOR por sólo 3,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4049369043415",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Savage",
-   "url": "https://www.tudeseo.net/producto/satisfyer-savage-huevo-masturbador/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - SAVAGE HUEVO MASTURBADOR"
-  },
-  {
-   "gtin": "4049369043422",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Fierce",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-para-el/satisfyer-fierce-huevo-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Huevo masturbador Satisfyer Fierce - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4049369043422",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Fierce",
-   "url": "https://www.universosexshop.com/strokers/4225819-satisfyer-fierce-huevo-masturbador.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER FIERCE HUEVO MASTURBADOR por sólo 3,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4049369043422",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Fierce",
-   "url": "https://www.tudeseo.net/producto/satisfyer-fierce-huevo-masturbador/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - FIERCE HUEVO MASTURBADOR"
-  },
-  {
-   "gtin": "4061504010007",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Riffle",
-   "url": "https://www.universosexshop.com/strokers/4225817-satisfyer-riffle-huevo-mastubador.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER RIFFLE HUEVO MASTUBADOR por sólo 3,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4061504010007",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Riffle",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-para-el/satisfyer-riffle-huevo-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Huevo masturbador Satisfyer Riffle - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504010014",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Bubble",
-   "url": "https://www.sexshopboudoir.es/juguetes-xxx-para-el/satisfyer-bubble-huevo-masturbador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Huevo masturbador Satisfyer Bubble - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4061504010014",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Bubble",
-   "url": "https://www.universosexshop.com/strokers/4225818-satisfyer-bubble-huevo-masturbador.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER BUBBLE HUEVO MASTURBADOR por sólo 3,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4061504010014",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Bubble",
-   "url": "https://www.tudeseo.net/producto/satisfyer-bubble-huevo-masturbador/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - BUBBLE HUEVO MASTURBADOR"
-  },
-  {
-   "gtin": "4061504010021",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Naughty",
-   "url": "https://www.universosexshop.com/strokers/4225820-satisfyer-naughty-huevo-masturbador.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); SATISFYER NAUGHTY HUEVO MASTURBADOR por sólo 3,96 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "4061504010021",
-   "marca": "SATISFYER",
-   "articulo": "SATISFYER EGGCITED",
-   "variante": "Modelo: Naughty",
-   "url": "https://www.tudeseo.net/producto/satisfyer-naughty-huevo-masturbador/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - SATISFYER - NAUGHTY HUEVO MASTURBADOR"
-  },
-  {
-   "gtin": "4260605480010",
+   "gtin": "4260605482168",
    "marca": "MISTER SIZE",
    "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-47mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 47mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
+   "variante": "Diametro: 57mm, Unidades: 100",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-l-57-mm-100-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA L 57 MM (100 UNIDADES)"
   },
   {
-   "gtin": "4260605480010",
+   "gtin": "4260605482298",
    "marca": "MISTER SIZE",
    "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 10",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-10-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 10",
-   "url": "https://losplaceresdelola.com/products/mister-size-47mm-10-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE 47MM | Preservativos extrafinos y ajustados",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://losplaceresdelola.com/policies/shipping-policy"
-   }
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 47mm, Unidades: 36",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-36-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 49mm, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-49mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 49mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 49mm, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-s-49-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA S 49 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 53mm, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-53mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 53mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 53mm, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-m-53-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA M 53 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 57mm, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-57mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 57mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 57mm, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-l-57-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA L 57 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-60mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 60mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xl-60-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XL 60 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 10",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-60mm-caja-10/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 60mm caja 10 - TocaBanana SexShop Nº1 en masturbadores",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 60mm, Unidades: 36",
-   "url": "https://mascondon.com/1223-preservativos-mister-size-60mm-36-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 60mm. - 36 unidades"
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE – A MEDIDA",
-   "variante": "Diametro: 64mm, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-64mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 64mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
+   "variante": "Diametro: 49mm, Unidades: 100",
+   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-s-49-mm-100-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA S 49 MM (100 UNIDADES)"
   }
  ],
  "sin_ofertas": []
