@@ -16,6 +16,7 @@ from urllib.parse import urlparse
 
 DESTINO = "ES-28902"
 MAX_DIAS = 21
+MAX_POR_GTIN = 8
 CSV_SALIDA = "competencia.csv"
 FUENTE = "Tarea Claude"
 CABECERA = ["GTIN", "Marca", "Articulo", "Variante", "Precio IVA", "Envio IVA", "Moneda", "Destino", "En stock", "Modelo verificado",
@@ -133,11 +134,29 @@ def main():
             vistos.add(k)
             unicas.append(r)
     limite = ahora() - timedelta(days=MAX_DIAS)
-    conservadas = []
+    # Un GTIN revisado se actualiza con sus hallazgos nuevos, pero NO se borran las fichas antiguas (≤ 21 días) de otras direcciones:
+    # una pasada con tope de comprobaciones puede no haber abierto todas las tiendas, y el módulo ya descarta por su cuenta las que dejan de valer.
+    # (Las filas «sin ofertas» antiguas sí se sustituyen.) Máximo MAX_POR_GTIN fichas por GTIN: primero las nuevas, luego las más recientes.
+    nuevas_url = {(r[0], r[14]) for r in unicas}
+    cupo = {}
+    for r in unicas:
+        if r[15] == "PENDIENTE":
+            cupo[r[0]] = cupo.get(r[0], 0) + 1
+    candidatas_previas = []
     for r in leer_previo():
         f = parse_iso(r[13])
-        if r[0] in revisados or f is None or f < limite:
+        if f is None or f < limite:
             continue
+        if r[0] in revisados and (r[15] != "PENDIENTE" or (r[0], r[14]) in nuevas_url):
+            continue
+        candidatas_previas.append((f, r))
+    candidatas_previas.sort(key=lambda x: x[0], reverse=True)
+    conservadas = []
+    for f, r in candidatas_previas:
+        if r[15] == "PENDIENTE" and cupo.get(r[0], 0) >= MAX_POR_GTIN:
+            continue
+        if r[15] == "PENDIENTE":
+            cupo[r[0]] = cupo.get(r[0], 0) + 1
         conservadas.append(r)
     filas = conservadas + unicas
     pub = "nube_" + ahora().strftime("%Y%m%d%H%M%S")
