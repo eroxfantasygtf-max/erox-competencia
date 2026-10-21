@@ -4,6 +4,7 @@
 Uso:  python siguiente.py [N=2]      → imprime «MARCA1,MARCA2» (o NADA_ATRASADO)
 Un producto cuenta como revisado cuando figura en `revisados.csv` (lo escribe publicar.py, haya o no hallado fichas) o, si ese archivo
 no existe, cuando tiene fila en `competencia.csv`. Pasados 14 días vuelve a estar pendiente.
+Si existe `repasar_desde.txt` (una fecha AAAA-MM-DD), todo lo revisado antes de esa fecha cuenta como pendiente.
 """
 import csv
 import os
@@ -37,6 +38,15 @@ def main():
     n = int(sys.argv[1]) if len(sys.argv) > 1 else 2
     ult = leer_revisados()
     limite = datetime.now(timezone.utc) - timedelta(days=DIAS)
+    # Orden del propietario: «repasar desde AAAA-MM-DD». Lo revisado antes de esa fecha vuelve a estar pendiente
+    # (útil al subir tiendas nuevas a tiendas.csv: así se repasan todas las marcas sin esperar 14 días).
+    if os.path.exists("repasar_desde.txt"):
+        try:
+            with open("repasar_desde.txt", encoding="utf-8-sig") as f:
+                desde = datetime.strptime(f.read().strip()[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            limite = max(limite, desde)
+        except ValueError:
+            pass
     pend = {}
     with open("gtins.csv", newline="", encoding="utf-8-sig") as f:
         for r in csv.DictReader(f):
