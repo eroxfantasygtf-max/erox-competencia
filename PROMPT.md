@@ -67,7 +67,7 @@ python publicar.py
 Elige hasta 5 tiendas por GTIN (las de menor precio visible), añade la política de envíos de `tiendas.csv`, escribe `resultados.json` y genera `competencia.csv` (uniéndolo a lo ya publicado; descarta filas de más de 21 días).
 
 ## Paso 6 · Subir
-Haz commit de `competencia.csv`, `resultados.json`, `revisados.csv` y `envios.csv` (si existe) y súbelo: `git push origin claude/competencia-datos`. Si lo rechaza, `git pull --rebase origin claude/competencia-datos` y repite; si hay conflicto en `competencia.csv`, rehazlo ejecutando `publicar.py` partiendo de la versión remota.
+Haz commit de `competencia.csv`, `resultados.json`, `revisados.csv`, `explorados.csv` (lo escribe `emparejar.py`: qué pares producto-tienda se han abierto ya, para que cada noche se exploren pares nuevos) y `envios.csv` (si existe) y súbelo: `git push origin claude/competencia-datos`. Si lo rechaza, `git pull --rebase origin claude/competencia-datos` y repite; si hay conflicto en `competencia.csv`, rehazlo ejecutando `publicar.py` partiendo de la versión remota.
 
 ## Resumen final (corto)
 Marcas procesadas · productos · productos con ≥1 tienda verificada · fichas publicadas · tiendas rastreadas con éxito y las que fallaron · casos con título incoherente · tiempo aproximado.

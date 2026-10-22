@@ -96,7 +96,43 @@ def resolver(prod, host, cands, abiertas):
     return ("dudosa", {"gtin": prod["gtin"], "marca": prod["marca"], "articulo": prod["articulo"], "variante": prod.get("variante", ""), "host": host,
                        "candidatas": [u for _, u in cands]})
 
-def repartir(tareas, tope):
+EXPLORADOS = "explorados.csv"   # (gtin, tienda, fecha, resultado) de lo ya abierto en pasadas anteriores: así cada noche se exploran pares NUEVOS
+DIAS_EXPLORADO = 12
+
+
+def cargar_explorados(ruta=EXPLORADOS, dias=DIAS_EXPLORADO):
+    """{(gtin, tienda): fecha} de lo explorado hace menos de `dias` días."""
+    from datetime import datetime, timedelta, timezone
+    limite = datetime.now(timezone.utc) - timedelta(days=dias)
+    out = {}
+    if os.path.exists(ruta):
+        with open(ruta, newline="", encoding="utf-8-sig") as f:
+            for r in csv.DictReader(f):
+                try:
+                    d = datetime.strptime(r["fecha"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                except (ValueError, KeyError):
+                    continue
+                if d >= limite:
+                    out[(r["gtin"], r["tienda"])] = r
+    return out
+
+
+def guardar_explorados(res, ruta=EXPLORADOS):
+    """Añade lo explorado en esta pasada (conserva lo anterior de los últimos 30 días)."""
+    from datetime import datetime, timezone
+    ahora = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    previo = cargar_explorados(ruta, 30)
+    for k, r in res:
+        g = r["gtin"]
+        h = r["host"]
+        previo[(g, h)] = {"gtin": g, "tienda": h, "fecha": ahora, "resultado": "ok" if k == "ok" else "dudosa"}
+    with open(ruta, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f, lineterminator="\n")
+        w.writerow(["gtin", "tienda", "fecha", "resultado"])
+        for (g, h), r in sorted(previo.items()):
+            w.writerow([g, h, r["fecha"], r["resultado"]])
+
+def repartir(tareas, tope, vistas=None):
     """Reparte el tope de fichas abiertas por RONDAS entre productos: primero la mejor tienda candidata de cada producto, luego la segunda…
     Así ningún producto se queda sin revisar porque otros tengan muchas candidatas (antes se ordenaba solo por parecido)."""
     por_gtin = {}
@@ -116,7 +152,8 @@ def repartir(tareas, tope):
         if not hubo:
             break
         ronda += 1
-    recorte, vistas = [], set()
+    recorte = []
+    vistas = set() if vistas is None else vistas
     for t in orden:
         nuevas = [u for _, u in t[2] if u not in vistas]       # el tope cuenta PÁGINAS DISTINTAS: una ficha compartida por varias variantes se abre una sola vez
         if len(vistas) + len(nuevas) > tope:
@@ -147,7 +184,11 @@ def main():
         if not hubo:
             sin.append({"gtin": p["gtin"], "marca": p["marca"], "articulo": p["articulo"], "variante": p.get("variante", "")})
     # si hay demasiadas, se limita el número de fichas abiertas repartiéndolo entre TODOS los productos
-    recorte = repartir(tareas, MAX_ABRIR)
+    explorados = cargar_explorados()
+    nuevas = [t for t in tareas if (t[0]["gtin"], t[1]) not in explorados]
+    viejas = [t for t in tareas if (t[0]["gtin"], t[1]) in explorados]
+    vistas = set()
+    recorte = repartir(nuevas, MAX_ABRIR, vistas) + repartir(viejas, MAX_ABRIR, vistas)    # primero los pares aún no explorados
     pares = {}
     for p, host, cands in recorte:
         for _, url in cands:
@@ -155,6 +196,7 @@ def main():
     with ThreadPoolExecutor(max_workers=6) as ex:
         abiertas = dict(ex.map(abrir, [(u, sorted(gs)) for u, gs in pares.items()]))
     res = [resolver(p, host, cands, abiertas) for p, host, cands in recorte]
+    guardar_explorados([(k, r if k == "ok" else r) for k, r in res])
     verificados = [r for k, r in res if k == "ok"]
     dudosas = [r for k, r in res if k == "dudosa"]
     out = {"marcas": marcas, "productos": len(prods), "tiendas_con_catalogo": len([h for h, f in cat.items() if f]), "verificados": verificados,
