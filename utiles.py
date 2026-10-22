@@ -47,6 +47,25 @@ def tokens(s):
     return out
 
 
+# Palabras demasiado comunes para identificar un producto por sí solas (no sirven como «firma»)
+GENERICAS = {"medida", "kit", "set", "vibrador", "vibradores", "masturbador", "masturbadores", "huevo", "huevos", "estimulador", "succionador",
+             "plug", "cable", "cargador", "gel", "aceite", "lubricante", "crema", "spray", "pintura", "corporal", "recambios", "recambio",
+             "juguete", "juguetes", "masaje", "erotico", "erotica", "natural", "classic", "extra", "sensitivo", "original", "premium", "mini",
+             "love", "men", "women", "pro", "plus", "anal", "vaginal", "boca", "kit", "bolas", "anillo", "silicona", "agua", "base"}
+
+
+def firma_articulo(marca, articulo):
+    """Palabras que identifican la LÍNEA de producto sin necesidad de la marca (p. ej. «eggcited»), para reconocer fichas cuya dirección no
+    lleva la marca (condonesmix: /huevo-masturbador-eggcited-bubble). Vacío si el nombre es demasiado genérico para fiarse."""
+    bt = set(tokens(marca))
+    f = [t for t in tokens(articulo) if t not in bt and t not in GENERICAS]
+    if len(f) >= 2 and any(len(t) >= 5 for t in f):
+        return frozenset(f)
+    if len(f) == 1 and len(f[0]) >= 6:
+        return frozenset(f)
+    return frozenset()
+
+
 def clave_gtin(g):
     return re.sub(r"\D", "", str(g or "")).lstrip("0")
 

@@ -14,7 +14,7 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 
-from utiles import descargar, tokens
+from utiles import descargar, firma_articulo, tokens
 
 OMITIR = re.compile(r"(blog|post|page|cms|image|imagen|categor|collection|article|tag|brand|manufactur|pagina|news|video|attribute)", re.I)
 MAX_ARCHIVOS = 60
@@ -62,8 +62,26 @@ def cargar_marcas(ruta="gtins.csv"):
         return sorted({r["marca"].strip() for r in csv.DictReader(f) if r.get("marca")})
 
 
-def filtrar(urls, marcas):
-    """URL cuyo texto contiene TODAS las palabras de alguna marca."""
+def cargar_firmas(marcas, ruta="gtins.csv"):
+    """[(marca, firma)] de las líneas de producto de esas marcas que se reconocen por su nombre aunque la URL no lleve la marca."""
+    ms = {m.lower() for m in marcas}
+    vistos, out = set(), []
+    try:
+        with open(ruta, newline="", encoding="utf-8-sig") as f:
+            for r in csv.DictReader(f):
+                if r.get("marca", "").strip().lower() in ms:
+                    fi = firma_articulo(r["marca"], r.get("articulo", ""))
+                    if fi and (r["marca"], fi) not in vistos:
+                        vistos.add((r["marca"], fi))
+                        out.append((r["marca"], fi))
+    except FileNotFoundError:
+        pass
+    return out
+
+
+def filtrar(urls, marcas, firmas=()):
+    """URL cuyo texto contiene TODAS las palabras de alguna marca, o la firma de alguna línea de producto de esas marcas
+    (así no se pierden las fichas cuya dirección no lleva la marca)."""
     mt = [(m, set(tokens(m))) for m in marcas]
     out = []
     for u in urls:
@@ -72,6 +90,11 @@ def filtrar(urls, marcas):
             if ts and ts <= slug:
                 out.append((u, m))
                 break
+        else:
+            for m, fi in firmas:
+                if fi <= slug:
+                    out.append((u, m))
+                    break
     return out
 
 
@@ -79,7 +102,7 @@ def procesar(args):
     host, pista, marcas = args
     try:
         urls, n = hojas_sitemap(host, pista)
-        sel = filtrar(urls, marcas)
+        sel = filtrar(urls, marcas, cargar_firmas(marcas))
         with open(os.path.join("work", host + ".tsv"), "w", encoding="utf-8") as f:
             for u, m in sel:
                 f.write("%s\t%s\n" % (u, m))
