@@ -19,12 +19,12 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 
-from utiles import clave_gtin, firma_articulo, tokens
-from verificar import verificar
+from utiles import clave_gtin, descargar, firma_articulo, tokens
+from verificar import analizar
 
 TOP = 3          # fichas que se abren por producto y tienda
 UMBRAL = 0.34    # parecido mínimo de palabras
-MAX_ABRIR = 2400  # tope de fichas abiertas por pasada (repartido por rondas entre todos los productos)
+MAX_ABRIR = 3000  # tope de PÁGINAS DISTINTAS abiertas por pasada (repartido por rondas entre todos los productos)
 
 
 def cargar_productos(marcas, ruta="gtins.csv"):
@@ -67,17 +67,34 @@ def candidatas(prod, filas):
     return puntuadas[:TOP]
 
 
-def trabajo(args):
-    prod, host, cands = args
+def abrir(args):
+    """Abre UNA página y la comprueba contra TODOS los GTIN que la tienen como candidata (las variantes de un mismo producto comparten fichas)."""
+    url, gtins = args
+    codigo, texto = descargar(url)
+    time.sleep(0.4)
+    out = {}
+    for g in gtins:
+        if codigo == 200 and texto:
+            r = analizar(texto, g)
+            r.update(gtin=g, url=url, http=codigo)
+            if not r["ok"]:
+                r["evidencia"] = "el GTIN no figura en ningún campo de identificación de la ficha"
+        else:
+            r = {"gtin": g, "url": url, "http": codigo, "ok": False, "nivel": None, "evidencia": "no se pudo leer la ficha (HTTP %s)" % codigo}
+        out[g] = r
+    return url, out
+
+
+def resolver(prod, host, cands, abiertas):
+    """Primera candidata (por orden de parecido) cuyo GTIN se ha comprobado en la ficha."""
     for score, url in cands:
-        r = verificar(prod["gtin"], url)
-        time.sleep(0.4)
-        if r.get("ok"):
+        r = abiertas.get(url, {}).get(prod["gtin"])
+        if r and r.get("ok"):
+            r = dict(r)
             r.update(host=host, score=round(score, 2), marca=prod["marca"], articulo=prod["articulo"], variante=prod.get("variante", ""))
             return ("ok", r)
     return ("dudosa", {"gtin": prod["gtin"], "marca": prod["marca"], "articulo": prod["articulo"], "variante": prod.get("variante", ""), "host": host,
                        "candidatas": [u for _, u in cands]})
-
 
 def repartir(tareas, tope):
     """Reparte el tope de fichas abiertas por RONDAS entre productos: primero la mejor tienda candidata de cada producto, luego la segunda…
@@ -99,11 +116,12 @@ def repartir(tareas, tope):
         if not hubo:
             break
         ronda += 1
-    recorte, abiertas = [], 0
+    recorte, vistas = [], set()
     for t in orden:
-        if abiertas + len(t[2]) > tope:
-            break
-        abiertas += len(t[2])
+        nuevas = [u for _, u in t[2] if u not in vistas]       # el tope cuenta PÁGINAS DISTINTAS: una ficha compartida por varias variantes se abre una sola vez
+        if len(vistas) + len(nuevas) > tope:
+            continue
+        vistas.update(nuevas)
         recorte.append(t)
     return recorte
 
@@ -130,8 +148,13 @@ def main():
             sin.append({"gtin": p["gtin"], "marca": p["marca"], "articulo": p["articulo"], "variante": p.get("variante", "")})
     # si hay demasiadas, se limita el número de fichas abiertas repartiéndolo entre TODOS los productos
     recorte = repartir(tareas, MAX_ABRIR)
+    pares = {}
+    for p, host, cands in recorte:
+        for _, url in cands:
+            pares.setdefault(url, set()).add(p["gtin"])
     with ThreadPoolExecutor(max_workers=6) as ex:
-        res = list(ex.map(trabajo, recorte))
+        abiertas = dict(ex.map(abrir, [(u, sorted(gs)) for u, gs in pares.items()]))
+    res = [resolver(p, host, cands, abiertas) for p, host, cands in recorte]
     verificados = [r for k, r in res if k == "ok"]
     dudosas = [r for k, r in res if k == "dudosa"]
     out = {"marcas": marcas, "productos": len(prods), "tiendas_con_catalogo": len([h for h, f in cat.items() if f]), "verificados": verificados,
