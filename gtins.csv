@@ -1,5 +1,6 @@
 gtin,marca,articulo,variante
 697309012003,SHUNGA,"Shunga Massage Oil","Aroma: Pétalos de rosa · Aphrodisia"
+697309012027,SHUNGA,"Shunga Massage Oil","Aroma: Frutas exóticas · Libido"
 697309012034,SHUNGA,"Shunga Massage Oil","Aroma: Melocotón · Estimulante"
 697309012065,SHUNGA,"Shunga Massage Oil","Aroma: Lavanda · Sensación"
 697309012072,SHUNGA,"Shunga Massage Oil","Aroma: Vainilla · Deseo"
@@ -13,6 +14,7 @@ gtin,marca,articulo,variante
 697309013116,SHUNGA,"Shunga Massage Oil","Aroma: Té verde · ORGANICA"
 697309013123,SHUNGA,"Shunga Massage Oil","Aroma: Almendra · ORGANICA"
 697309013222,SHUNGA,"Shunga Massage Oil","Aroma: Sin aroma · ORGANICA"
+697309020251,SHUNGA,"Shunga Calendario de Deseos",
 697309022002,SHUNGA,"Shunga Warming Oil","Sabor: Cereza"
 697309022019,SHUNGA,"Shunga Warming Oil","Sabor: Frambuesa"
 697309022026,SHUNGA,"Shunga Warming Oil","Sabor: Frutas Exoticas"
@@ -23,6 +25,7 @@ gtin,marca,articulo,variante
 697309022149,SHUNGA,"Shunga Warming Oil","Sabor: Cafe"
 697309022156,SHUNGA,"Shunga Warming Oil","Sabor: Caramelo"
 697309022163,SHUNGA,"Shunga Warming Oil","Sabor: Sorbete"
+697309023115,SHUNGA,"Shunga Warming Oil","Sabor: Te Verde"
 697309046008,SHUNGA,"Shunga Mini Caress","Aroma: Rosas"
 697309046015,SHUNGA,"Shunga Mini Caress","Aroma: Vainilla"
 697309046022,SHUNGA,"Shunga Mini Caress","Aroma: Frutas Exoticas"
@@ -65,8 +68,10 @@ gtin,marca,articulo,variante
 827160100810,PJUR,"pjur ORIGINAL","Formato: 1.000 ml"
 827160104634,PJUR,"pjur analyse me!",
 827160104665,PJUR,"pjur BACK DOOR",
+827160106232,PJUR,"pjur ORIGINAL","Formato: 30 ml"
 827160106249,PJUR,"pjur ORIGINAL","Formato: 100 ml"
 827160106256,PJUR,"pjur ORIGINAL","Formato: 250 ml"
+827160110871,PJUR,"pjur superhero Serum",
 827160111939,PJUR,"pjur med After Shave",
 827160113544,PJUR,"pjur superhero Spray",
 827160116569,PJUR,"pjur TOY FOAM",
@@ -115,8 +120,10 @@ gtin,marca,articulo,variante
 4049369043439,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: Naughty + Savage + Crunchy"
 4049369043446,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: 3 Riffle"
 4049369043453,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: 3 Bubble"
+4049369043460,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: 3 Fierce"
 4049369043477,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: 3 Naughty"
 4049369043484,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: 3 Savage"
+4049369043491,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: 3 Crunchy"
 4061504001753,SATISFYER,"Satisfyer Men Classic","Color: Negro"
 4061504001760,SATISFYER,"Satisfyer Men Classic","Color: Gris"
 4061504001807,SATISFYER,"Satisfyer Masturbator Eggs","Texturas del pack: Riffle + Bubble + Fierce"
@@ -198,6 +205,8 @@ gtin,marca,articulo,variante
 4260605483028,"MISTER SIZE","MISTER SIZE Delay Gel",
 7350022274891,LELO,"Cable USB LELO",
 7350022277694,LELO,"LELO Luna Beads Noir",
+7350075021015,LELO,"LUNA Smart Bead","Color: Rosa"
+7350075021022,LELO,"LUNA Smart Bead","Color: Morado"
 7350075022470,LELO,"LELO HEX Original","Unidades: 3"
 7350075022494,LELO,"LELO HEX Original","Unidades: 12"
 7350075024085,LELO,"LELO HEX Original","Unidades: 36"
