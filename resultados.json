@@ -1,68 +1,43 @@
 {
- "revisado_en": "2026-11-08T02:27:41Z",
+ "revisado_en": "2026-11-09T02:23:40Z",
  "gtins_revisados": [
-  "4260605480010",
-  "4260605480027",
-  "4260605480034",
-  "4260605480041",
-  "4260605480058",
-  "4260605480065",
-  "4260605480072",
-  "4260605480089",
-  "4260605480096",
-  "4260605480102",
-  "4260605480119",
-  "4260605480126",
-  "4260605480133",
-  "4260605480140",
-  "4260605480157",
-  "4260605480164",
-  "4260605480171",
-  "4260605480188",
-  "4260605480195",
-  "4260605480201",
-  "4260605480218",
-  "4260605481987",
-  "4260605482168",
-  "4260605482175",
-  "4260605482182",
-  "4260605482199",
-  "4260605482281",
-  "4260605482298",
-  "4260605482304",
-  "4260605483028",
-  "8410104881801",
-  "8410104881832",
-  "8410104892333",
-  "8428076000342",
-  "8428076000427",
-  "8428076000441",
-  "8428076000458",
-  "8428076000465",
-  "8428076000472",
-  "8428076000489",
-  "8428076000502",
-  "8428076000526",
-  "8428076000533",
-  "8428076000540",
-  "8428076000571",
-  "8428076000618",
-  "8428076000670",
-  "8428076001035",
-  "8428076001042",
-  "8428076001059",
-  "8428076010419",
-  "8428076010426",
-  "8428076010440"
+  "827160100803",
+  "827160100810",
+  "827160104634",
+  "827160104665",
+  "827160106232",
+  "827160106249",
+  "827160106256",
+  "827160110871",
+  "827160111939",
+  "827160113544",
+  "827160116569",
+  "827160116811",
+  "827160117009",
+  "4251460611107",
+  "4251460611114",
+  "4251460611121",
+  "4251460611138",
+  "4251460611145",
+  "4251460615525",
+  "4251460615532",
+  "4251460615549",
+  "4251460615556",
+  "4251460615563",
+  "4251460633314",
+  "4251460636858",
+  "4251460636865",
+  "4251460636872",
+  "4251460636889"
  ],
  "hallazgos": [
   {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-47-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 47 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
+   "gtin": "4251460611107",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Negro",
+   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -70,360 +45,12 @@
    }
   },
   {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-47mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 47mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 3",
-   "url": "https://mascondon.com/1433-mister-size-47-mm-3-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 47 (3 unidades): Experimenta la máxima comodidad y segurida"
-  },
-  {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-clasicos/mister-size-47-3-pack-extra-fino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 47 (3 PACK) - EXTRA FINO",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480010",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 3",
-   "url": "https://www.almacenerotico.com/602-3-preservativos-mister-size-talla-47-extrafinos-4260605480010.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos Mister Size Talla 47 Extrafinos",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "60",
-    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-47-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 47 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xs-47-mm-10-unidadesd-242276",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 10",
-   "url": "https://www.diversual.com/es/mister-size-47-mm-10-uds-100618.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 47 mm 10 Uds, Preservativos - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 10",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-10-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480027",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 10",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-4-a-24/mister-size-preservativos-talla-xs-47-mm-10-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (10 UNIDADES) | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-36-unidadesd-242283",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XS 47 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-47-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 47 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 36",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/tamano-xs-pequenos/mister-size-preservativos-talla-xs-47-mm-36-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos Talla XS 47 mm 36 Unidades | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 36",
-   "url": "https://mascondon.com/1456-mister-size-pure-feel-extra-fino-47-mm-aumenta-tu-placer-con-36-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Placer Puro con Mister Size Pure Feel 47 mm - 36 Unidades |Mascondon|"
-  },
-  {
-   "gtin": "4260605480034",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 36",
-   "url": "https://www.diversual.com/es/mister-size-47-mm-36-uds-100606.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 47 mm 36 Uds, Preservativos formato ahorro - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-49-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 49 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-49mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 49mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 3",
-   "url": "https://mascondon.com/1432-mister-size-49-mm-3-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 49 (3 unidades): Experimenta la máxima comodidad y segurida"
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-clasicos/mister-size-49-3-pack-extra-fino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 49 (3 PACK) - EXTRA FINO",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480041",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-s-49-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA S 49 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480058",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 10",
-   "url": "https://mascondon.com/1347-preservativos-mister-size-pure-feel-extra-fino-49-mm-10-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size Pure Feel Extra Fino 49 mm | Mascondon"
-  },
-  {
-   "gtin": "4260605480058",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-49-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 49 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480058",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-s-49-mm-10-unidadesd-242277",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO S 49 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480058",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 10",
-   "url": "https://www.diversual.com/es/mister-size-49-mm-10-uds-103330.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 49 mm 10 Uds, Preservativos - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480058",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 10",
-   "url": "https://www.magicdust.es/tienda/preservativos/preservativos-por-tallas/mister-size-pro-preservativos-talla-49/",
-   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 4260605480058); preservativo talla 49 • Magicdust Tienda erótica",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "99.00",
-    "url": "https://www.magicdust.es/condiciones/"
-   }
-  },
-  {
-   "gtin": "4260605480065",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-s-49-mm-36-unidadesd-242284",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO S 49 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480065",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 36",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condom-size-s-49-mm-36-units/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 49 mm Talla S | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480065",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-49-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 49 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480065",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 36",
-   "url": "https://www.diversual.com/es/mister-size-49-mm-36-uds-100612.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 49 mm 36 Uds, Preservativos formato ahorro - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480065",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 36",
-   "url": "https://www.placerintenso.es/preservativos-clasicos/mister-size-49-36-pack-extra-fino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 49 (36 PACK) - EXTRA FINO",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480089",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-53-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 53 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480089",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-m-53-mm-10-unidadesd-242278",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO M 53 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480089",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 10",
-   "url": "https://www.lovesexshop.es/mister-size-condon-fino-53mm-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size preservativo fino - 53 mm (10 uds) | Lovesexshop",
+   "gtin": "4251460611107",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Negro",
+   "url": "https://www.lovesexshop.es/womanizer-duo-2-vibrador-2en1-para-punto-g-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 - Succionador y vibrador punto G - negro | L",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -431,12 +58,12 @@
    }
   },
   {
-   "gtin": "4260605480089",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 10",
-   "url": "https://www.desirel.es/mister-size-condon-fino-53mm-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size preservativo fino - 53 mm (10 uds) | Sex Shop De",
+   "gtin": "4251460611107",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Negro",
+   "url": "https://www.desirel.es/womanizer-duo-2-vibrador-2en1-para-punto-g-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 - Succionador y vibrador punto G - negro | S",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -444,731 +71,20 @@
    }
   },
   {
-   "gtin": "4260605480089",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 10",
-   "url": "https://www.diversual.com/es/mister-size-53-mm-10-uds-103331.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 53 mm 10 Uds, Preservativos - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
+   "gtin": "4251460611107",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Negro",
+   "url": "https://www.easytoys.es/womanizer-duo-2-negro-p-66034/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer DUO 2 - Negro - EasyToys"
   },
   {
-   "gtin": "4260605480096",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-m-53-mm-36-unidadesd-242285",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO M 53 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480096",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 36",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-m-53-mm-36-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos Talla M 53 mm | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480096",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-53-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 53 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480096",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 36",
-   "url": "https://www.diversual.com/es/mister-size-53-mm-36-uds-100613.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 53 mm 36 Uds, Preservativos formato ahorro - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480096",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 36",
-   "url": "https://www.placerintenso.es/preservativos-clasicos/mister-size-53-36-pack-extra-fino-53mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 53 (36 PACK) - EXTRA FINO, 53MM",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-57-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 57 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 3",
-   "url": "https://mascondon.com/1863-preservativos-mister-size-pure-feel-57-mm-3-uds-siente-como-nunca.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 57 mm 3 uds – Extra finos | Mascondon |"
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-57mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 57mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-clasicos/mister-size-57-3-pack-natural-57-cm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 57 (3 PACK) - NATURAL 57 CM",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480102",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 3",
-   "url": "https://www.desirel.es/mister-size-fino-condon-57mm-3uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size preservativo fino - 57 mm (3 unidades) | Sex Sho",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4260605480119",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-57-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 57 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480119",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-l-57-mm-10-unidadesd-242279",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO L 57 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480119",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 10",
-   "url": "https://www.diversual.com/es/mister-size-57-mm-10-uds-103327.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 57 mm 10 Uds, Preservativos - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480119",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 10",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-l-57-mm-10-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA L 57 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480119",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 10",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-4-a-24/mister-size-preservativos-talla-l-57-mm-10-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA L 57 MM (10 UNIDADES) | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480126",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-l-57-mm-36-unidadesd-242286",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO L 57 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480126",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 36",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-l-57-mm-36-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 57 mm 36 uds | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480126",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-57-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 57 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480126",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 36",
-   "url": "https://www.vivelavita.com/es/mister-size-57-36-pack-extra-fino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Condones Mister Size 57 de Xr Brands | Ajuste Exacto y Comodidad",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "4260605480126",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 36",
-   "url": "https://www.diversual.com/es/mister-size-57-mm-36-uds-100614.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 57 mm 36 Uds, Preservativos formato ahorro - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-60",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 60 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xl-60-mm-10-unidadesd-242280",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO XL 60 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 10",
-   "url": "https://mascondon.com/1436-mister-size-60-mm-10-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 60 mm - Paquete de 10 Unidades | Protección y Comodidad | C"
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 10",
-   "url": "https://www.magicdust.es/tienda/preservativos/preservativos-por-tallas/mister-size-pro-preservativos-talla-60/",
-   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 4260605480140); preservativo talla 60 • Magicdust Tienda erótica",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "99.00",
-    "url": "https://www.magicdust.es/condiciones/"
-   }
-  },
-  {
-   "gtin": "4260605480140",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 10",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-60mm-caja-10/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 60mm caja 10 - TocaBanana SexShop Nº1 en masturbadores",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xl-60-mm-36-unidadesd-242287",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO XL 60 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 36",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-xl-60-mm-36-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos de 60 mm Formato Grande | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-60",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 60 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 36",
-   "url": "https://www.diversual.com/es/mister-size-60-mm-36-uds-100615.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 60 mm 36 Uds, Preservativos formato ahorro - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480157",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 36",
-   "url": "https://www.placerintenso.es/preservativos-xl/mister-size-60-36-pack-extrafino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 60 (36 PACK) - EXTRAFINO",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-64-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 64 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 3",
-   "url": "https://mascondon.com/1320-preservativos-mister-size-pure-feel-extra-fino-64-mm-3-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PRESERVATIVOS MISTER SIZE PURE FEEL EXTRA FINO 64 MM 3 UDS"
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-64mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 64mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxl-64-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXL 64 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480164",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xxl-64-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Preservativos MISTER SIZE XXL 64 mm – Ajuste amplio y cómodo (3 uds)",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 36",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condones-xxl-64-mm-pack-36-unidades-para-ajuste-perfecto/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Condones MISTER SIZE XXL 64 mm para máxima comodidad | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-64-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 64 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 36",
-   "url": "https://www.diversual.com/es/mister-size-64-mm-36-uds-100616.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 64 mm 36 Uds, Preservativos formato ahorro - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 36",
-   "url": "https://www.placerintenso.es/preservativos-xl/mister-size-64mm-pack-de-36-preservativos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 64MM - PACK DE 36 PRESERVATIVOS",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480188",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 36",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxl-64-mm-36-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXL 64 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-69-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 69 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-69mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 69mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 3",
-   "url": "https://mascondon.com/1487-mister-size-pure-feel-extra-fino-69-mm-3-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Mister Size 69 (3 unidades): Experimenta la máxima comodidad y segurida"
-  },
-  {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-xl/mister-size-69-preservativos-extrafinos-3-pack",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 69- PRESERVATIVOS EXTRAFINOS (3 PACK)",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480195",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxxl-69-mm-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXXL 69 MM (3 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-69-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 69 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xxxl-69-mm-10-unidadesd-242282",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 10",
-   "url": "https://www.lovesexshop.es/mister-size-condon-fino-69mm-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size preservativo fino - 69 mm (10 unidades) | Lovese",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 10",
-   "url": "https://www.desirel.es/mister-size-condon-fino-69mm-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size preservativo fino - 69 mm (10 unidades) | Sex Sh",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4260605480201",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 10",
-   "url": "https://mascondon.com/1191-mister-size-69-mm-10-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 69 mm 10 Unidades"
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 36",
-   "url": "https://www.condonesmix.com/products/mister-size-69-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 69 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 36",
-   "url": "https://mascondon.com/1294-preservativos-mister-size-pure-feel-extra-fino-69-mm-36-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PRESERVATIVOS MISTER SIZE PURE FEEL EXTRA FINO 69 MM 36 UDS"
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 36",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-36-unidadesd-242289",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (36 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 36",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-xxxl-69-mm-36-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos Ultrafinos de 69 mm | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480218",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 36",
-   "url": "https://www.diversual.com/es/mister-size-69-mm-36-uds-100617.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 69 mm 36 Uds, Preservativos formato ahorro - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605481987",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Test Set",
-   "variante": "",
-   "url": "https://sexshop-online.com/pt/adapte-ao-seu-tamanho-exato/mister-size-test-set-3-preservativos-diferentes-tallas-cinta-metricad-244851",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - KIT DE TESTE COM 3 CAMISINHAS DE TAMANHOS DIFERENTES + FITA MÉTRIC"
-  },
-  {
-   "gtin": "4260605481987",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Test Set",
-   "variante": "",
-   "url": "https://factormujer.com/mister-size-test-set-53-57-60",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE Test Set Preservativos + Cinta Métrica Tallas 53-60",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4260605481987",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Test Set",
-   "variante": "",
-   "url": "https://lapolvoteca.com/mister-size-test-set-cinta-metrica/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Mister Size Test Set Cinta Métrica",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605481987",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Test Set",
-   "variante": "",
-   "url": "https://www.tudeseo.net/producto/mister-size-test-set-3-preservativos-diferentes-tallas-cinta-metrica/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - TEST SET 3 PRESERVATIVOS DIFERENTES TALLAS + CI"
-  },
-  {
-   "gtin": "4260605481987",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Test Set",
-   "variante": "",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/mister-size-test-set-3-preservativos-diferentes-tallas-cinta-metrica/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - TEST SET 3 PRESERVATIVOS DIFERENTES TALLAS + CINTA MÉTRICA | Maske",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605482168",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-l-57-mm-100-unidadesd-242301",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO L 57 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482168",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 100",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condom-size-l-57-mm-100-units/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 57 mm, 100 Unidades | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605482168",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 100",
-   "url": "https://toqueteo.es/products/mister-size-preservativos-talla-l-57-mm-100-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MISTER SIZE - 100 unidades – Toqueteo",
+   "gtin": "4251460611107",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Negro",
+   "url": "https://toqueteo.es/products/womanizer-duo-2-estimulador-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Succionador vibrador Womanizer Duo 2 negro, doble estímulo – Toqueteo",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "60.00",
@@ -1176,54 +92,12 @@
    }
   },
   {
-   "gtin": "4260605482168",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 100",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-l-57-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA L 57 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482168",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 57, Unidades: 100",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-30-a-288/mister-size-preservativos-talla-l-57-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA L 57 MM (100 UNIDADES) | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605482175",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xl-60-mm-100-unidadesd-242302",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO XL 60 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482175",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 100",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condones-xl-60-mm-para-maximo-confort-100-uds/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Condones XL 60 mm MISTER SIZE para mayor comodidad | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605482175",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-60",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 60 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
+   "gtin": "4251460611114",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Rojo",
+   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -1231,311 +105,25 @@
    }
   },
   {
-   "gtin": "4260605482175",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 100",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xl-60-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XL 60 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482175",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 100",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-30-a-288/mister-size-preservativos-talla-xl-60-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA XL 60 MM (100 UNIDADES) | Maskeamor.com",
+   "gtin": "4251460611114",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Rojo",
+   "url": "https://www.farmaciasdirect.es/products/womanizer-duo-2-estimulador-burdeos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Womanizer Duo 2 Estimulador Burdeos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-64-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 64 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 100",
-   "url": "https://mascondon.com/1771-mister-size-64-mm-100-condones-extra-finos.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 64 mm - Pack 100 uds | Mascondon |"
-  },
-  {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxl-64-mm-100-unidadesd-242303",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 100",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condoms-size-xxl-64-mm-100-units/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 64 mm, 100 Unidades | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605482182",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 100",
-   "url": "https://toqueteo.es/products/mister-size-preservativos-talla-xxl-64-mm-100-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MISTER SIZE 64 mm, 100 unidades – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xxxl-69-mm-100-unidadesd-242304",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXXL 69 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-69-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 69 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 100",
-   "url": "https://mascondon.com/1772-mister-size-69-mm-extra-finos-100-condones.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size 69 mm - Pack 100 uds | Mascondon |"
-  },
-  {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 100",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condoms-size-xxxl-69-mm-100-units/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 69 mm 100 Unidades | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605482199",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 69, Unidades: 100",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xxxl-69-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XXXL 69 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-xs-47-mm-100-unidadesd-242298",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO XS 47 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 100",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-xs-47-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos de 47 mm, 100 Unidades | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 100",
-   "url": "https://www.condonesmix.com/products/mister-size-47-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 47 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 100",
-   "url": "https://toqueteo.es/products/mister-size-preservativos-talla-xs-47-mm-100-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Mister Size 47 mm para pene estrecho – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4260605482281",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 47, Unidades: 100",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-xs-47-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA XS 47 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482298",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-s-49-mm-100-unidadesd-242299",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO S 49 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482298",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 100",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-condom-size-s-49-mm-100-units/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Preservativos 49 mm Caja Grande | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605482298",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 100",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-s-49-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA S 49 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482298",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 100",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-30-a-288/mister-size-preservativos-talla-s-49-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA S 49 MM (100 UNIDADES) | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605482298",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 49, Unidades: 100",
-   "url": "https://noctiva.es/products/mister-size-preservativos-talla-s-49-mm-100-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Caja de 100 preservativos Mister Size talla S de 49 mm",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "50.00",
-    "url": "https://noctiva.es/policies/shipping-policy"
-   }
-  },
-  {
-   "gtin": "4260605482304",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 100",
-   "url": "https://sexshop-online.com/pt/caixas-de-30-a-288/mister-size-preservativos-talla-m-53-mm-100-unidadesd-242300",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVO TAMANHO M 53 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482304",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 100",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-talla-m-53-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MISTER SIZE 53 mm talla M - Seguridad y ajuste | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605482304",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 100",
-   "url": "https://www.tudeseo.net/producto/mister-size-preservativos-talla-m-53-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MISTER SIZE - PRESERVATIVOS TALLA M 53 MM (100 UNIDADES)"
-  },
-  {
-   "gtin": "4260605482304",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 100",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-30-a-288/mister-size-preservativos-talla-m-53-mm-100-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE - PRESERVATIVOS TALLA M 53 MM (100 UNIDADES) | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605482304",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 100",
-   "url": "https://toqueteo.es/products/mister-size-preservativos-talla-m-53-mm-100-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Mister Size talla M 53 mm, 100 unidades – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4260605483028",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Delay Gel",
-   "variante": "",
-   "url": "https://sexshop-online.com/en/delay-sprayscreams/mister-size-gel-retardante-50-mld-244578",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - DELAY GEL 50 ML"
-  },
-  {
-   "gtin": "4260605483028",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Delay Gel",
-   "variante": "",
-   "url": "https://www.sextoycity.es/mister-size-gel-retardante-50-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MISTER SIZE Gel retardante 50 ml — gel a base de agua",
+   "gtin": "4251460611114",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Rojo",
+   "url": "https://www.sextoycity.es/womanizer-duo-2-estimulador-burdeos/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); WOMANIZER Duo 2 — Estimulador dual Pleasure Air Bordeaux",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "69",
@@ -1543,1383 +131,12 @@
    }
   },
   {
-   "gtin": "4260605483028",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Delay Gel",
-   "variante": "",
-   "url": "https://bakanal.es/drogueria/estimulantes-para-ellos/retardantes/mister-size-gel-retardante-50-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size Gel Retardante 50 ml | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605483028",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Delay Gel",
-   "variante": "",
-   "url": "https://www.lovesexshop.es/mister-size-gel-retrasador-de-eyaculacion-50-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size - gel retardante de la eyaculación para hombres",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4260605483028",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE Delay Gel",
-   "variante": "",
-   "url": "https://www.desirel.es/mister-size-gel-retrasador-de-eyaculacion-50-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size - gel retardante de la eyaculación para hombres",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "8410104881801",
-   "marca": "DUREX",
-   "articulo": "Durex Intense Gel",
-   "variante": "",
-   "url": "https://farmaciatana.es/1855-durex-intense-orgasm-gel-10-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Intense Orgasm Gel 10 ml | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8410104881801",
-   "marca": "DUREX",
-   "articulo": "Durex Intense Gel",
-   "variante": "",
-   "url": "https://lapolvoteca.com/durex-gel-lubricante-intense-orgasmic-10ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Durex Intense Orgasmic Gel 10 ml | Para Ella",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "8410104881801",
-   "marca": "DUREX",
-   "articulo": "Durex Intense Gel",
-   "variante": "",
-   "url": "https://divinoysecreto.com/gel-intense-orgasmic-10-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Comprar Gel Intense Orgasmic 10 ml ▷▷ en Divinoysecreto",
-   "politica_envio": {
-    "base": "4.50",
-    "gratis_desde": "39.99",
-    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
-   }
-  },
-  {
-   "gtin": "8410104881801",
-   "marca": "DUREX",
-   "articulo": "Durex Intense Gel",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/durex-intense-orgasmic-gel-10-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Intense Gel Intensificador del Orgasmo 10 ml",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8410104881801",
-   "marca": "DUREX",
-   "articulo": "Durex Intense Gel",
-   "variante": "",
-   "url": "https://www.farmaciaencasaonline.es/4050-durex-intense-orgasmic-gel-lubricante-10ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Intense Orgasmic Gel Lubricante 10ml",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8410104892333",
-   "marca": "DUREX",
-   "articulo": "Durex Extra Sensitivo",
-   "variante": "",
-   "url": "https://www.arenal.com/naturals-extra-sensitivo-durex-lubricante-aloe-vera",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Naturals Extra Sensitivo DUREX Lubricante con aloe vera precio | ARENAL.COM",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8410104892333",
-   "marca": "DUREX",
-   "articulo": "Durex Extra Sensitivo",
-   "variante": "",
-   "url": "https://www.druni.es/naturals-extra-sensitivo-durex-lubricante-aloe-vera",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Naturals Extra Sensitivo DUREX Lubricante con aloe vera precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8410104892333",
-   "marca": "DUREX",
-   "articulo": "Durex Extra Sensitivo",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-base-de-agua/durex-naturals-lubricante-extra-sensitivo-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Naturals Extra Sensitivo con aloe vera - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8410104892333",
-   "marca": "DUREX",
-   "articulo": "Durex Extra Sensitivo",
-   "variante": "",
-   "url": "https://farmaciatana.es/2575-durex-naturals-lubricante-extra-sensitivo-100-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Naturals Lubricante Extra Sensitivo 100 ml | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8410104892333",
-   "marca": "DUREX",
-   "articulo": "Durex Extra Sensitivo",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/durex-naturals-gel-extra-sensitivo-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Naturals Gel Extra Sensitivo 100 ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000427",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible Extra",
-   "variante": "",
-   "url": "https://www.arenal.com/invisible-extra-lubricado-durex-preservativos-ultra-finos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Invisible Extra Lubricado DUREX Preservativos ultra finos precio | ARENAL.COM",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8428076000427",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible Extra",
-   "variante": "",
-   "url": "https://www.druni.es/invisible-extra-lubricado-durex-preservativos-ultra-finos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Invisible Extra Lubricado DUREX Preservativos ultra finos precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8428076000427",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible Extra",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/durex-invisible-extra-lubricado-12-ud",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Invisible Extra 12 ud – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076000427",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible Extra",
-   "variante": "",
-   "url": "https://mascondon.com/805-condon-durex-invisible-extra-lubricado-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Invisible Extra Lubricados 12 uds | Mascondon"
-  },
-  {
-   "gtin": "8428076000427",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible Extra",
-   "variante": "",
-   "url": "https://www.farmaciaencasaonline.es/3752-durex-preservativo-invisible-extra-fino-extra-lubricado-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Invisible Extra Fino Extra Lubricado 12 Uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000441",
-   "marca": "DUREX",
-   "articulo": "Durex Mutual Climax",
-   "variante": "",
-   "url": "https://www.arenal.com/love-sex-mutual-climax-durex-preservativo-acelera-climax-ella-retrasa-el",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Love Sex Mutual Climax DUREX Preservativo que acelera el climax de ella y retras",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8428076000441",
-   "marca": "DUREX",
-   "articulo": "Durex Mutual Climax",
-   "variante": "",
-   "url": "https://farmaciatana.es/2567-durex-mutual-climax-12-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Mutual Climax 12 unidades | Preservativos con Puntos y Estrías",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076000441",
-   "marca": "DUREX",
-   "articulo": "Durex Mutual Climax",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-mutual-climax-12-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Mutual Clímax 12 unidades al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000441",
-   "marca": "DUREX",
-   "articulo": "Durex Mutual Climax",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/durex-mutual-climax-12uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Mutual Climax 12 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076000441",
-   "marca": "DUREX",
-   "articulo": "Durex Mutual Climax",
-   "variante": "",
-   "url": "https://mascondon.com/694-condon-durex-mutual-climax-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Durex Mutual Climax 12 unidades con puntos y estrías | Mascondon®"
-  },
-  {
-   "gtin": "8428076000458",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciacoliseum.com/preservativos-real-feel-12-unidades-durex-82435",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Comprar PRESERVATIVOS REAL FEEL 12 UNIDADES DUREX online - Coliseum"
-  },
-  {
-   "gtin": "8428076000458",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-real-feel-12-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Real Feel 12 unidades al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000458",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciaencasaonline.es/2420-durex-preservativo-real-feel-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Real Feel 12 uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000458",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 12",
-   "url": "https://mascondon.com/691-preservativos-durex-real-feel-sin-latex-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Durex Real Feel Sin Látex 12 unidades | Mascondon®"
-  },
-  {
-   "gtin": "8428076000458",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 12",
-   "url": "https://www.sexshopboudoir.es/preservativos-sin-latex/durex-real-feel-12-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Real Feel, preservativos sin látex 56 mm x12 - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8428076000465",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 24",
-   "url": "https://farmaciatana.es/2560-durex-real-feel-24-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Real Feel 24 preservativos sin látex | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076000465",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 24",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-sensitivos-real-feel-24-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Real Feel 24 unidades al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000465",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 24",
-   "url": "https://www.farmaciaencasaonline.es/1702-durex-preservativo-real-feel-24-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Real Feel 24 Uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000465",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 24",
-   "url": "https://www.universosexshop.com/especiales/4225418-durex-real-feel-24-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); DUREX REAL FEEL 24 UDS por sólo 18,79 €",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "8428076000465",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 24",
-   "url": "https://orgasmix.es/durex-real-feel-24-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 🧠 Preservativos Durex RealFeel sin látex | Orgasmix",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "8428076000489",
-   "marca": "DUREX",
-   "articulo": "Durex Prolongado",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-placer-prolongado-efecto-retardante-12-condones",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Placer Prolongado con Efecto Retardante 12 unidades a",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000489",
-   "marca": "DUREX",
-   "articulo": "Durex Prolongado",
-   "variante": "",
-   "url": "https://www.arenal.com/placer-prolongado-durex-preservativos-duradero",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Placer Prolongado DUREX Preservativos para un placer más duradero precio | ARENA",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8428076000489",
-   "marca": "DUREX",
-   "articulo": "Durex Prolongado",
-   "variante": "",
-   "url": "https://www.druni.es/placer-prolongado-durex-preservativos-duradero",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Placer Prolongado DUREX Preservativos para un placer más duradero precio | DRUNI",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8428076000489",
-   "marca": "DUREX",
-   "articulo": "Durex Prolongado",
-   "variante": "",
-   "url": "https://www.farmaciacoliseum.com/preservativos-placer-prolongado-12-unidades-durex-82433",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Comprar PRESERVATIVOS PLACER PROLONGADO 12 UNIDADES DUREX online"
-  },
-  {
-   "gtin": "8428076000489",
-   "marca": "DUREX",
-   "articulo": "Durex Prolongado",
-   "variante": "",
-   "url": "https://lapolvoteca.com/preservativos-retardantes-durex-placer-prolongado-12-uds/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Retardantes Durex 12 Uds",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "8428076000502",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-super-finos-contacto-total-12-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Super Finos Contacto Total 12 unidades al mejor preci",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000502",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciaencasaonline.es/889-durex-preservativo-contacto-total-fino-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Contacto Total Fino 12 Uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000502",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 12",
-   "url": "https://www.condonesmix.com/products/durex-sensitivo-contacto-total-12uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sensitivo Super Finos Contacto Total 12 ud – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076000502",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 12",
-   "url": "https://tocabanana.com/producto/durex-contacto-total-12uds/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Durex Sensitivo Contacto Total 12 Preservativos Ultrafinos | TocaBanana",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "8428076000502",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 12",
-   "url": "https://www.sexshopboudoir.es/preservativos-especiales/durex-sensitivo-contacto-total-12-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Sensitivo Contacto Total, preservativos de látex x12",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8428076000526",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 24",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-sensitivo-suave-mayor-sensibilidad-24-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Sensitivo Suave Para Mayor Sensibilidad 24 unidades a",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000526",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 24",
-   "url": "https://mascondon.com/724-durex-sensitivo-suave-24-condones.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Sensitivo Suave 24 uds -"
-  },
-  {
-   "gtin": "8428076000526",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 24",
-   "url": "https://www.condonesmix.com/products/durex-sensitivo-suave-24-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Sensitivo Suave 24 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076000526",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 24",
-   "url": "https://www.farmaciaencasaonline.es/3152-durex-preservativo-sensitivo-suave-24-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Sensitivo Suave 24 Uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000526",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 24",
-   "url": "https://farmaciatana.es/2564-durex-sensitivo-suave-24-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Sensitivo Suave 24 unidades | Preservativos ultrafinos",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076000533",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 12",
-   "url": "https://www.platanomelon.com/products/preservativos-durex-sensitivo-suave",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Sensitivo Suave de Durex – Platanomelón"
-  },
-  {
-   "gtin": "8428076000533",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-sensitivo-suave-mayor-sensibilidad-12-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Sensitivo Suave Para Mayor Sensibilidad 12 unidades a",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000533",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 12",
-   "url": "https://mascondon.com/701-condon-durex-sensitivo-suave-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Sensitivo Suave 12 uds - Extra Sensibilidad | Mascondon |"
-  },
-  {
-   "gtin": "8428076000533",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciaencasaonline.es/842-durex-preservativo-sensitivo-suave-12uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Sensitivo Suave 12Uds - Farmacia en Casa Online",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000533",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciacoliseum.com/preservativos-sensitivo-suave-12-unidades-durex-82436",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Comprar PRESERVATIVOS SENSITIVO SUAVE 12 UNIDADES DUREX online"
-  },
-  {
-   "gtin": "8428076000540",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 6",
-   "url": "https://farmaciatana.es/2556-durex-sensitivo-contacto-total-6-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Sensitivo Contacto Total 6 unidades | Preservativos ultra finos",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076000540",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 6",
-   "url": "https://www.farmaciaencasaonline.es/888-durex-preservativo-contacto-total-fino-6uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Contacto Total Fino 6Uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000540",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 6",
-   "url": "https://www.sexshopboudoir.es/preservativos-especiales/durex-sensitivo-contacto-total-6-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Sensitivo Contacto Total, preservativos de látex x6",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8428076000540",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 6",
-   "url": "https://www.tudeseo.net/producto/durex-sensitivo-contacto-total-6-uds/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - DUREX - SENSITIVO SÚPER FINO 6 UNIDADES"
-  },
-  {
-   "gtin": "8428076000540",
-   "marca": "DUREX",
-   "articulo": "Durex Contacto Total",
-   "variante": "Unidades: 6",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-sensitivos/durex-sensitivo-contacto-total-6-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); DUREX - SENSITIVO CONTACTO TOTAL 6 UNIDADES | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "8428076000571",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 12",
-   "url": "https://www.druni.es/dame-placer-durex-preservativos-maximizar-placer",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Dame Placer DUREX Preservativos para maximizar el placer precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8428076000571",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 12",
-   "url": "https://www.condonesmix.com/products/durex-pleasuremax-caja-12",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Dame Placer 12 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076000571",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-dame-placer-12-ud",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Dame Placer Easy On 12 unidades al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000571",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 12",
-   "url": "https://mascondon.com/697-preservativos-durex-dame-placer-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Durex Dame Placer 12 unidades | Mascondon®"
-  },
-  {
-   "gtin": "8428076000571",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 12",
-   "url": "https://bakanal.es/preservativos/puntos-y-estrias/durex-dame-placer-12-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Dame Placer Preservativos 12 uds | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "8428076000670",
-   "marca": "DUREX",
-   "articulo": "Durex Perfect Connection",
-   "variante": "",
-   "url": "https://www.druni.es/perfect-connection-durex-preservativos-sexo-anal",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Perfect Connection DUREX Preservativos adecuados para sexo anal precio | DRUNI.e",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8428076000670",
-   "marca": "DUREX",
-   "articulo": "Durex Perfect Connection",
-   "variante": "",
-   "url": "https://mascondon.com/1200-condon-durex-perfect-connection-10-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Perfect Connection 10 uds - Extra Lubricación y Seguridad | Mascondon |"
-  },
-  {
-   "gtin": "8428076000670",
-   "marca": "DUREX",
-   "articulo": "Durex Perfect Connection",
-   "variante": "",
-   "url": "https://farmaciatana.es/1874-durex-perfect-connection-10-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Perfect Connection 10 unidades | Preservativos extra lubricados",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076000670",
-   "marca": "DUREX",
-   "articulo": "Durex Perfect Connection",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/durex-perfect-connection-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Perfect Connection 10 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076000670",
-   "marca": "DUREX",
-   "articulo": "Durex Perfect Connection",
-   "variante": "",
-   "url": "https://www.farmaciaencasaonline.es/8510-durex-preservativo-perfect-connection-10-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Perfect Connection 10 Uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076001035",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 3",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-dame-placer-con-puntos-y-estrias-para-una-estimulacion-extra-3-condones",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Dame Placer, Con Puntos Y Estrías Para Una Estimulaci",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076001035",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 3",
-   "url": "https://www.arenal.com/preservativos-dame-placer-3-ud-durex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Dame Placer 3 Ud DUREX Preservativos precio | ARENAL.COM",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8428076001035",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 3",
-   "url": "https://divinoysecreto.com/durex-dame-placer-3-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Dame Placer 3 Unidades",
-   "politica_envio": {
-    "base": "4.50",
-    "gratis_desde": "39.99",
-    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
-   }
-  },
-  {
-   "gtin": "8428076001035",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 3",
-   "url": "https://www.condonesmix.com/products/durex-dame-placer-3uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Dame Placer 3 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076001035",
-   "marca": "DUREX",
-   "articulo": "Durex Dame Placer",
-   "variante": "Unidades: 3",
-   "url": "https://almasecreta.es/producto/dame-placer-3ud",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Dame Placer 3ud | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "8428076010419",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 10",
-   "url": "https://mascondon.com/1880-durex-conexion-total-10-uds-preservativos-ultra-finos-sin-latex.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Conexión Total 10 uds, ultra fino sin látex | Mascondon |"
-  },
-  {
-   "gtin": "8428076010419",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 10",
-   "url": "https://farmaciatana.es/5349-durex-conexion-total-10-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Conexión Total 10 unidades | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076010419",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 10",
-   "url": "https://almasecreta.es/producto/preservativos-conexion-total-10-und",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Durex Conexión Total 10 Und | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "8428076010419",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 10",
-   "url": "https://www.farmaciasdirect.es/products/durex-conexion-total-preservativo-ultra-fino-plus-sin-latex-tecnologia-body-feel-10-preservativos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Conexión Total Preservativo Ultra Fino Plus Sin Látex Tecnología Bo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076010419",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 10",
-   "url": "https://www.farmaciaencasaonline.es/15743-durex-conexion-total-calor-corporal-10uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Conexion Total Calor Corporal 10uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076010426",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total XL",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/sin-latex-conexion-total-xl-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sin látex Conexión Total XL 10 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076010426",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total XL",
-   "variante": "",
-   "url": "https://farmaciatana.es/5350-durex-conexion-total-xl-10-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Conexión Total XL 10 unidades | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076010426",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total XL",
-   "variante": "",
-   "url": "https://www.arenal.com/preservativos-conexion-total-xl-durex-mas-fino-sin-latex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Conexión Total XL DUREX Más fino sin latex precio | ARENAL.COM",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8428076010426",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total XL",
-   "variante": "",
-   "url": "https://www.druni.es/preservativos-conexion-total-xl-durex-mas-fino-sin-latex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Conexión Total XL DUREX Más fino sin latex precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8428076010426",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total XL",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/durex-conexion-total-xl-preservativo-ultra-fino-plus-sin-latex-tecnologia-body-feel-10-preservativos-xl",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Conexión Total XL Preservativo Ultra Fino Plus Sin Látex Tecnología",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076010440",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 20",
-   "url": "https://www.farmaciasdirect.es/products/durex-conexion-total-preservativo-ultra-fino-plus-sin-latex-tecnologia-body-feel-20-preservativos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Conexión Total Preservativo Ultra Fino Plus Sin Látex Tecnología Bo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076010440",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 20",
-   "url": "https://lapolvoteca.com/preservativos-sin-latex-conexion-total-durex-20-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Sin Látex Conexión Total Durex 20 Unidades",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "8428076010440",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 20",
-   "url": "https://mascondon.com/1882-durex-conexion-total-20-uds-preservativos-ultra-finos-sin-latex.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Conexión Total 20 uds, ultra fino sin látex | Mascondon |"
-  },
-  {
-   "gtin": "8428076010440",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 20",
-   "url": "https://bakanal.es/preservativos/preservativos-sin-latex/durex-total-connection-ultra-fine-plus-latex-free-20-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Durex Total Connection ultrafinos sin látex | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "8428076010440",
-   "marca": "DUREX",
-   "articulo": "Durex Conexión Total",
-   "variante": "Unidades: 20",
-   "url": "https://almasecreta.es/producto/preservativos-conexion-total-20-und",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos Conexión Total 20 Und Durex | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "8428076000342",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible",
-   "variante": "",
-   "url": "https://www.farmaciaencasaonline.es/3753-durex-preservativo-invisible-extra-fino-extra-sensitivo-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Invisible Extra Fino Extra Sensitivo 12 uds",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000342",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible",
-   "variante": "",
-   "url": "https://farmaciatana.es/2561-durex-invisible-extra-sensitivo-12-unidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Comprar Durex Invisible Extra Sensitivo 12 preservativos | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076000342",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible",
-   "variante": "",
-   "url": "https://www.arenal.com/invisible-super-fino-extra-sensitivo-durex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Invisible Super Fino Extra Sensitivo DUREX Preservativos Invisible Extra Sensiti",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8428076000342",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible",
-   "variante": "",
-   "url": "https://www.druni.es/invisible-super-fino-extra-sensitivo-durex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Invisible Super Fino Extra Sensitivo DUREX Preservativos Invisible Extra Sensiti",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8428076000342",
-   "marca": "DUREX",
-   "articulo": "Durex Invisible",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-invisible-extra-sensitivo-12-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Invisible Extra Suave 12 Preservativos ¡Compra al mejor precio!",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000472",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 3",
-   "url": "https://www.farmaciasdirect.es/products/durex-preservativos-real-feel-sensacion-piel-con-piel-sin-latex-3-condones",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Durex Preservativos Real Feel, Sensación Piel Con Piel, Sin Látex, 3 Cond",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8428076000472",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 3",
-   "url": "https://www.sexshopboudoir.es/preservativos-especiales/durex-real-feel-preservativos-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Real Feel, preservativos sin látex 56 mm x3 - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8428076000472",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-sensitivos/durex-real-feel-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); DUREX REAL FEEL 3 UDS",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "8428076000472",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/durex-real-feel-preservativos-3-uds/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - DUREX - REAL FEEL PRESERVATIVOS 3 UNIDADES"
-  },
-  {
-   "gtin": "8428076000472",
-   "marca": "DUREX",
-   "articulo": "Durex Real Feel",
-   "variante": "Unidades: 3",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-sensitivos/durex-real-feel-preservativos-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); DUREX - REAL FEEL PRESERVATIVOS 3 UNIDADES | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "8428076000618",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 6",
-   "url": "https://www.farmaciaencasaonline.es/1278-durex-preservativo-natural-6uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Preservativo Natural 6Uds - Farmacia en Casa Online",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8428076000618",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 6",
-   "url": "https://www.condonesmix.com/products/durex-natural-plus-6uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Natural 6 uds – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "8428076000618",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 6",
-   "url": "https://sexplace.es/durex-natural-classic-6-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); DUREX - NATURAL CLASSIC 6 UNIDADES"
-  },
-  {
-   "gtin": "8428076000618",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 6",
-   "url": "https://lapolvoteca.com/preservativos-durex-natural-classic/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Durex Natural Classic | Easy On",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "8428076000618",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 6",
-   "url": "https://www.sexshopboudoir.es/preservativos-naturales/durex-natural-classic-6-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Natural Classic, preservativos de látex 56 mm x6",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-53-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 53 mm: cajas de 3, 10 o 36 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 3",
-   "url": "https://www.diversual.com/es/mister-size-53-mm-3-uds-103328.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 53 mm 3 Uds, Preservativos - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 3",
-   "url": "https://www.lovesexshop.es/mister-size-condon-fino-53mm-3ud",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size preservativo fino - 53 mm (3 unidades) | Lovesex",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 3",
-   "url": "https://www.desirel.es/mister-size-condon-fino-53mm-3ud",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size preservativo fino - 53 mm (3 unidades) | Sex Sho",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4260605480072",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 53, Unidades: 3",
-   "url": "https://mascondon.com/1514-mister-size-53-mm-3-condones-extra-finos.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos Mister Size Pure Feel Extra Fino 53mm | Mascondon"
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 3",
-   "url": "https://www.condonesmix.com/products/mister-size-60",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 60 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 3",
-   "url": "https://tocabanana.com/producto/preservativos-mister-size-60mm-caja-3/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos Mister Size 60mm caja 3 - TocaBanana SexShop Nº1 en masturbadores ",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-xl/mister-size-60-3-pack-extra-fino",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MISTER SIZE 60 (3 PACK) - EXTRA FINO",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 3",
-   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/mister-size-preservativos-xl-60-mm-3-unidades-para-maxima-comodidad/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos XL 60 mm MISTER SIZE para hombres | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4260605480133",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 60, Unidades: 3",
-   "url": "https://factormujer.com/mister-size-xl-60-3",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); MISTER SIZE XL 60 mm Preservativos 3 Unidades Ajuste Perfecto",
+   "gtin": "4251460611114",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Rojo",
+   "url": "https://factormujer.com/womanizer-duo-2-burdeos",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Womanizer Duo 2 Burdeos - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -2927,46 +144,12 @@
    }
   },
   {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 10",
-   "url": "https://www.condonesmix.com/products/mister-size-64-mm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size 64 mm: cajas de 3, 10, 36 o 100 preservativos – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 10",
-   "url": "https://sexshop-online.com/pt/caixas-de-4-a-24/mister-size-preservativos-talla-xxl-64-mm-10-unidadesd-242281",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MISTER SIZE - PRESERVATIVOS TAMANHO XXL 64 MM (10 UNIDADES)"
-  },
-  {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 10",
-   "url": "https://www.diversual.com/es/mister-size-64-mm-10-uds-100619.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Mister Size 64 mm 10 Uds, Preservativos XXL - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 10",
-   "url": "https://www.lovesexshop.es/mister-size-condon-fino-64mm-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size - preservativo fino, tamaño extragrande (64 mm,",
+   "gtin": "4251460611114",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Rojo",
+   "url": "https://www.lovesexshop.es/womanizer-duo-2-vibrador-2en1-punto-g-rojo",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 - Vibrador doble punto G y clítoris - silico",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -2974,90 +157,25 @@
    }
   },
   {
-   "gtin": "4260605480171",
-   "marca": "MISTER SIZE",
-   "articulo": "MISTER SIZE",
-   "variante": "Anchura (mm): 64, Unidades: 10",
-   "url": "https://www.desirel.es/mister-size-condon-fino-64mm-10-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Mister Size - preservativo fino, tamaño extragrande (64 mm,",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "8410104881832",
-   "marca": "DUREX",
-   "articulo": "Durex Naturals H2O",
-   "variante": "",
-   "url": "https://www.arenal.com/naturals-intimate-gel-durex-lubricante-prebioticos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Naturals Lubricante H2O Original DUREX Lubricante que ayuda a mantener el equili",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8410104881832",
-   "marca": "DUREX",
-   "articulo": "Durex Naturals H2O",
-   "variante": "",
-   "url": "https://www.druni.es/naturals-intimate-gel-durex-lubricante-prebioticos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Naturals Lubricante H2O Original DUREX Lubricante que ayuda a mantener el equili",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8410104881832",
-   "marca": "DUREX",
-   "articulo": "Durex Naturals H2O",
-   "variante": "",
-   "url": "https://www.farmaciaencasaonline.es/4051-durex-naturals-lubricante-h2o-original-100ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Naturals Lubricante H2O Original 100ml",
+   "gtin": "4251460611121",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Azul",
+   "url": "https://toqueteo.es/products/womanizer-duo-2-estimulador-azul",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador Duo 2 de Womanizer para clítoris y punto G – Toqueteo",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
    }
   },
   {
-   "gtin": "8410104881832",
-   "marca": "DUREX",
-   "articulo": "Durex Naturals H2O",
-   "variante": "",
-   "url": "https://www.noestabu.com/tienda-online/id/durex-naturals-intimate/amp",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); 🌿 Durex Naturals Intimate Gel | Hidratación 100% Natural🌱",
-   "politica_envio": {
-    "base": "5.90",
-    "gratis_desde": "40.00",
-    "url": "https://www.noestabu.com/sexshop-entrega-especial-en-sabado"
-   }
-  },
-  {
-   "gtin": "8410104881832",
-   "marca": "DUREX",
-   "articulo": "Durex Naturals H2O",
-   "variante": "",
-   "url": "https://farmaciatana.es/2573-durex-lubricante-naturals-100-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Comprar Durex Lubricante Naturals 100 ml | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8428076001059",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 3",
-   "url": "https://www.condonesmix.com/products/durex-sensitivo-suave-3uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Sensitivo Suave 3 uds – Condonesmix",
+   "gtin": "4251460611121",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Azul",
+   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -3065,59 +183,25 @@
    }
   },
   {
-   "gtin": "8428076001059",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 3",
-   "url": "https://www.sexshopboudoir.es/preservativos-naturales/durex-sensitivo-suave-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Durex Sensitivo Suave, preservativos de látex 56 mm x3",
+   "gtin": "4251460611121",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Azul",
+   "url": "https://www.diversual.com/es/womanizer-duo-2-azul-103863.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Womanizer Duo 2 Azul, Succionador de clítoris - diversual.com",
    "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
    }
   },
   {
-   "gtin": "8428076001059",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-sensitivos/sensitivo-suave-3-unidades-durex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Sensitivo suave 3 unidades - PlacerIntenso",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "8428076001059",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 3",
-   "url": "https://www.tudeseo.net/producto/durex-sensitivo-suave-3-uds/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - DUREX - PRESERVATIVOS SENSITIVO 3 UNIDADES"
-  },
-  {
-   "gtin": "8428076001059",
-   "marca": "DUREX",
-   "articulo": "Durex Sensitivo Suave",
-   "variante": "Unidades: 3",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-sensitivos/durex-sensitivo-suave-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); DUREX - SENSITIVO SUAVE 3 UNIDADES | Maskeamor.com",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
-   }
-  },
-  {
-   "gtin": "8428076001042",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-clasicos/natural-classic-3-unidades-durex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Durex Natural Classic 3 unidades - PlacerIntenso",
+   "gtin": "4251460611121",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Azul",
+   "url": "https://www.placerintenso.es/wand-y-masajeadores/duo-2-estimulador-azul-womanizer",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador azul - PlacerIntenso",
    "politica_envio": {
     "base": "4.95",
     "gratis_desde": "60",
@@ -3125,25 +209,64 @@
    }
   },
   {
-   "gtin": "8428076001042",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 3",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-todos-los-tamanos-de-cajas/preservativos-todos-los-tamanos-de-cajascajas-de-3/durex-natural-classic-3-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); DUREX - NATURAL CLASSIC 3 UNIDADES | Maskeamor.com",
+   "gtin": "4251460611121",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Azul",
+   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/estimuladores/masajeadores/womanizer-duo-2-estimulador-azul/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 azul: succionador y punto G | Bakanal",
    "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65",
-    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
    }
   },
   {
-   "gtin": "8428076001042",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 3",
-   "url": "https://www.vivelavita.com/es/durex-natural-3-uds-classic",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Condones Durex Rojos Natural - Seguridad y Comodidad Premium",
+   "gtin": "4251460611145",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Lila",
+   "url": "https://toqueteo.es/products/womanizer-duo-2-estimulador-lila",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Succionador vibrador Womanizer Duo 2 lila con Pleasure Air – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4251460611145",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Lila",
+   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460611145",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Lila",
+   "url": "https://www.diversual.com/es/womanizer-duo-2-lila-103865.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Womanizer Duo 2 Lila, Succionador de clítoris - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "4251460611145",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Lila",
+   "url": "https://www.vivelavita.com/en/vibrators-suction-womanizer-duo-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Suction vibrator Womanizer Duo 2 8,8 cm",
    "politica_envio": {
     "base": "2.90",
     "gratis_desde": "50.00",
@@ -3151,26 +274,1381 @@
    }
   },
   {
-   "gtin": "8428076001042",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 3",
-   "url": "https://losjuguetesdera.es/products/durex-natural-classic-3-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); DUREX - NATURAL CLASSIC 3 UNIDADES – losjuguetesdera",
+   "gtin": "4251460611145",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Lila",
+   "url": "https://www.placerintenso.es/estimuladores-de-clitoris/duo-2-estimulador-lila-womanizer",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador lila - PlacerIntenso",
    "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65.00",
-    "url": "https://losjuguetesdera.es/pages/gastos-de-envios"
+    "base": "4.95",
+    "gratis_desde": "60",
+    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
    }
   },
   {
-   "gtin": "8428076001042",
-   "marca": "DUREX",
-   "articulo": "Durex Natural Classic",
-   "variante": "Unidades: 3",
-   "url": "https://loquequierashop.com/products/durex-natural-classic-3-units",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); DUREX - NATURAL CLÁSICO 3 UNIDADES – Lo Que Quieras"
+   "gtin": "4251460615525",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Negro",
+   "url": "https://www.easytoys.es/vibrador-womanizer-premium-2-air-pulse-negro-p-46678/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador Womanizer Premium 2 Air Pulse - Negro - EasyToys"
+  },
+  {
+   "gtin": "4251460615525",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Negro",
+   "url": "https://www.lovesexshop.es/womanizer-premium-2-estimulador-de-clitoris-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460615525",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Negro",
+   "url": "https://www.desirel.es/womanizer-premium-2-estimulador-de-clitoris-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460615525",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Negro",
+   "url": "https://www.puntlove.es/succionadores/Succionador/producto/womanizer-premium-2/",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «Ref.: 4251460615525»); Womanizer Premium 2 - Succionadores Womanizer - Succionadores - PuntLove, erotic",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44",
+    "url": "https://www.puntlove.es/gastos-de-envio.php"
+   }
+  },
+  {
+   "gtin": "4251460615525",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Negro",
+   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460615549",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://www.easytoys.es/womanizer-premium-2-air-pulse-vibrator-arandano-p-46687/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 Air Pulse Vibrator - Arándano - EasyToys"
+  },
+  {
+   "gtin": "4251460615549",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://lapolvoteca.com/womanizer-premium-2-estimulador-de-clitoris-arandano/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Estimulador Clítoris 14 Niveles | La Polvoteca",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "4251460615549",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://www.placerintenso.es/succionadores/premium-2-estimulador-de-clitoris-arandano-womanizer",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 estimulador de clítoris arándano",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "60",
+    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
+   }
+  },
+  {
+   "gtin": "4251460615549",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460615549",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://www.sexshop.express/succionadores-sin-vibracion/5750-womanizer-premium-2-estimulador-de-clitoris-arandano-4251460615549.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2: Estimulador de Clítoris con Tecnología Pleasure Air",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "55",
+    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
+   }
+  },
+  {
+   "gtin": "4251460615563",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Gris",
+   "url": "https://www.easytoys.es/vibrador-womanizer-premium-2-air-pulse-gris-p-46684/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador Womanizer Premium 2 Air Pulse - Blanco - EasyToys"
+  },
+  {
+   "gtin": "4251460615563",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Gris",
+   "url": "https://www.cupidosshop.com/pt/prod/womanizer-premium-2-sugador-clitoris-branco/18608/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Sugador Clitóris Branco | Cupido"
+  },
+  {
+   "gtin": "4251460615563",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Gris",
+   "url": "https://www.vivelavita.com/pt/womanizer-premium-2-warm",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sugador de clitóris Womanizer Premium 2 Warm",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "4251460615563",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Gris",
+   "url": "https://toqueteo.es/products/womanizer-premium-2-estimulador-de-clitoris-gris",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris sin contacto Premium 2, Womanizer – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4251460615563",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Gris",
+   "url": "https://www.farmaciasdirect.es/products/womanizer-premium-2-estimulador-de-clitoris-gris",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Womanizer Premium 2 Estimulador De Clítoris Gris al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4251460633314",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Lila",
+   "url": "https://www.easytoys.es/womanizer-pro-estimulador-de-clitoris-tecnologia-pleasure-air-p-96865/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer – Pro Estimulador de Clítoris – Rosa - EasyToys"
+  },
+  {
+   "gtin": "4251460633314",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Lila",
+   "url": "https://www.sextoycity.es/womanizer-pro-vibrant-estimulador-de-clitoris-lila/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Pro Vibrant — estimulador clitoriano sin contacto",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "4251460633314",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Lila",
+   "url": "https://www.magicdust.es/tienda/juguetes-xxx/succionadores/womanizer-pro-succionador-de-clitoris/",
+   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 4251460633314); Womanizer Pro succionador de clítoris • Magicdust Tienda erótica",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "99.00",
+    "url": "https://www.magicdust.es/condiciones/"
+   }
+  },
+  {
+   "gtin": "4251460633314",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Lila",
+   "url": "https://kiwichi.com/womanizer--pro-vibrant-estimulador-de-clitoris-lila/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pro Vibrant Estimulador de Clítoris Lila - Womanizer | Kiwichi",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "69.00",
+    "url": "https://kiwichi.com/politicas-de-envio-y-entrega"
+   }
+  },
+  {
+   "gtin": "4251460633314",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Lila",
+   "url": "https://www.condonesmix.com/products/womanizer-pro-vibrant",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro Vibrant succionador de clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460636858",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Verde",
+   "url": "https://www.sextoycity.es/womanizer-pro-vibrant-estimulador-de-clitoris-verde-salvia/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Pro Vibrant — Estimulador clitoriano verde salvia",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "4251460636858",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Verde",
+   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-de-clitoris-por-aire-verde",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (v",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636858",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Verde",
+   "url": "https://www.desirel.es/womanizer-pro-estimulador-de-clitoris-por-aire-verde",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (v",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636858",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Verde",
+   "url": "https://toqueteo.es/products/womanizer-pro-vibrant-estimulador-de-clitoris-verde-salvia",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris sin contacto Womanizer Pro Vibrant – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4251460636858",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Verde",
+   "url": "https://kiwichi.com/womanizer--pro-vibrant-estimulador-de-clitoris-verde-salvia/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pro Vibrant Estimulador de Clítoris Verde Salvia - Womanizer",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "69.00",
+    "url": "https://kiwichi.com/politicas-de-envio-y-entrega"
+   }
+  },
+  {
+   "gtin": "4251460636865",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Gris",
+   "url": "https://sexshop-online.com/it/per-clitoride/womanizer-pro-vibrant-clitoral-stimulator-silver-grey",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); WOMANIZER PRO VIBRANT ★ Stimolatore Clitorideo Argento-Grigio ✅"
+  },
+  {
+   "gtin": "4251460636865",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Gris",
+   "url": "https://www.sextoycity.es/womanizer-pro-vibrant-estimulador-de-clitoris-gris-plata/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); WOMANIZER Pro Vibrant — Estimulador de clítoris sin contacto",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "4251460636865",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Gris",
+   "url": "https://toqueteo.es/products/womanizer-pro-vibrant-estimulador-de-clitoris-gris-plata",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris Womanizer Pro Vibrant, sin contacto – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4251460636865",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Gris",
+   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-de-clitoris-por-ondas-aereas-gris",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (g",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636865",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Gris",
+   "url": "https://www.desirel.es/womanizer-pro-estimulador-de-clitoris-por-ondas-aereas-gris",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (g",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636872",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rosa",
+   "url": "https://www.easytoys.es/womanizer-pro-estimulador-clitorial-vibrant-pink-p-104932/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer - Pro Estimulador Clitorial - Vibrant Pink - EasyToys"
+  },
+  {
+   "gtin": "4251460636872",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rosa",
+   "url": "https://www.condonesmix.com/products/womanizer-pro-vibrant",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro Vibrant succionador de clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460636872",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rosa",
+   "url": "https://www.vivelavita.com/pt/sugadores-womanizer-pro-vibrant",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Succionador PRO VIBRANT · Prazer Elevado com Womanizer",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "4251460636872",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rosa",
+   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-clitorial-de-aire-rosa",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636872",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rosa",
+   "url": "https://www.desirel.es/womanizer-pro-estimulador-clitorial-de-aire-rosa",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636889",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rojo",
+   "url": "https://toqueteo.es/products/womanizer-pro-vibrant-estimulador-de-clitoris-burdeos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris Womanizer Pro Vibrant IPX7 – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "4251460636889",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rojo",
+   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-de-clitoris-con-ondas-de-aire-rojo",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636889",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rojo",
+   "url": "https://www.desirel.es/womanizer-pro-estimulador-de-clitoris-con-ondas-de-aire-rojo",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460636889",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rojo",
+   "url": "https://www.condonesmix.com/products/womanizer-pro-vibrant",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro Vibrant succionador de clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460636889",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Pro",
+   "variante": "Color: Rojo",
+   "url": "https://lapolvoteca.com/womanizer-pro-vibrant-estimulador-de-clitoris-burdeos/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Pro Vibrant Succionador Burdeos",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "827160100803",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 500 ml",
+   "url": "https://www.farmaciasdirect.es/products/pjur-original-lubricante-silicona-500-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original Lubricante Silicona 500 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "827160100803",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 500 ml",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-base-silicona/pjur-original-lubricante-silicona-500-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur ORIGINAL 500 ml, lubricante de silicona - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "827160100803",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 500 ml",
+   "url": "https://almasecreta.es/producto/pjur-original-500-ml",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160100803»); Pjur Original 500 ml lubricante de silicona | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "827160100803",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 500 ml",
+   "url": "https://sexshop-online.com/it/base-silicone/pjur-original-lubricante-silicona-500-mld-230434",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - LUBRIFICANTE AL SILICONE ORIGINALE 500 ML"
+  },
+  {
+   "gtin": "827160100803",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 500 ml",
+   "url": "https://www.sextoycity.es/pjur-original-lubricante-silicona-500-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Original lubricante de silicona 500 ml, superconcentrado",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "827160106232",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 30 ml",
+   "url": "https://www.farmaciasdirect.es/products/pjur-original-lubricante-silicona-30-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original Lubricante Silicona 30 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "827160106232",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 30 ml",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-base-silicona/pjur-original-lubricante-silicona-30-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur ORIGINAL 30 ml, lubricante de silicona - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "827160106232",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 30 ml",
+   "url": "https://www.lovesexshop.es/pjur-original-lubricante-30ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Original lubricante (30 ml) | Lovesexshop.es sex shop -",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "827160106232",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 30 ml",
+   "url": "https://www.desirel.es/pjur-original-lubricante-30ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Original lubricante (30 ml) | Sex Shop Desirel.es - Des",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "827160106232",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 30 ml",
+   "url": "https://www.sextoycity.es/pjur-original-lubricante-silicona-30-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Original lubricante de silicona 30 ml — uso anal y vaginal",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "827160106249",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 100 ml",
+   "url": "https://www.farmaciasdirect.es/products/pjur-original-100-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original 100 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "827160106249",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 100 ml",
+   "url": "https://almasecreta.es/producto/pjur-original-100-ml",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160106249»); Pjur Original 100 ml - Lubricante Silicona | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "827160106249",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 100 ml",
+   "url": "https://www.diversual.com/es/91565-lubricante-pjur-original-silicona-100-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lubricante Pjur Original Silicona 100 ml - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "827160106249",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 100 ml",
+   "url": "https://www.sextoycity.es/pjur-original-lubricante-silicona-100-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Original Lubricante de silicona 100 ml",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "827160106249",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 100 ml",
+   "url": "https://bakanal.es/drogueria/lubricantes/anal-lubricantes/pjur-original-lubricante-silicona-100-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Original Lubricante Base Silicona 100 ml | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "827160106256",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 250 ml",
+   "url": "https://www.farmaciasdirect.es/products/pjur-original-lubricante-silicona-250-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original Lubricante Silicona 250 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "827160106256",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 250 ml",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-base-silicona/pjur-original-lubricante-silicona-250-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur ORIGINAL 250 ml, lubricante de silicona - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "827160106256",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 250 ml",
+   "url": "https://almasecreta.es/producto/pjur-original-250-ml",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160106256»); Pjur Original 250 ml | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "827160106256",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 250 ml",
+   "url": "https://divinoysecreto.com/pjur-original-250-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Original 250 ml",
+   "politica_envio": {
+    "base": "4.50",
+    "gratis_desde": "39.99",
+    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
+   }
+  },
+  {
+   "gtin": "827160106256",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 250 ml",
+   "url": "https://sexshop-online.com/it/base-silicone/pjur-original-lubricante-silicona-250-mld-230433",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - LUBRIFICANTE AL SILICONE ORIGINALE 250 ML"
+  },
+  {
+   "gtin": "827160110871",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Serum",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/pjur-superhero-retard-serum-20-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Superhero retard serum – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "827160110871",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Serum",
+   "variante": "",
+   "url": "https://sexshop-online.com/retardantes/pjur-superhero-serum-retardante-concentrado-20-mld-199350",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - SUPERHERO SERUM RETARDANTE CONCENTRADO 20 ML"
+  },
+  {
+   "gtin": "827160110871",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Serum",
+   "variante": "",
+   "url": "https://www.placerintenso.es/retardantes/superhero-serum-retardante-concentrado-20-ml-pjur",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Superhero serum retardante concentrado 20 ml - PlacerIntenso",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "60",
+    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
+   }
+  },
+  {
+   "gtin": "827160110871",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Serum",
+   "variante": "",
+   "url": "https://www.vivelavita.com/pt/sprays-retardantes-pjur-serum-retardante-superhero",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Spray retardador Pjur Sérum Retardante Superhero",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "827160110871",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Serum",
+   "variante": "",
+   "url": "https://lapolvoteca.com/pjur-superhero-serum-retardante-concentrado-20-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Pjur Superhero Serum Retardante 20 ml",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "827160111939",
+   "marca": "PJUR",
+   "articulo": "pjur med After Shave",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/limpieza-intima/pjur-med-after-shave-spray-100-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur med AFTER SHAVE spray 100 ml, zona íntima - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "827160111939",
+   "marca": "PJUR",
+   "articulo": "pjur med After Shave",
+   "variante": "",
+   "url": "https://www.farmaciasdirect.es/products/pjur-med-after-shave-spray-100-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Med After Shave Spray 100 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "827160111939",
+   "marca": "PJUR",
+   "articulo": "pjur med After Shave",
+   "variante": "",
+   "url": "https://almasecreta.es/producto/pjur-med-after-shave-100-ml",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160111939»); Pjur Med After Shave 100 ml | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "827160111939",
+   "marca": "PJUR",
+   "articulo": "pjur med After Shave",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/pjur-med-after-shave-spray",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Med After Shave spray 100 ml sin alcohol – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "827160111939",
+   "marca": "PJUR",
+   "articulo": "pjur med After Shave",
+   "variante": "",
+   "url": "https://www.diversual.com/es/pjur-med-after-shave-spray-100-ml-102598.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); After Shave Spray 100 ml Pjur - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "827160113544",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Spray",
+   "variante": "",
+   "url": "https://www.farmaciasdirect.es/products/pjur-superhero-performance-spray-retardante-20-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Superhero Performance Spray Retardante 20 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "827160113544",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Spray",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aumenta-la-potencia-en-el-hombre-vigorizantes/pjur-superhero-performance-spray-retardante-20-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur superhero Performance Spray 20 ml, retardante - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "827160113544",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Spray",
+   "variante": "",
+   "url": "https://almasecreta.es/producto/spray-retardante-superhero-performance-20-ml",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160113544»); Spray Retardante Superhero Performance 20 ml | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "827160113544",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Spray",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/pjur-superhero-spray-retardante",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Superhero Spray Retardante – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "827160113544",
+   "marca": "PJUR",
+   "articulo": "pjur superhero Spray",
+   "variante": "",
+   "url": "https://sexshop-online.com/retardantes/pjur-superhero-performance-spray-retardante-20-mld-230687",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - SUPERHERO PERFORMANCE SPRAY RETARDANTE 20 ML"
+  },
+  {
+   "gtin": "827160116569",
+   "marca": "PJUR",
+   "articulo": "pjur TOY FOAM",
+   "variante": "",
+   "url": "https://www.diversual.com/es/pjur-limpiador-toy-foam-150-ml-106433.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pjur Limpiador Toy Foam 150 ml - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "827160116569",
+   "marca": "PJUR",
+   "articulo": "pjur TOY FOAM",
+   "variante": "",
+   "url": "https://lapolvoteca.com/pjur-toy-foam-limpiador-de-juguetes-espuma-suave-150-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Limpiador de Juguetes en Espuma Pjur Toy Foam",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "827160116569",
+   "marca": "PJUR",
+   "articulo": "pjur TOY FOAM",
+   "variante": "",
+   "url": "https://www.universosexshop.com/limpiadores-juguetes-adultos/4229771-pjur-toy-foam-toy-cleaner-mild-foam-150-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); PJUR - TOY FOAM TOY CLEANER MILD FOAM 150 ML sólo 19.99€",
+   "politica_envio": {
+    "base": "7.00",
+    "gratis_desde": "50.00",
+    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
+   }
+  },
+  {
+   "gtin": "827160116569",
+   "marca": "PJUR",
+   "articulo": "pjur TOY FOAM",
+   "variante": "",
+   "url": "https://toqueteo.es/products/espuma-de-limpieza-para-juguetes-toy-foam-150ml-pjur",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Espuma limpiadora de juguetes PJUR Toy Foam 150 ml – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "827160116569",
+   "marca": "PJUR",
+   "articulo": "pjur TOY FOAM",
+   "variante": "",
+   "url": "https://sexshop-online.com/it/disinfettante-giocattoli/pjur-toy-foam-limpiador-de-juguetes-espuma-suave-150-mld-241698",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - TOY FOAM DETERGENTE PER GIOCATTOLI SCHIUMA DELICATA 150 ML"
+  },
+  {
+   "gtin": "827160116811",
+   "marca": "PJUR",
+   "articulo": "pjur MAN Lust",
+   "variante": "",
+   "url": "https://www.vivelavita.com/pt/geis-estimulantes-pjur-man-lust",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Gel estimulante Pjur Man Lust 15 ml | VivelaVita",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "827160116811",
+   "marca": "PJUR",
+   "articulo": "pjur MAN Lust",
+   "variante": "",
+   "url": "https://sexshop-online.com/retardantes/pjur-man-lust-gel-para-estimulacion-duradera-15-mld-244662",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - MAN LUST GEL PARA ESTIMULACIÓN DURADERA 15 ML"
+  },
+  {
+   "gtin": "827160116811",
+   "marca": "PJUR",
+   "articulo": "pjur MAN Lust",
+   "variante": "",
+   "url": "https://www.lovesexshop.es/pjur-hombre-lust-gel-estimulante-para-hombres-15ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Man Lust - gel estimulante para hombres (15 ml) | Loves",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "827160116811",
+   "marca": "PJUR",
+   "articulo": "pjur MAN Lust",
+   "variante": "",
+   "url": "https://www.desirel.es/pjur-hombre-lust-gel-estimulante-para-hombres-15ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Man Lust - gel estimulante para hombres (15 ml) | Sex S",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "827160116811",
+   "marca": "PJUR",
+   "articulo": "pjur MAN Lust",
+   "variante": "",
+   "url": "https://www.sextoycity.es/pjur-man-lust-gel-para-estimulacion-duradera-15-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR MAN Lust — Gel estimulante para hombres, 15 ml",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "827160117009",
+   "marca": "PJUR",
+   "articulo": "pjur ORGANIC Fresh",
+   "variante": "",
+   "url": "https://almasecreta.es/producto/limpiador-intimo-vegano-organic-fresh-150-ml",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160117009»); Limpiador Intimo Vegano Organic Fresh 150 ml | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "827160117009",
+   "marca": "PJUR",
+   "articulo": "pjur ORGANIC Fresh",
+   "variante": "",
+   "url": "https://sexshop-online.com/limpieza-intima/pjur-organic-fresh-espuma-refrescante-vegana-sin-enjuague-150-mld-244665",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - ORGANIC FRESH ESPUMA REFRESCANTE VEGANA SIN ENJUAGUE 150 ML"
+  },
+  {
+   "gtin": "827160117009",
+   "marca": "PJUR",
+   "articulo": "pjur ORGANIC Fresh",
+   "variante": "",
+   "url": "https://divinoysecreto.com/limpiador-intimo-vegano-organic-fresh-150-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Limpiador Intimo Vegano Organic Fresh 150 ml",
+   "politica_envio": {
+    "base": "4.50",
+    "gratis_desde": "39.99",
+    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
+   }
+  },
+  {
+   "gtin": "827160117009",
+   "marca": "PJUR",
+   "articulo": "pjur ORGANIC Fresh",
+   "variante": "",
+   "url": "https://www.sextoycity.es/pjur-organic-fresh-espuma-refrescante-vegana-sin-enjuague-150-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); pjur ORGANIC Fresh — Espuma íntima refrescante 150 ml",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "827160117009",
+   "marca": "PJUR",
+   "articulo": "pjur ORGANIC Fresh",
+   "variante": "",
+   "url": "https://www.vivelavita.com/es/organic-fresh-espuma-refrescante-vegana-sin-enjuague-150-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Organic Fresh – Cosmético de higiene íntima",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "4251460615532",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Rojo",
+   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460615532",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Rojo",
+   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/estimuladores/masajeadores/womanizer-premium-2-stimulador-clitorial-bordeaux-recargable/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 estimulador clitorial con 14 intensidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4251460615532",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Rojo",
+   "url": "https://www.lovesexshop.es/womanizer-premium-2-estimulador-de-clitoris-rojo",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460615532",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Rojo",
+   "url": "https://www.desirel.es/womanizer-premium-2-estimulador-de-clitoris-rojo",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4251460615556",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Fucsia",
+   "url": "https://www.cupidosshop.com/pt/prod/womanizer-premium-2-sugador-clitoris-rosa/18824/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Sugador Clitóris Rosa | Cupido"
+  },
+  {
+   "gtin": "4251460615556",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Fucsia",
+   "url": "https://www.farmaciasdirect.es/products/womanizer-premium-2-estimulador-de-clitoris-frambuesa",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Womanizer Premium 2 Estimulador De Clítoris Frambuesa al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4251460615556",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Fucsia",
+   "url": "https://noctiva.es/products/womanizer-premium-2-estimulador-de-clitoris-frambuesa",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Estimulador...itoris Frambuesa | Noctiva",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4251460615556",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Fucsia",
+   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460615556",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Premium 2",
+   "variante": "Color: Fucsia",
+   "url": "https://orgasmix.es/womanizer-premium-2-estimulador-clitoris-pleasure-air.html",
+   "evidencia": "GTIN comprobado por código (etiquetado: microdatos sku); 💜 Womanizer Premium 2 estimulador clítoris | Orgasmix",
+   "politica_envio": {
+    "base": "4.99",
+    "gratis_desde": "69",
+    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
+   }
+  },
+  {
+   "gtin": "4251460611138",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "4251460611138",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://www.cupidosshop.com/pt/prod/womanizer-duo-2-verde/19550/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Duo 2 Verde | Cupido"
+  },
+  {
+   "gtin": "4251460611138",
+   "marca": "WOMANIZER",
+   "articulo": "Womanizer Duo 2",
+   "variante": "Color: Blanco/Uva",
+   "url": "https://www.easytoys.es/womanizer-duo-2-petroleo-p-66046/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer DUO 2 - Verde - EasyToys"
+  },
+  {
+   "gtin": "827160104665",
+   "marca": "PJUR",
+   "articulo": "pjur BACK DOOR",
+   "variante": "",
+   "url": "https://www.sextoycity.es/pjur-back-door-relaxing-lubricante-anal-jojoba-30-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Back Door Relaxing – Lubricante anal con jojoba, 30 ml",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "827160104665",
+   "marca": "PJUR",
+   "articulo": "pjur BACK DOOR",
+   "variante": "",
+   "url": "https://sexplace.es/pjur-back-door-gel-relajante-anal-30-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pjur Back Door Gel Relajante Anal 30 Ml - Sexplace.es"
+  },
+  {
+   "gtin": "827160104665",
+   "marca": "PJUR",
+   "articulo": "pjur BACK DOOR",
+   "variante": "",
+   "url": "https://factormujer.com/lubricante-anal-pjur-back-door-silicona-30ml",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lubricante anal Pjur Back Door - silicona (30ml)",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
+  },
+  {
+   "gtin": "827160104665",
+   "marca": "PJUR",
+   "articulo": "pjur BACK DOOR",
+   "variante": "",
+   "url": "https://www.universosexshop.com/lubricantes-sexo-anal/4225604-pjur-back-door-gel-relajante-anal-30-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); PJUR BACK DOOR GEL RELAJANTE ANAL 30 ML por sólo 8,76 €",
+   "politica_envio": {
+    "base": "7.00",
+    "gratis_desde": "50.00",
+    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
+   }
+  },
+  {
+   "gtin": "827160104665",
+   "marca": "PJUR",
+   "articulo": "pjur BACK DOOR",
+   "variante": "",
+   "url": "https://www.easytoys.es/pjur-back-door-lubricante-relajante-de-silicona-30ml-p-66066/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur® BACK DOOR Lubricante Relajante de Silicona - 30ml - EasyToys"
+  },
+  {
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "pjur analyse me!",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-relajacion-anal/pjur-analyse-me-gel-relajante-anal-30-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur analyse me! Relaxing 30 ml, lubricante anal - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "pjur analyse me!",
+   "variante": "",
+   "url": "https://www.placerintenso.es/lubricantes-de-silicona/analyse-me-gel-relajante-anal-30-ml-pjur",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Analyse me gel relajante anal 30 ml - PlacerIntenso",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "60",
+    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
+   }
+  },
+  {
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "pjur analyse me!",
+   "variante": "",
+   "url": "https://www.cupidosshop.com/pt/prod/lubrificante-anal-relaxante-silicone-pjur-analyse-me-30ml/10897/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Lubrificante Anal Relaxante Silicone Pjur Analyse Me | Cupido"
+  },
+  {
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "pjur analyse me!",
+   "variante": "",
+   "url": "https://www.easytoys.es/pjur-analyse-me-lubricante-anal-a-base-de-silicona-30-ml-p-61511/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Analyse Me! Lubricante anal a base de silicona - 30 ml - EasyToys"
+  },
+  {
+   "gtin": "827160104634",
+   "marca": "PJUR",
+   "articulo": "pjur analyse me!",
+   "variante": "",
+   "url": "https://factormujer.com/lubricante-pjur-analyse-silicona-30ml",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Pjur Analyse Silicona 30ml - Factor Mujer",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "29",
+    "url": "https://factormujer.com/envios-24h"
+   }
   }
  ],
- "sin_ofertas": []
+ "sin_ofertas": [
+  {
+   "gtin": "827160100810",
+   "marca": "PJUR",
+   "articulo": "pjur ORIGINAL",
+   "variante": "Formato: 1.000 ml",
+   "consultas": [
+    "catálogos de 58 tiendas rastreados (sitemaps)",
+    "emparejado por marca, artículo y variante"
+   ],
+   "motivo": "Ninguna ficha candidata en las tiendas rastreadas"
+  }
+ ]
 }
