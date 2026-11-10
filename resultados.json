@@ -1,56 +1,36 @@
 {
- "revisado_en": "2026-11-09T02:23:40Z",
+ "revisado_en": "2026-11-10T02:21:36Z",
  "gtins_revisados": [
-  "827160100803",
-  "827160100810",
-  "827160104634",
-  "827160104665",
-  "827160106232",
-  "827160106249",
-  "827160106256",
-  "827160110871",
-  "827160111939",
-  "827160113544",
-  "827160116569",
-  "827160116811",
-  "827160117009",
-  "4251460611107",
-  "4251460611114",
-  "4251460611121",
-  "4251460611138",
-  "4251460611145",
-  "4251460615525",
-  "4251460615532",
-  "4251460615549",
-  "4251460615556",
-  "4251460615563",
-  "4251460633314",
-  "4251460636858",
-  "4251460636865",
-  "4251460636872",
-  "4251460636889"
+  "7350022274891",
+  "7350022277694",
+  "7350075021015",
+  "7350075021022",
+  "7350075022470",
+  "7350075022494",
+  "7350075024085",
+  "7350075029059",
+  "7350075029110",
+  "7350075029127",
+  "7350075029387",
+  "7350075029493",
+  "8058664108336",
+  "8411134135803",
+  "8411134135810",
+  "8411134135834",
+  "8411134135872",
+  "8411134140227",
+  "8411134140234",
+  "8411134140272",
+  "8411134140296"
  ],
  "hallazgos": [
   {
-   "gtin": "4251460611107",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Negro",
-   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460611107",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Negro",
-   "url": "https://www.lovesexshop.es/womanizer-duo-2-vibrador-2en1-para-punto-g-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 - Succionador y vibrador punto G - negro | L",
+   "gtin": "7350022274891",
+   "marca": "LELO",
+   "articulo": "Cable USB LELO",
+   "variante": "",
+   "url": "https://www.lovesexshop.es/cargador-usb-5v-lelo-cable-blanco",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Charger USB 5V - cable de carga (blanco) | Lovesexshop.",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -58,12 +38,12 @@
    }
   },
   {
-   "gtin": "4251460611107",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Negro",
-   "url": "https://www.desirel.es/womanizer-duo-2-vibrador-2en1-para-punto-g-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 - Succionador y vibrador punto G - negro | S",
+   "gtin": "7350022274891",
+   "marca": "LELO",
+   "articulo": "Cable USB LELO",
+   "variante": "",
+   "url": "https://www.desirel.es/cargador-usb-5v-lelo-cable-blanco",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Charger USB 5V - cable de carga (blanco) | Sex Shop Des",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -71,33 +51,12 @@
    }
   },
   {
-   "gtin": "4251460611107",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Negro",
-   "url": "https://www.easytoys.es/womanizer-duo-2-negro-p-66034/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer DUO 2 - Negro - EasyToys"
-  },
-  {
-   "gtin": "4251460611107",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Negro",
-   "url": "https://toqueteo.es/products/womanizer-duo-2-estimulador-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Succionador vibrador Womanizer Duo 2 negro, doble estímulo – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4251460611114",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Rojo",
-   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
+   "gtin": "7350022274891",
+   "marca": "LELO",
+   "articulo": "Cable USB LELO",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/lelo-usb-cable-cargador",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lelo USB Cable Cargador – Condonesmix",
    "politica_envio": {
     "base": "2.99",
     "gratis_desde": "60",
@@ -105,90 +64,25 @@
    }
   },
   {
-   "gtin": "4251460611114",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Rojo",
-   "url": "https://www.farmaciasdirect.es/products/womanizer-duo-2-estimulador-burdeos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Womanizer Duo 2 Estimulador Burdeos al mejor precio.",
+   "gtin": "7350022274891",
+   "marca": "LELO",
+   "articulo": "Cable USB LELO",
+   "variante": "",
+   "url": "https://almasecreta.es/producto/cargador-usb-productos-lelo",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Cargador USB Productos LELO | Alma Secreta",
    "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
    }
   },
   {
-   "gtin": "4251460611114",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Rojo",
-   "url": "https://www.sextoycity.es/womanizer-duo-2-estimulador-burdeos/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); WOMANIZER Duo 2 — Estimulador dual Pleasure Air Bordeaux",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "4251460611114",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Rojo",
-   "url": "https://factormujer.com/womanizer-duo-2-burdeos",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Womanizer Duo 2 Burdeos - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "4251460611114",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Rojo",
-   "url": "https://www.lovesexshop.es/womanizer-duo-2-vibrador-2en1-punto-g-rojo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 - Vibrador doble punto G y clítoris - silico",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460611121",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Azul",
-   "url": "https://toqueteo.es/products/womanizer-duo-2-estimulador-azul",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador Duo 2 de Womanizer para clítoris y punto G – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4251460611121",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Azul",
-   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460611121",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Azul",
-   "url": "https://www.diversual.com/es/womanizer-duo-2-azul-103863.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Womanizer Duo 2 Azul, Succionador de clítoris - diversual.com",
+   "gtin": "7350022274891",
+   "marca": "LELO",
+   "articulo": "Cable USB LELO",
+   "variante": "",
+   "url": "https://www.diversual.com/es/lelo-cargador-usb-con-cable-93334.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Cargador USB con Cable - diversual.com",
    "politica_envio": {
     "base": "3.90",
     "gratis_desde": "65.00",
@@ -196,25 +90,64 @@
    }
   },
   {
-   "gtin": "4251460611121",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Azul",
-   "url": "https://www.placerintenso.es/wand-y-masajeadores/duo-2-estimulador-azul-womanizer",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador azul - PlacerIntenso",
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO Luna Beads Noir",
+   "variante": "",
+   "url": "https://www.farmaciasdirect.es/products/lelo-luna-beads-noir-bolas-chinas",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Beads Noir Bolas Chinas al mejor precio.",
    "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4251460611121",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Azul",
-   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/estimuladores/masajeadores/womanizer-duo-2-estimulador-azul/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 azul: succionador y punto G | Bakanal",
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO Luna Beads Noir",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/bolas-chinas/lelo-luna-beads-noir-bolas-chinas",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Bolas kegel LELO LUNA Beads Noir - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO Luna Beads Noir",
+   "variante": "",
+   "url": "https://www.vivelavita.com/pt/lelo-luna-beads-noir-balls-chines",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Bola chinesa de silicone Lelo Luna Beads Noir",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO Luna Beads Noir",
+   "variante": "",
+   "url": "https://www.condonesmix.com/products/lelo-luna-beads-noir",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Bolas Noir Lelo – Condonesmix",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "60",
+    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+   }
+  },
+  {
+   "gtin": "7350022277694",
+   "marca": "LELO",
+   "articulo": "LELO Luna Beads Noir",
+   "variante": "",
+   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/bolas-chinas/bolas-basicas/lelo-luna-beads-noir-bolas-kegel/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Luna Beads Noir bolas Kegel | Bakanal",
    "politica_envio": {
     "base": "5.95",
     "gratis_desde": "49.00",
@@ -222,38 +155,80 @@
    }
   },
   {
-   "gtin": "4251460611145",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Lila",
-   "url": "https://toqueteo.es/products/womanizer-duo-2-estimulador-lila",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Succionador vibrador Womanizer Duo 2 lila con Pleasure Air – Toqueteo",
+   "gtin": "7350075021015",
+   "marca": "LELO",
+   "articulo": "LUNA Smart Bead",
+   "variante": "Color: Rosa",
+   "url": "https://www.farmaciasdirect.es/products/lelo-luna-smart-bead-rosa",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Smart Bead Rosa al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
    }
   },
   {
-   "gtin": "4251460611145",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Lila",
-   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
+   "gtin": "7350075021015",
+   "marca": "LELO",
+   "articulo": "LUNA Smart Bead",
+   "variante": "Color: Rosa",
+   "url": "https://www.tudeseo.net/producto/lelo-luna-smart-bead-rosa/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - LELO - LUNA SMART BEAD ROSA"
+  },
+  {
+   "gtin": "7350075021015",
+   "marca": "LELO",
+   "articulo": "LUNA Smart Bead",
+   "variante": "Color: Rosa",
+   "url": "https://losjuguetesdera.es/products/lelo-luna-smart-bead-rosa",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); LELO - LUNA SMART BEAD ROSA – losjuguetesdera",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "3.99",
+    "gratis_desde": "65.00",
+    "url": "https://losjuguetesdera.es/pages/gastos-de-envios"
    }
   },
   {
-   "gtin": "4251460611145",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Lila",
-   "url": "https://www.diversual.com/es/womanizer-duo-2-lila-103865.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Womanizer Duo 2 Lila, Succionador de clítoris - diversual.com",
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 12",
+   "url": "https://tocabanana.com/producto/hex-by-lelo-12-original/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); HEX by Lelo 12 Original - TocaBanana SexShop Nº1 en masturbadores masculinos",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 12",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/lelo-hex-preservativo-caja-12-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Original, preservativos de látex 54 mm x12",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 12",
+   "url": "https://sexshop-online.com/puntos-y-estrias/lelo-hex-preservativo-caja-12-udsd-211713",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Condones ★ 12 uds | Protección ultra fina y sensación natural"
+  },
+  {
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 12",
+   "url": "https://www.diversual.com/es/lelo-hex-preservativo-caja-12-uds-94979.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Hex 12 Uds, Preservativos con estrías - diversual.com",
    "politica_envio": {
     "base": "3.90",
     "gratis_desde": "65.00",
@@ -261,46 +236,12 @@
    }
   },
   {
-   "gtin": "4251460611145",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Lila",
-   "url": "https://www.vivelavita.com/en/vibrators-suction-womanizer-duo-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Suction vibrator Womanizer Duo 2 8,8 cm",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "4251460611145",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Lila",
-   "url": "https://www.placerintenso.es/estimuladores-de-clitoris/duo-2-estimulador-lila-womanizer",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador lila - PlacerIntenso",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4251460615525",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Negro",
-   "url": "https://www.easytoys.es/vibrador-womanizer-premium-2-air-pulse-negro-p-46678/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador Womanizer Premium 2 Air Pulse - Negro - EasyToys"
-  },
-  {
-   "gtin": "4251460615525",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Negro",
-   "url": "https://www.lovesexshop.es/womanizer-premium-2-estimulador-de-clitoris-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
+   "gtin": "7350075022494",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 12",
+   "url": "https://www.lovesexshop.es/lelo-hex-original-condones-de-lujo-12-pcs",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (12 unidades) | Lov",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -308,489 +249,12 @@
    }
   },
   {
-   "gtin": "4251460615525",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Negro",
-   "url": "https://www.desirel.es/womanizer-premium-2-estimulador-de-clitoris-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460615525",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Negro",
-   "url": "https://www.puntlove.es/succionadores/Succionador/producto/womanizer-premium-2/",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «Ref.: 4251460615525»); Womanizer Premium 2 - Succionadores Womanizer - Succionadores - PuntLove, erotic",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44",
-    "url": "https://www.puntlove.es/gastos-de-envio.php"
-   }
-  },
-  {
-   "gtin": "4251460615525",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Negro",
-   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460615549",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://www.easytoys.es/womanizer-premium-2-air-pulse-vibrator-arandano-p-46687/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 Air Pulse Vibrator - Arándano - EasyToys"
-  },
-  {
-   "gtin": "4251460615549",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://lapolvoteca.com/womanizer-premium-2-estimulador-de-clitoris-arandano/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Estimulador Clítoris 14 Niveles | La Polvoteca",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "4251460615549",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://www.placerintenso.es/succionadores/premium-2-estimulador-de-clitoris-arandano-womanizer",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 estimulador de clítoris arándano",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "4251460615549",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460615549",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://www.sexshop.express/succionadores-sin-vibracion/5750-womanizer-premium-2-estimulador-de-clitoris-arandano-4251460615549.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2: Estimulador de Clítoris con Tecnología Pleasure Air",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "4251460615563",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Gris",
-   "url": "https://www.easytoys.es/vibrador-womanizer-premium-2-air-pulse-gris-p-46684/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador Womanizer Premium 2 Air Pulse - Blanco - EasyToys"
-  },
-  {
-   "gtin": "4251460615563",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Gris",
-   "url": "https://www.cupidosshop.com/pt/prod/womanizer-premium-2-sugador-clitoris-branco/18608/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Sugador Clitóris Branco | Cupido"
-  },
-  {
-   "gtin": "4251460615563",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Gris",
-   "url": "https://www.vivelavita.com/pt/womanizer-premium-2-warm",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Sugador de clitóris Womanizer Premium 2 Warm",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "4251460615563",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Gris",
-   "url": "https://toqueteo.es/products/womanizer-premium-2-estimulador-de-clitoris-gris",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris sin contacto Premium 2, Womanizer – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4251460615563",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Gris",
-   "url": "https://www.farmaciasdirect.es/products/womanizer-premium-2-estimulador-de-clitoris-gris",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Womanizer Premium 2 Estimulador De Clítoris Gris al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4251460633314",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Lila",
-   "url": "https://www.easytoys.es/womanizer-pro-estimulador-de-clitoris-tecnologia-pleasure-air-p-96865/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer – Pro Estimulador de Clítoris – Rosa - EasyToys"
-  },
-  {
-   "gtin": "4251460633314",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Lila",
-   "url": "https://www.sextoycity.es/womanizer-pro-vibrant-estimulador-de-clitoris-lila/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Pro Vibrant — estimulador clitoriano sin contacto",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "4251460633314",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Lila",
-   "url": "https://www.magicdust.es/tienda/juguetes-xxx/succionadores/womanizer-pro-succionador-de-clitoris/",
-   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 4251460633314); Womanizer Pro succionador de clítoris • Magicdust Tienda erótica",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "99.00",
-    "url": "https://www.magicdust.es/condiciones/"
-   }
-  },
-  {
-   "gtin": "4251460633314",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Lila",
-   "url": "https://kiwichi.com/womanizer--pro-vibrant-estimulador-de-clitoris-lila/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pro Vibrant Estimulador de Clítoris Lila - Womanizer | Kiwichi",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "69.00",
-    "url": "https://kiwichi.com/politicas-de-envio-y-entrega"
-   }
-  },
-  {
-   "gtin": "4251460633314",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Lila",
-   "url": "https://www.condonesmix.com/products/womanizer-pro-vibrant",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro Vibrant succionador de clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460636858",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Verde",
-   "url": "https://www.sextoycity.es/womanizer-pro-vibrant-estimulador-de-clitoris-verde-salvia/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Pro Vibrant — Estimulador clitoriano verde salvia",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "4251460636858",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Verde",
-   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-de-clitoris-por-aire-verde",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (v",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636858",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Verde",
-   "url": "https://www.desirel.es/womanizer-pro-estimulador-de-clitoris-por-aire-verde",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (v",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636858",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Verde",
-   "url": "https://toqueteo.es/products/womanizer-pro-vibrant-estimulador-de-clitoris-verde-salvia",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris sin contacto Womanizer Pro Vibrant – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4251460636858",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Verde",
-   "url": "https://kiwichi.com/womanizer--pro-vibrant-estimulador-de-clitoris-verde-salvia/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pro Vibrant Estimulador de Clítoris Verde Salvia - Womanizer",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "69.00",
-    "url": "https://kiwichi.com/politicas-de-envio-y-entrega"
-   }
-  },
-  {
-   "gtin": "4251460636865",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Gris",
-   "url": "https://sexshop-online.com/it/per-clitoride/womanizer-pro-vibrant-clitoral-stimulator-silver-grey",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); WOMANIZER PRO VIBRANT ★ Stimolatore Clitorideo Argento-Grigio ✅"
-  },
-  {
-   "gtin": "4251460636865",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Gris",
-   "url": "https://www.sextoycity.es/womanizer-pro-vibrant-estimulador-de-clitoris-gris-plata/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); WOMANIZER Pro Vibrant — Estimulador de clítoris sin contacto",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "4251460636865",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Gris",
-   "url": "https://toqueteo.es/products/womanizer-pro-vibrant-estimulador-de-clitoris-gris-plata",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris Womanizer Pro Vibrant, sin contacto – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4251460636865",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Gris",
-   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-de-clitoris-por-ondas-aereas-gris",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (g",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636865",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Gris",
-   "url": "https://www.desirel.es/womanizer-pro-estimulador-de-clitoris-por-ondas-aereas-gris",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (g",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636872",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rosa",
-   "url": "https://www.easytoys.es/womanizer-pro-estimulador-clitorial-vibrant-pink-p-104932/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer - Pro Estimulador Clitorial - Vibrant Pink - EasyToys"
-  },
-  {
-   "gtin": "4251460636872",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rosa",
-   "url": "https://www.condonesmix.com/products/womanizer-pro-vibrant",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro Vibrant succionador de clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460636872",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rosa",
-   "url": "https://www.vivelavita.com/pt/sugadores-womanizer-pro-vibrant",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Succionador PRO VIBRANT · Prazer Elevado com Womanizer",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "4251460636872",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rosa",
-   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-clitorial-de-aire-rosa",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636872",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rosa",
-   "url": "https://www.desirel.es/womanizer-pro-estimulador-clitorial-de-aire-rosa",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636889",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rojo",
-   "url": "https://toqueteo.es/products/womanizer-pro-vibrant-estimulador-de-clitoris-burdeos",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Estimulador de clítoris Womanizer Pro Vibrant IPX7 – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "4251460636889",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rojo",
-   "url": "https://www.lovesexshop.es/womanizer-pro-estimulador-de-clitoris-con-ondas-de-aire-rojo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636889",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rojo",
-   "url": "https://www.desirel.es/womanizer-pro-estimulador-de-clitoris-con-ondas-de-aire-rojo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro - estimulador de clítoris por ondas de aire (r",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460636889",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rojo",
-   "url": "https://www.condonesmix.com/products/womanizer-pro-vibrant",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Pro Vibrant succionador de clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460636889",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Pro",
-   "variante": "Color: Rojo",
-   "url": "https://lapolvoteca.com/womanizer-pro-vibrant-estimulador-de-clitoris-burdeos/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Pro Vibrant Succionador Burdeos",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "827160100803",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 500 ml",
-   "url": "https://www.farmaciasdirect.es/products/pjur-original-lubricante-silicona-500-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original Lubricante Silicona 500 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "827160100803",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 500 ml",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-base-silicona/pjur-original-lubricante-silicona-500-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur ORIGINAL 500 ml, lubricante de silicona - Boudoir",
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/lelo-hex-preservativo-caja-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Original, preservativos de látex 54 mm x36",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -798,72 +262,33 @@
    }
   },
   {
-   "gtin": "827160100803",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 500 ml",
-   "url": "https://almasecreta.es/producto/pjur-original-500-ml",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160100803»); Pjur Original 500 ml lubricante de silicona | Alma Secreta",
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 36",
+   "url": "https://sexshop-online.com/puntos-y-estrias/lelo-hex-preservativo-caja-36-udsd-216259",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Preservativos ★ Caja 36 uds ✅ Máxima Sensibilidad"
+  },
+  {
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 36",
+   "url": "https://tocabanana.com/producto/hex-by-lelo-36-original/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); HEX by Lelo 36 Original - TocaBanana SexShop Nº1 en masturbadores masculinos",
    "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
    }
   },
   {
-   "gtin": "827160100803",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 500 ml",
-   "url": "https://sexshop-online.com/it/base-silicone/pjur-original-lubricante-silicona-500-mld-230434",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - LUBRIFICANTE AL SILICONE ORIGINALE 500 ML"
-  },
-  {
-   "gtin": "827160100803",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 500 ml",
-   "url": "https://www.sextoycity.es/pjur-original-lubricante-silicona-500-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Original lubricante de silicona 500 ml, superconcentrado",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "827160106232",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 30 ml",
-   "url": "https://www.farmaciasdirect.es/products/pjur-original-lubricante-silicona-30-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original Lubricante Silicona 30 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "827160106232",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 30 ml",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-base-silicona/pjur-original-lubricante-silicona-30-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur ORIGINAL 30 ml, lubricante de silicona - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "827160106232",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 30 ml",
-   "url": "https://www.lovesexshop.es/pjur-original-lubricante-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Original lubricante (30 ml) | Lovesexshop.es sex shop -",
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 36",
+   "url": "https://www.lovesexshop.es/lelo-hex-original-condones-de-lujo-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (36 uds.) | Lovesex",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -871,12 +296,12 @@
    }
   },
   {
-   "gtin": "827160106232",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 30 ml",
-   "url": "https://www.desirel.es/pjur-original-lubricante-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Original lubricante (30 ml) | Sex Shop Desirel.es - Des",
+   "gtin": "7350075024085",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 36",
+   "url": "https://www.desirel.es/lelo-hex-original-condones-de-lujo-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (36 uds.) | Sex Sho",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -884,25 +309,12 @@
    }
   },
   {
-   "gtin": "827160106232",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 30 ml",
-   "url": "https://www.sextoycity.es/pjur-original-lubricante-silicona-30-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Original lubricante de silicona 30 ml — uso anal y vaginal",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "827160106249",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 100 ml",
-   "url": "https://www.farmaciasdirect.es/products/pjur-original-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original 100 Ml al mejor precio.",
+   "gtin": "7350075029059",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Morado",
+   "url": "https://www.farmaciasdirect.es/products/lelo-lily-3-masajeador-personal-morado",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Lily 3 Masajeador Personal Morado al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -910,25 +322,25 @@
    }
   },
   {
-   "gtin": "827160106249",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 100 ml",
-   "url": "https://almasecreta.es/producto/pjur-original-100-ml",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160106249»); Pjur Original 100 ml - Lubricante Silicona | Alma Secreta",
+   "gtin": "7350075029059",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Morado",
+   "url": "https://toqueteo.es/products/lelo-lily-3-masajeador-personal-morado",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masajeador personal LELO LILY 3, recargable USB e IPX7 – Toqueteo",
    "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
    }
   },
   {
-   "gtin": "827160106249",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 100 ml",
-   "url": "https://www.diversual.com/es/91565-lubricante-pjur-original-silicona-100-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lubricante Pjur Original Silicona 100 ml - diversual.com",
+   "gtin": "7350075029059",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Morado",
+   "url": "https://www.diversual.com/es/lelo-lily-3-morado-104070.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Lily 3 Morado, Vibrador clitorial - diversual.com",
    "politica_envio": {
     "base": "3.90",
     "gratis_desde": "65.00",
@@ -936,364 +348,12 @@
    }
   },
   {
-   "gtin": "827160106249",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 100 ml",
-   "url": "https://www.sextoycity.es/pjur-original-lubricante-silicona-100-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Original Lubricante de silicona 100 ml",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "827160106249",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 100 ml",
-   "url": "https://bakanal.es/drogueria/lubricantes/anal-lubricantes/pjur-original-lubricante-silicona-100-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Original Lubricante Base Silicona 100 ml | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "827160106256",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 250 ml",
-   "url": "https://www.farmaciasdirect.es/products/pjur-original-lubricante-silicona-250-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Original Lubricante Silicona 250 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "827160106256",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 250 ml",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-base-silicona/pjur-original-lubricante-silicona-250-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur ORIGINAL 250 ml, lubricante de silicona - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "827160106256",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 250 ml",
-   "url": "https://almasecreta.es/producto/pjur-original-250-ml",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160106256»); Pjur Original 250 ml | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "827160106256",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 250 ml",
-   "url": "https://divinoysecreto.com/pjur-original-250-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Original 250 ml",
-   "politica_envio": {
-    "base": "4.50",
-    "gratis_desde": "39.99",
-    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
-   }
-  },
-  {
-   "gtin": "827160106256",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 250 ml",
-   "url": "https://sexshop-online.com/it/base-silicone/pjur-original-lubricante-silicona-250-mld-230433",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - LUBRIFICANTE AL SILICONE ORIGINALE 250 ML"
-  },
-  {
-   "gtin": "827160110871",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Serum",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/pjur-superhero-retard-serum-20-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Superhero retard serum – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "827160110871",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Serum",
-   "variante": "",
-   "url": "https://sexshop-online.com/retardantes/pjur-superhero-serum-retardante-concentrado-20-mld-199350",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - SUPERHERO SERUM RETARDANTE CONCENTRADO 20 ML"
-  },
-  {
-   "gtin": "827160110871",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Serum",
-   "variante": "",
-   "url": "https://www.placerintenso.es/retardantes/superhero-serum-retardante-concentrado-20-ml-pjur",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Superhero serum retardante concentrado 20 ml - PlacerIntenso",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "827160110871",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Serum",
-   "variante": "",
-   "url": "https://www.vivelavita.com/pt/sprays-retardantes-pjur-serum-retardante-superhero",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Spray retardador Pjur Sérum Retardante Superhero",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "827160110871",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Serum",
-   "variante": "",
-   "url": "https://lapolvoteca.com/pjur-superhero-serum-retardante-concentrado-20-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Pjur Superhero Serum Retardante 20 ml",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "827160111939",
-   "marca": "PJUR",
-   "articulo": "pjur med After Shave",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/limpieza-intima/pjur-med-after-shave-spray-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur med AFTER SHAVE spray 100 ml, zona íntima - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "827160111939",
-   "marca": "PJUR",
-   "articulo": "pjur med After Shave",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/pjur-med-after-shave-spray-100-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Med After Shave Spray 100 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "827160111939",
-   "marca": "PJUR",
-   "articulo": "pjur med After Shave",
-   "variante": "",
-   "url": "https://almasecreta.es/producto/pjur-med-after-shave-100-ml",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160111939»); Pjur Med After Shave 100 ml | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "827160111939",
-   "marca": "PJUR",
-   "articulo": "pjur med After Shave",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/pjur-med-after-shave-spray",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Med After Shave spray 100 ml sin alcohol – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "827160111939",
-   "marca": "PJUR",
-   "articulo": "pjur med After Shave",
-   "variante": "",
-   "url": "https://www.diversual.com/es/pjur-med-after-shave-spray-100-ml-102598.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); After Shave Spray 100 ml Pjur - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "827160113544",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Spray",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/pjur-superhero-performance-spray-retardante-20-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Compra Pjur Superhero Performance Spray Retardante 20 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "827160113544",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Spray",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aumenta-la-potencia-en-el-hombre-vigorizantes/pjur-superhero-performance-spray-retardante-20-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur superhero Performance Spray 20 ml, retardante - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "827160113544",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Spray",
-   "variante": "",
-   "url": "https://almasecreta.es/producto/spray-retardante-superhero-performance-20-ml",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160113544»); Spray Retardante Superhero Performance 20 ml | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "827160113544",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Spray",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/pjur-superhero-spray-retardante",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Superhero Spray Retardante – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "827160113544",
-   "marca": "PJUR",
-   "articulo": "pjur superhero Spray",
-   "variante": "",
-   "url": "https://sexshop-online.com/retardantes/pjur-superhero-performance-spray-retardante-20-mld-230687",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - SUPERHERO PERFORMANCE SPRAY RETARDANTE 20 ML"
-  },
-  {
-   "gtin": "827160116569",
-   "marca": "PJUR",
-   "articulo": "pjur TOY FOAM",
-   "variante": "",
-   "url": "https://www.diversual.com/es/pjur-limpiador-toy-foam-150-ml-106433.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pjur Limpiador Toy Foam 150 ml - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "827160116569",
-   "marca": "PJUR",
-   "articulo": "pjur TOY FOAM",
-   "variante": "",
-   "url": "https://lapolvoteca.com/pjur-toy-foam-limpiador-de-juguetes-espuma-suave-150-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Limpiador de Juguetes en Espuma Pjur Toy Foam",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "39",
-    "url": "https://lapolvoteca.com/politica-de-envio/"
-   }
-  },
-  {
-   "gtin": "827160116569",
-   "marca": "PJUR",
-   "articulo": "pjur TOY FOAM",
-   "variante": "",
-   "url": "https://www.universosexshop.com/limpiadores-juguetes-adultos/4229771-pjur-toy-foam-toy-cleaner-mild-foam-150-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); PJUR - TOY FOAM TOY CLEANER MILD FOAM 150 ML sólo 19.99€",
-   "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
-   }
-  },
-  {
-   "gtin": "827160116569",
-   "marca": "PJUR",
-   "articulo": "pjur TOY FOAM",
-   "variante": "",
-   "url": "https://toqueteo.es/products/espuma-de-limpieza-para-juguetes-toy-foam-150ml-pjur",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Espuma limpiadora de juguetes PJUR Toy Foam 150 ml – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "827160116569",
-   "marca": "PJUR",
-   "articulo": "pjur TOY FOAM",
-   "variante": "",
-   "url": "https://sexshop-online.com/it/disinfettante-giocattoli/pjur-toy-foam-limpiador-de-juguetes-espuma-suave-150-mld-241698",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - TOY FOAM DETERGENTE PER GIOCATTOLI SCHIUMA DELICATA 150 ML"
-  },
-  {
-   "gtin": "827160116811",
-   "marca": "PJUR",
-   "articulo": "pjur MAN Lust",
-   "variante": "",
-   "url": "https://www.vivelavita.com/pt/geis-estimulantes-pjur-man-lust",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Gel estimulante Pjur Man Lust 15 ml | VivelaVita",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "827160116811",
-   "marca": "PJUR",
-   "articulo": "pjur MAN Lust",
-   "variante": "",
-   "url": "https://sexshop-online.com/retardantes/pjur-man-lust-gel-para-estimulacion-duradera-15-mld-244662",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - MAN LUST GEL PARA ESTIMULACIÓN DURADERA 15 ML"
-  },
-  {
-   "gtin": "827160116811",
-   "marca": "PJUR",
-   "articulo": "pjur MAN Lust",
-   "variante": "",
-   "url": "https://www.lovesexshop.es/pjur-hombre-lust-gel-estimulante-para-hombres-15ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Man Lust - gel estimulante para hombres (15 ml) | Loves",
+   "gtin": "7350075029059",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Morado",
+   "url": "https://www.lovesexshop.es/lelo-lily-3-recargable-y-resistente-al-agua-vibrador-morado-oscuro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Lily 3 - vibrador clitorial recargable impermeable - co",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -1301,171 +361,12 @@
    }
   },
   {
-   "gtin": "827160116811",
-   "marca": "PJUR",
-   "articulo": "pjur MAN Lust",
-   "variante": "",
-   "url": "https://www.desirel.es/pjur-hombre-lust-gel-estimulante-para-hombres-15ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Man Lust - gel estimulante para hombres (15 ml) | Sex S",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "827160116811",
-   "marca": "PJUR",
-   "articulo": "pjur MAN Lust",
-   "variante": "",
-   "url": "https://www.sextoycity.es/pjur-man-lust-gel-para-estimulacion-duradera-15-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR MAN Lust — Gel estimulante para hombres, 15 ml",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "827160117009",
-   "marca": "PJUR",
-   "articulo": "pjur ORGANIC Fresh",
-   "variante": "",
-   "url": "https://almasecreta.es/producto/limpiador-intimo-vegano-organic-fresh-150-ml",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «EAN 827160117009»); Limpiador Intimo Vegano Organic Fresh 150 ml | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "827160117009",
-   "marca": "PJUR",
-   "articulo": "pjur ORGANIC Fresh",
-   "variante": "",
-   "url": "https://sexshop-online.com/limpieza-intima/pjur-organic-fresh-espuma-refrescante-vegana-sin-enjuague-150-mld-244665",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); PJUR - ORGANIC FRESH ESPUMA REFRESCANTE VEGANA SIN ENJUAGUE 150 ML"
-  },
-  {
-   "gtin": "827160117009",
-   "marca": "PJUR",
-   "articulo": "pjur ORGANIC Fresh",
-   "variante": "",
-   "url": "https://divinoysecreto.com/limpiador-intimo-vegano-organic-fresh-150-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Limpiador Intimo Vegano Organic Fresh 150 ml",
-   "politica_envio": {
-    "base": "4.50",
-    "gratis_desde": "39.99",
-    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
-   }
-  },
-  {
-   "gtin": "827160117009",
-   "marca": "PJUR",
-   "articulo": "pjur ORGANIC Fresh",
-   "variante": "",
-   "url": "https://www.sextoycity.es/pjur-organic-fresh-espuma-refrescante-vegana-sin-enjuague-150-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); pjur ORGANIC Fresh — Espuma íntima refrescante 150 ml",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "827160117009",
-   "marca": "PJUR",
-   "articulo": "pjur ORGANIC Fresh",
-   "variante": "",
-   "url": "https://www.vivelavita.com/es/organic-fresh-espuma-refrescante-vegana-sin-enjuague-150-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin12); Pjur Organic Fresh – Cosmético de higiene íntima",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "4251460615532",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Rojo",
-   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "4251460615532",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Rojo",
-   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/estimuladores/masajeadores/womanizer-premium-2-stimulador-clitorial-bordeaux-recargable/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 estimulador clitorial con 14 intensidades | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "4251460615532",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Rojo",
-   "url": "https://www.lovesexshop.es/womanizer-premium-2-estimulador-de-clitoris-rojo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460615532",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Rojo",
-   "url": "https://www.desirel.es/womanizer-premium-2-estimulador-de-clitoris-rojo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 - estimulador de clítoris por ondas de a",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "4251460615556",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Fucsia",
-   "url": "https://www.cupidosshop.com/pt/prod/womanizer-premium-2-sugador-clitoris-rosa/18824/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Sugador Clitóris Rosa | Cupido"
-  },
-  {
-   "gtin": "4251460615556",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Fucsia",
-   "url": "https://www.farmaciasdirect.es/products/womanizer-premium-2-estimulador-de-clitoris-frambuesa",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Womanizer Premium 2 Estimulador De Clítoris Frambuesa al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "4251460615556",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Fucsia",
-   "url": "https://noctiva.es/products/womanizer-premium-2-estimulador-de-clitoris-frambuesa",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Premium 2 Estimulador...itoris Frambuesa | Noctiva",
+   "gtin": "7350075029059",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Morado",
+   "url": "https://noctiva.es/products/lelo-lily-3-masajeador-personal-morado",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Vibrador externo morado de bolsillo LELO Lily 3 | Noctiva",
    "politica_envio": {
     "base": "4.95",
     "gratis_desde": "50.00",
@@ -1473,88 +374,51 @@
    }
   },
   {
-   "gtin": "4251460615556",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Fucsia",
-   "url": "https://www.condonesmix.com/products/womanizer-premium-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Premium 2 · Succionador de clítoris – Condonesmix",
+   "gtin": "7350075029110",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Lila",
+   "url": "https://toqueteo.es/products/lelo-lily-3-masajeador-personal-lila",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador para clítoris LELO LILY 3, sumergible IPX7 – Toqueteo",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
    }
   },
   {
-   "gtin": "4251460615556",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Premium 2",
-   "variante": "Color: Fucsia",
-   "url": "https://orgasmix.es/womanizer-premium-2-estimulador-clitoris-pleasure-air.html",
-   "evidencia": "GTIN comprobado por código (etiquetado: microdatos sku); 💜 Womanizer Premium 2 estimulador clítoris | Orgasmix",
+   "gtin": "7350075029110",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Lila",
+   "url": "https://www.diversual.com/es/lelo-lily-3-lila-104068.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Lily 3 Lila, Vibrador clitorial - diversual.com",
    "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "69",
-    "url": "https://orgasmix.es/content/politica-de-envios-y-devoluciones"
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
    }
   },
   {
-   "gtin": "4251460611138",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://www.condonesmix.com/products/womanizer-duo-2",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer Duo 2 estimulador dual punto G y clítoris – Condonesmix",
+   "gtin": "7350075029110",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Lila",
+   "url": "https://noctiva.es/products/lelo-lily-3-masajeador-personal-lila",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); LELO Lily 3 lila: masajeador personal externo IPX7 | Noctiva",
    "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
    }
   },
   {
-   "gtin": "4251460611138",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://www.cupidosshop.com/pt/prod/womanizer-duo-2-verde/19550/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Womanizer Duo 2 Verde | Cupido"
-  },
-  {
-   "gtin": "4251460611138",
-   "marca": "WOMANIZER",
-   "articulo": "Womanizer Duo 2",
-   "variante": "Color: Blanco/Uva",
-   "url": "https://www.easytoys.es/womanizer-duo-2-petroleo-p-66046/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Womanizer DUO 2 - Verde - EasyToys"
-  },
-  {
-   "gtin": "827160104665",
-   "marca": "PJUR",
-   "articulo": "pjur BACK DOOR",
-   "variante": "",
-   "url": "https://www.sextoycity.es/pjur-back-door-relaxing-lubricante-anal-jojoba-30-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); PJUR Back Door Relaxing – Lubricante anal con jojoba, 30 ml",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "69",
-    "url": "https://www.sextoycity.es/condiciones-de-compra/"
-   }
-  },
-  {
-   "gtin": "827160104665",
-   "marca": "PJUR",
-   "articulo": "pjur BACK DOOR",
-   "variante": "",
-   "url": "https://sexplace.es/pjur-back-door-gel-relajante-anal-30-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Pjur Back Door Gel Relajante Anal 30 Ml - Sexplace.es"
-  },
-  {
-   "gtin": "827160104665",
-   "marca": "PJUR",
-   "articulo": "pjur BACK DOOR",
-   "variante": "",
-   "url": "https://factormujer.com/lubricante-anal-pjur-back-door-silicona-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lubricante anal Pjur Back Door - silicona (30ml)",
+   "gtin": "7350075029110",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Lila",
+   "url": "https://factormujer.com/lelo-lily-3-lila",
+   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lelo Lily 3 Lila - Factor Mujer",
    "politica_envio": {
     "base": "3.95",
     "gratis_desde": "29",
@@ -1562,33 +426,98 @@
    }
   },
   {
-   "gtin": "827160104665",
-   "marca": "PJUR",
-   "articulo": "pjur BACK DOOR",
-   "variante": "",
-   "url": "https://www.universosexshop.com/lubricantes-sexo-anal/4225604-pjur-back-door-gel-relajante-anal-30-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); PJUR BACK DOOR GEL RELAJANTE ANAL 30 ML por sólo 8,76 €",
+   "gtin": "7350075029110",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Lila",
+   "url": "https://www.sexshop.express/mini-vibradores/5645-lelo-lily-3-masajeador-personal-verde-agua.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lily 3 Masajeador Personal - 10 Modos de Vibración | Verde Agua",
    "politica_envio": {
-    "base": "7.00",
-    "gratis_desde": "50.00",
-    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
+    "base": "3.99",
+    "gratis_desde": "55",
+    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
    }
   },
   {
-   "gtin": "827160104665",
-   "marca": "PJUR",
-   "articulo": "pjur BACK DOOR",
-   "variante": "",
-   "url": "https://www.easytoys.es/pjur-back-door-lubricante-relajante-de-silicona-30ml-p-66066/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur® BACK DOOR Lubricante Relajante de Silicona - 30ml - EasyToys"
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Negro",
+   "url": "https://www.farmaciasdirect.es/products/lelo-soraya-beads-masajeador-anal-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Soraya Beads Masajeador Anal Negro al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
   },
   {
-   "gtin": "827160104634",
-   "marca": "PJUR",
-   "articulo": "pjur analyse me!",
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Negro",
+   "url": "https://www.easytoys.es/lelo-soraya-bolas-anales-negro-p-76477/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO - Soraya Bolas Anales - Negro - EasyToys"
+  },
+  {
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Negro",
+   "url": "https://toqueteo.es/products/lelo-soraya-beads-masajeador-anal-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masajeador anal LELO Soraya Beads con cuentas progresivas – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Negro",
+   "url": "https://www.vivelavita.com/es/soraya-beads-masajeador-anal-negro",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lelo Soraya Beads – Bola anal | VivelaVita",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "7350075029387",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Negro",
+   "url": "https://www.diversual.com/es/lelo-soraya-beads-negro-104883.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Soraya Beads Negro, Vibrador anal - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
    "variante": "",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-lubricantes-relajacion-anal/pjur-analyse-me-gel-relajante-anal-30-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); pjur analyse me! Relaxing 30 ml, lubricante anal - Boudoir",
+   "url": "https://www.farmaciaencasaonline.es/5626-control-feel-xl-vibrador-5-velocidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Feel XL Vibrador 5 Velocidades",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+   }
+  },
+  {
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
+   "variante": "",
+   "url": "https://www.sexshopboudoir.es/para-clitoris/control-feel-xl-bala-vibradora",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Feel XL, vibrador vaginal 16 cm - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -1596,12 +525,93 @@
    }
   },
   {
-   "gtin": "827160104634",
-   "marca": "PJUR",
-   "articulo": "pjur analyse me!",
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
    "variante": "",
-   "url": "https://www.placerintenso.es/lubricantes-de-silicona/analyse-me-gel-relajante-anal-30-ml-pjur",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); pjur Analyse me gel relajante anal 30 ml - PlacerIntenso",
+   "url": "https://sexplace.es/control-feel-xl-bala-vibradora/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - FEEL XL BALA VIBRADORA"
+  },
+  {
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
+   "variante": "",
+   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/estimuladores/balas-vibradoras/control-feel-xl-bala-vibradora/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Feel XL Bala Vibradora de Cuerpo Grande | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "8058664108336",
+   "marca": "CONTROL",
+   "articulo": "CONTROL FEEL XL",
+   "variante": "",
+   "url": "https://www.tudeseo.net/producto/control-feel-xl-bala-vibradora/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - CONTROL - FEEL XL BALA VIBRADORA"
+  },
+  {
+   "gtin": "8411134135803",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Exotic Escape · Frutas tropicales",
+   "url": "https://www.arenal.com/exotic-escape-2-en-1-control-gel-masaje-exotico",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Exotic Escape 2 En 1 CONTROL Gel Masaje Exótico 2 en 1 precio | ARENAL.COM",
+   "politica_envio": {
+    "base": "5.00",
+    "gratis_desde": "20.00",
+    "url": "https://www.arenal.com/envios"
+   }
+  },
+  {
+   "gtin": "8411134135803",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Exotic Escape · Frutas tropicales",
+   "url": "https://www.druni.es/exotic-escape-2-en-1-control-gel-masaje-exotico",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Exotic Escape 2 En 1 CONTROL Gel Masaje Exótico precio | DRUNI.es",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "20.00",
+    "url": "https://www.druni.es/condiciones-generales-compra"
+   }
+  },
+  {
+   "gtin": "8411134135803",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Exotic Escape · Frutas tropicales",
+   "url": "https://www.farmaciaencasaonline.es/4480-control-exotic-escape-2-en-1-gel-de-masaje-hidratante-200ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Exotic Escape 2 en 1 Gel de Masaje Hidratante 200ml",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+   }
+  },
+  {
+   "gtin": "8411134135803",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Exotic Escape · Frutas tropicales",
+   "url": "https://www.farmaciasdirect.es/products/control-exotic-gel-masaje-200-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Exotic Escape Gel | Comprar en Farmaciasdirect",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "8411134135803",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Exotic Escape · Frutas tropicales",
+   "url": "https://www.placerintenso.es/aceites-y-velas-de-masaje/gel-de-masaje-control-exotic-escape-200ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); GEL DE MASAJE CONTROL EXOTIC ESCAPE 200ML",
    "politica_envio": {
     "base": "4.95",
     "gratis_desde": "60",
@@ -1609,46 +619,635 @@
    }
   },
   {
-   "gtin": "827160104634",
-   "marca": "PJUR",
-   "articulo": "pjur analyse me!",
-   "variante": "",
-   "url": "https://www.cupidosshop.com/pt/prod/lubrificante-anal-relaxante-silicone-pjur-analyse-me-30ml/10897/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Lubrificante Anal Relaxante Silicone Pjur Analyse Me | Cupido"
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Thai Passion · Floral y especiado",
+   "url": "https://www.farmaciaencasaonline.es/4514-control-thai-passion-2-en-1-gel-de-masaje-hidratante-200ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Thai Passion 2 en 1 Gel de Masaje Hidratante 200ml",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+   }
   },
   {
-   "gtin": "827160104634",
-   "marca": "PJUR",
-   "articulo": "pjur analyse me!",
-   "variante": "",
-   "url": "https://www.easytoys.es/pjur-analyse-me-lubricante-anal-a-base-de-silicona-30-ml-p-61511/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Pjur Analyse Me! Lubricante anal a base de silicona - 30 ml - EasyToys"
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Thai Passion · Floral y especiado",
+   "url": "https://www.arenal.com/thai-passion-2-en-1-control-gel-masaje-pasion",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Thai Passion 2 En 1 CONTROL Gel Masaje Pasión 2 en 1 precio | ARENAL.COM",
+   "politica_envio": {
+    "base": "5.00",
+    "gratis_desde": "20.00",
+    "url": "https://www.arenal.com/envios"
+   }
   },
   {
-   "gtin": "827160104634",
-   "marca": "PJUR",
-   "articulo": "pjur analyse me!",
-   "variante": "",
-   "url": "https://factormujer.com/lubricante-pjur-analyse-silicona-30ml",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Pjur Analyse Silicona 30ml - Factor Mujer",
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Thai Passion · Floral y especiado",
+   "url": "https://www.druni.es/thai-passion-2-en-1-control-gel-masaje-pasion",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Thai Passion 2 En 1 CONTROL Gel Masaje Pasión precio | DRUNI.es",
    "politica_envio": {
     "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
+    "gratis_desde": "20.00",
+    "url": "https://www.druni.es/condiciones-generales-compra"
+   }
+  },
+  {
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Thai Passion · Floral y especiado",
+   "url": "https://www.farmaciasdirect.es/products/control-thai-passion-2-in-1-massaje-pleasure-gel-200-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Lubricante Thai Passion, 200 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "8411134135810",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Thai Passion · Floral y especiado",
+   "url": "https://bakanal.es/drogueria/para-masajes/100-comestibles/control-2-en-1-massage-pleasure-thai-passion-200-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Gel de Masaje y Lubricación 200 ml | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Madagascar Sweetness · Vainilla",
+   "url": "https://www.farmaciasdirect.es/products/control-madagascar-sweetness-vainilla-gel-de-masaje-2-en-1-200ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Madagascar Sweetness Vainilla Gel De Masaje 2 En 1, 200Ml al mejo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Madagascar Sweetness · Vainilla",
+   "url": "https://www.arenal.com/madagascar-sweetness-2-en-1-control-gel-masaje-dulce",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Madagascar Sweetness 2 En 1 CONTROL Gel Masaje Dulce 2 en 1 precio | ARENAL.COM",
+   "politica_envio": {
+    "base": "5.00",
+    "gratis_desde": "20.00",
+    "url": "https://www.arenal.com/envios"
+   }
+  },
+  {
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Madagascar Sweetness · Vainilla",
+   "url": "https://www.druni.es/madagascar-sweetness-2-en-1-control-gel-masaje-dulce",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Madagascar Sweetness 2 En 1 CONTROL Gel Masaje Dulce precio | DRUNI.es",
+   "politica_envio": {
+    "base": "3.95",
+    "gratis_desde": "20.00",
+    "url": "https://www.druni.es/condiciones-generales-compra"
+   }
+  },
+  {
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Madagascar Sweetness · Vainilla",
+   "url": "https://www.farmaciaencasaonline.es/4489-control-sweet-vainilla-2-en-1-gel-de-masaje-200ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Sweet Vainilla 2 En 1 Gel de Masaje 200ml",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+   }
+  },
+  {
+   "gtin": "8411134135834",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Madagascar Sweetness · Vainilla",
+   "url": "https://bakanal.es/drogueria/para-masajes/100-comestibles/control-2-en-1-massage-pleasure-madagascar-sweetness-200-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Massage & Pleasure Gel 2 en 1 200 ml | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "8411134140227",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 6",
+   "url": "https://www.farmaciasdirect.es/products/control-finissimo-original-6-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Finissimo Original, 6 Unidades al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "8411134140227",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 6",
+   "url": "https://www.sexshopboudoir.es/preservativos-especiales/control-finissimo-original-6-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Finissimo Original, condones de látex 0,054 mm x6",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "8411134140227",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 6",
+   "url": "https://www.tudeseo.net/producto/control-finissimo-original-6-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - CONTROL - FINISSIMO ORIGINAL 6 UNIDADES"
+  },
+  {
+   "gtin": "8411134140227",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 6",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-sensitivos/control-finissimo-original-6-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); CONTROL - FINISSIMO ORIGINAL 6 UNIDADES | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "8411134140227",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 6",
+   "url": "https://sexshop-online.com/sensitivos/control-finissimo-original-6-unidadesd-228814",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - FINISSIMO ORIGINAL 6 UNIDADES"
+  },
+  {
+   "gtin": "8411134140234",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 12",
+   "url": "https://www.farmaciaencasaonline.es/2345-control-preservativo-finissimo-original-12uds.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Preservativo Finissimo Original 12Uds - Farmacia en Casa Online",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+   }
+  },
+  {
+   "gtin": "8411134140234",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 12",
+   "url": "https://www.farmaciasdirect.es/products/control-preservativos-finissimo-original-12-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Preservativos Finissimo Original, 12 Unidades al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "8411134140234",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 12",
+   "url": "https://almasecreta.es/producto/finissimo-original-original-12-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Finissimo Original 12 uds - CONTROL | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "8411134140234",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 12",
+   "url": "https://www.sexshopboudoir.es/preservativos-especiales/control-finissimo-12-unid",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Finissimo, preservativos de látex 0,054 mm x12",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "8411134140234",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 12",
+   "url": "https://divinoysecreto.com/finissimo-original-original-12-uds.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Finissimo Original Original 12 uds",
+   "politica_envio": {
+    "base": "4.50",
+    "gratis_desde": "39.99",
+    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
+   }
+  },
+  {
+   "gtin": "8411134140272",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 24",
+   "url": "https://www.farmaciaencasaonline.es/7560-control-preservativo-finissimo-24-uds.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Preservativo Finissimo 24 Uds",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+   }
+  },
+  {
+   "gtin": "8411134140272",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 24",
+   "url": "https://www.farmaciasdirect.es/products/control-finissimo-24-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Finissimo Original, 24 Unidades al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "8411134140272",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 24",
+   "url": "https://almasecreta.es/producto/finissimo-original-original-24-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Finissimo Original 24 uds - CONTROL | Alma Secreta",
+   "politica_envio": {
+    "base": "4.90",
+    "gratis_desde": "50.00",
+    "url": "https://almasecreta.es/envios"
+   }
+  },
+  {
+   "gtin": "8411134140272",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 24",
+   "url": "https://www.sexshopboudoir.es/preservativos-especiales/control-finissimo-24-unid",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Finissimo, preservativos de látex 0,054 mm x24",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "8411134140272",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 24",
+   "url": "https://bakanal.es/preservativos/sensitivos/control-finissimo-condoms-24-units/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Preservativos Ultrafinos 24 Unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "7350075022470",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 3",
+   "url": "https://www.lovesexshop.es/lelo-hex-original-condones-de-lujo-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (3 unidades) | Love",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "7350075022470",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 3",
+   "url": "https://www.desirel.es/lelo-hex-original-condones-de-lujo-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (3 unidades) | Sex",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "7350075022470",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 3",
+   "url": "https://tocabanana.com/producto/hex-by-lelo-3-original/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); HEX by Lelo 3 Original - TocaBanana SexShop Nº1 en masturbadores masculinos",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "44.00",
+    "url": "https://tocabanana.com/gastos-de-envio/"
+   }
+  },
+  {
+   "gtin": "7350075022470",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 3",
+   "url": "https://mascondon.com/1435-condones-lelo-hex-original-pack-de-3.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Lelo Hex Original - Pack de 3 | Protección y Placer | Compra Online con"
+  },
+  {
+   "gtin": "7350075022470",
+   "marca": "LELO",
+   "articulo": "LELO HEX Original",
+   "variante": "Unidades: 3",
+   "url": "https://www.vivelavita.com/fr/preservatifs-lelo-original-hex",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Préservatif sensitif Lelo Hex | VivelaVita",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Verde",
+   "url": "https://www.farmaciasdirect.es/products/lelo-lily-3-masajeador-personal-verde-polar",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Lily 3 Masajeador Personal Verde Polar al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Verde",
+   "url": "https://www.sexshopboudoir.es/masajeadores/lelo-lily-3-masajeador-personal",
+   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 7350075029127»); LELO Lily 3 masajeador de bolsillo de 10 modos - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Verde",
+   "url": "https://toqueteo.es/products/lelo-lily-3-masajeador-personal-verde-agua",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masajeador personal LELO Lily 3 con 10 modos de vibración – Toqueteo",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "60.00",
+    "url": "https://toqueteo.es/pages/envios-y-plazos"
+   }
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Verde",
+   "url": "https://www.easytoys.es/lelo-masajeador-personal-lily-3-verde-polar-p-70092/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO - Masajeador Personal Lily 3 - Verde Polar - EasyToys"
+  },
+  {
+   "gtin": "7350075029127",
+   "marca": "LELO",
+   "articulo": "LELO Lily 3",
+   "variante": "Color: Verde",
+   "url": "https://www.diversual.com/es/lelo-lily-3-verde-104069.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Lily 3 Verde, Vibrador clitorial - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "7350075029493",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Violeta",
+   "url": "https://www.farmaciasdirect.es/products/lelo-soraya-beads-masajeador-anal-violeta",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Soraya Beads Masajeador Anal Violeta al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "7350075029493",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Violeta",
+   "url": "https://www.diversual.com/es/lelo-soraya-beads-violeta-104882.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Soraya Beads Violeta, Vibrador anal - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "7350075029493",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Violeta",
+   "url": "https://www.lovesexshop.es/lelo-soraya-beads-vibrador-anal-recargable-e-impermeable-morado",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Soraya Beads - vibrador anal recargable impermeable sil",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "7350075029493",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Violeta",
+   "url": "https://www.desirel.es/lelo-soraya-beads-vibrador-anal-recargable-e-imper",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Soraya Beads - vibrador anal recargable impermeable sil",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "7350075029493",
+   "marca": "LELO",
+   "articulo": "LELO Soraya Beads",
+   "variante": "Color: Violeta",
+   "url": "https://noctiva.es/products/lelo-soraya-beads-masajeador-anal-violeta",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Masajeador anal LELO Soraya Beads violeta | Noctiva",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
+   "url": "https://farmaciatana.es/2483-control-gel-mediterranean-sea-200-ml.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control gel Mediterranean Sea 200 ml | Farmacia Tañá",
+   "politica_envio": {
+    "base": "4.99",
+    "gratis_desde": "39.00",
+    "url": "https://farmaciatana.es/content/1-entrega"
+   }
+  },
+  {
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
+   "url": "https://www.farmaciasdirect.es/products/control-lubricante-mediterranean-sea-200-ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Lubricante Mediterranean Sea, 200 Ml al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
+   "url": "https://bakanal.es/drogueria/para-masajes/aceites-sin-sabores/control-2-en-1-massage-pleasure-mediterranean-sea-200-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Gel de Masaje Multiuso Mediterráneo 200 ml | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
+   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/control-2-1-massage-pleasure-mediterranean-sea-200ml",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control 2 en 1 gel de masaje Ocean Spa 200 ml - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "8411134135872",
+   "marca": "CONTROL",
+   "articulo": "Control Gel 2 en 1",
+   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
+   "url": "https://www.maskeamor.com/drogueria/drogueria-para-masajes/drogueria-para-masajesaceites-sin-sabores/control-2-en-1-massage-pleasure-mediterranean-sea-200-ml/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); CONTROL - 2 EN 1 MASSAGE PLEASURE MEDITERRANEAN SEA 200 ML | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "8411134140296",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 3",
+   "url": "https://www.placerintenso.es/preservativos-sensitivos/control-preservativos-finissimo-original-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); CONTROL PRESERVATIVOS FINISSIMO ORIGINAL 3 UDS",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "60",
+    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
+   }
+  },
+  {
+   "gtin": "8411134140296",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 3",
+   "url": "https://www.diversual.com/es/control-preservativos-finissimo-original-3-uds-99349.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Preservativos Finissimo Original 3 Uds. - diversual.com",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "65.00",
+    "url": "https://www.diversual.com/es/content/1-envios-diversual"
+   }
+  },
+  {
+   "gtin": "8411134140296",
+   "marca": "CONTROL",
+   "articulo": "Control Finissimo Original",
+   "variante": "Unidades: 3",
+   "url": "https://www.vivelavita.com/es/control-preservativos-finissimo-original-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Finissimo Opiniones: Máxima Sensibilidad y Seguridad",
+   "politica_envio": {
+    "base": "2.90",
+    "gratis_desde": "50.00",
+    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+   }
+  },
+  {
+   "gtin": "7350075021022",
+   "marca": "LELO",
+   "articulo": "LUNA Smart Bead",
+   "variante": "Color: Morado",
+   "url": "https://www.farmaciasdirect.es/products/lelo-luna-smart-bead-deep-rose",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Smart Bead Deep Rose al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "7350075021022",
+   "marca": "LELO",
+   "articulo": "LUNA Smart Bead",
+   "variante": "Color: Morado",
+   "url": "https://losjuguetesdera.es/products/lelo-luna-smart-bead-morado",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); LELO - LUNA SMART BEAD MORADO – losjuguetesdera",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65.00",
+    "url": "https://losjuguetesdera.es/pages/gastos-de-envios"
    }
   }
  ],
- "sin_ofertas": [
-  {
-   "gtin": "827160100810",
-   "marca": "PJUR",
-   "articulo": "pjur ORIGINAL",
-   "variante": "Formato: 1.000 ml",
-   "consultas": [
-    "catálogos de 58 tiendas rastreados (sitemaps)",
-    "emparejado por marca, artículo y variante"
-   ],
-   "motivo": "Ninguna ficha candidata en las tiendas rastreadas"
-  }
- ]
+ "sin_ofertas": []
 }
