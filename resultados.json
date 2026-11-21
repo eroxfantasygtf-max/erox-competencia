@@ -1,794 +1,53 @@
 {
- "revisado_en": "2026-11-10T02:21:36Z",
+ "revisado_en": "2026-11-21T02:18:52Z",
  "gtins_revisados": [
-  "7350022274891",
-  "7350022277694",
-  "7350075021015",
-  "7350075021022",
-  "7350075022470",
-  "7350075022494",
-  "7350075024085",
-  "7350075029059",
-  "7350075029110",
-  "7350075029127",
-  "7350075029387",
-  "7350075029493",
-  "8058664108336",
-  "8411134135803",
-  "8411134135810",
-  "8411134135834",
-  "8411134135872",
-  "8411134140227",
-  "8411134140234",
-  "8411134140272",
-  "8411134140296"
+  "810476011383",
+  "810476014667",
+  "810476014971",
+  "4025838403454",
+  "4025838403478",
+  "4025838403492",
+  "4025838403539",
+  "4025838403577",
+  "4025838403607",
+  "4025838403645",
+  "4025838403690",
+  "4025838403720",
+  "4025838410452",
+  "4025838410476",
+  "4025838410490",
+  "4025838410537",
+  "4025838410575",
+  "4025838410605",
+  "4025838410643",
+  "4025838410698",
+  "4025838410728",
+  "4025838436452",
+  "4025838436476",
+  "4025838436490",
+  "4025838436537",
+  "4025838436575",
+  "4025838436605",
+  "4025838436643",
+  "4025838436698",
+  "4025838436728"
  ],
  "hallazgos": [
   {
-   "gtin": "7350022274891",
-   "marca": "LELO",
-   "articulo": "Cable USB LELO",
-   "variante": "",
-   "url": "https://www.lovesexshop.es/cargador-usb-5v-lelo-cable-blanco",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Charger USB 5V - cable de carga (blanco) | Lovesexshop.",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-45-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 45 MM 3 UNIDADES"
   },
   {
-   "gtin": "7350022274891",
-   "marca": "LELO",
-   "articulo": "Cable USB LELO",
-   "variante": "",
-   "url": "https://www.desirel.es/cargador-usb-5v-lelo-cable-blanco",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Charger USB 5V - cable de carga (blanco) | Sex Shop Des",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "7350022274891",
-   "marca": "LELO",
-   "articulo": "Cable USB LELO",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/lelo-usb-cable-cargador",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lelo USB Cable Cargador – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "7350022274891",
-   "marca": "LELO",
-   "articulo": "Cable USB LELO",
-   "variante": "",
-   "url": "https://almasecreta.es/producto/cargador-usb-productos-lelo",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Cargador USB Productos LELO | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "7350022274891",
-   "marca": "LELO",
-   "articulo": "Cable USB LELO",
-   "variante": "",
-   "url": "https://www.diversual.com/es/lelo-cargador-usb-con-cable-93334.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Cargador USB con Cable - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "7350022277694",
-   "marca": "LELO",
-   "articulo": "LELO Luna Beads Noir",
-   "variante": "",
-   "url": "https://www.farmaciasdirect.es/products/lelo-luna-beads-noir-bolas-chinas",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Beads Noir Bolas Chinas al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "7350022277694",
-   "marca": "LELO",
-   "articulo": "LELO Luna Beads Noir",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/bolas-chinas/lelo-luna-beads-noir-bolas-chinas",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Bolas kegel LELO LUNA Beads Noir - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "7350022277694",
-   "marca": "LELO",
-   "articulo": "LELO Luna Beads Noir",
-   "variante": "",
-   "url": "https://www.vivelavita.com/pt/lelo-luna-beads-noir-balls-chines",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Bola chinesa de silicone Lelo Luna Beads Noir",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "7350022277694",
-   "marca": "LELO",
-   "articulo": "LELO Luna Beads Noir",
-   "variante": "",
-   "url": "https://www.condonesmix.com/products/lelo-luna-beads-noir",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Bolas Noir Lelo – Condonesmix",
-   "politica_envio": {
-    "base": "2.99",
-    "gratis_desde": "60",
-    "url": "https://www.condonesmix.com/pages/condiciones-envio"
-   }
-  },
-  {
-   "gtin": "7350022277694",
-   "marca": "LELO",
-   "articulo": "LELO Luna Beads Noir",
-   "variante": "",
-   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/bolas-chinas/bolas-basicas/lelo-luna-beads-noir-bolas-kegel/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Luna Beads Noir bolas Kegel | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "7350075021015",
-   "marca": "LELO",
-   "articulo": "LUNA Smart Bead",
-   "variante": "Color: Rosa",
-   "url": "https://www.farmaciasdirect.es/products/lelo-luna-smart-bead-rosa",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Smart Bead Rosa al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "7350075021015",
-   "marca": "LELO",
-   "articulo": "LUNA Smart Bead",
-   "variante": "Color: Rosa",
-   "url": "https://www.tudeseo.net/producto/lelo-luna-smart-bead-rosa/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - LELO - LUNA SMART BEAD ROSA"
-  },
-  {
-   "gtin": "7350075021015",
-   "marca": "LELO",
-   "articulo": "LUNA Smart Bead",
-   "variante": "Color: Rosa",
-   "url": "https://losjuguetesdera.es/products/lelo-luna-smart-bead-rosa",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); LELO - LUNA SMART BEAD ROSA – losjuguetesdera",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "65.00",
-    "url": "https://losjuguetesdera.es/pages/gastos-de-envios"
-   }
-  },
-  {
-   "gtin": "7350075022494",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 12",
-   "url": "https://tocabanana.com/producto/hex-by-lelo-12-original/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); HEX by Lelo 12 Original - TocaBanana SexShop Nº1 en masturbadores masculinos",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "7350075022494",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 12",
-   "url": "https://www.sexshopboudoir.es/preservativos-naturales/lelo-hex-preservativo-caja-12-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Original, preservativos de látex 54 mm x12",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "7350075022494",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 12",
-   "url": "https://sexshop-online.com/puntos-y-estrias/lelo-hex-preservativo-caja-12-udsd-211713",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Condones ★ 12 uds | Protección ultra fina y sensación natural"
-  },
-  {
-   "gtin": "7350075022494",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 12",
-   "url": "https://www.diversual.com/es/lelo-hex-preservativo-caja-12-uds-94979.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Hex 12 Uds, Preservativos con estrías - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "7350075022494",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 12",
-   "url": "https://www.lovesexshop.es/lelo-hex-original-condones-de-lujo-12-pcs",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (12 unidades) | Lov",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "7350075024085",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 36",
-   "url": "https://www.sexshopboudoir.es/preservativos-naturales/lelo-hex-preservativo-caja-36-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Original, preservativos de látex 54 mm x36",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "7350075024085",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 36",
-   "url": "https://sexshop-online.com/puntos-y-estrias/lelo-hex-preservativo-caja-36-udsd-216259",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); LELO HEX Preservativos ★ Caja 36 uds ✅ Máxima Sensibilidad"
-  },
-  {
-   "gtin": "7350075024085",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 36",
-   "url": "https://tocabanana.com/producto/hex-by-lelo-36-original/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); HEX by Lelo 36 Original - TocaBanana SexShop Nº1 en masturbadores masculinos",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "7350075024085",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 36",
-   "url": "https://www.lovesexshop.es/lelo-hex-original-condones-de-lujo-36-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (36 uds.) | Lovesex",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "7350075024085",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 36",
-   "url": "https://www.desirel.es/lelo-hex-original-condones-de-lujo-36-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (36 uds.) | Sex Sho",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "7350075029059",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Morado",
-   "url": "https://www.farmaciasdirect.es/products/lelo-lily-3-masajeador-personal-morado",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Lily 3 Masajeador Personal Morado al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "7350075029059",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Morado",
-   "url": "https://toqueteo.es/products/lelo-lily-3-masajeador-personal-morado",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masajeador personal LELO LILY 3, recargable USB e IPX7 – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "7350075029059",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Morado",
-   "url": "https://www.diversual.com/es/lelo-lily-3-morado-104070.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Lily 3 Morado, Vibrador clitorial - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "7350075029059",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Morado",
-   "url": "https://www.lovesexshop.es/lelo-lily-3-recargable-y-resistente-al-agua-vibrador-morado-oscuro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Lily 3 - vibrador clitorial recargable impermeable - co",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "7350075029059",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Morado",
-   "url": "https://noctiva.es/products/lelo-lily-3-masajeador-personal-morado",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Vibrador externo morado de bolsillo LELO Lily 3 | Noctiva",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "50.00",
-    "url": "https://noctiva.es/policies/shipping-policy"
-   }
-  },
-  {
-   "gtin": "7350075029110",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Lila",
-   "url": "https://toqueteo.es/products/lelo-lily-3-masajeador-personal-lila",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Vibrador para clítoris LELO LILY 3, sumergible IPX7 – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "7350075029110",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Lila",
-   "url": "https://www.diversual.com/es/lelo-lily-3-lila-104068.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Lily 3 Lila, Vibrador clitorial - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "7350075029110",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Lila",
-   "url": "https://noctiva.es/products/lelo-lily-3-masajeador-personal-lila",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); LELO Lily 3 lila: masajeador personal externo IPX7 | Noctiva",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "50.00",
-    "url": "https://noctiva.es/policies/shipping-policy"
-   }
-  },
-  {
-   "gtin": "7350075029110",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Lila",
-   "url": "https://factormujer.com/lelo-lily-3-lila",
-   "evidencia": "GTIN comprobado por código (estructurado: microdatos gtin13); Lelo Lily 3 Lila - Factor Mujer",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "29",
-    "url": "https://factormujer.com/envios-24h"
-   }
-  },
-  {
-   "gtin": "7350075029110",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Lila",
-   "url": "https://www.sexshop.express/mini-vibradores/5645-lelo-lily-3-masajeador-personal-verde-agua.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lily 3 Masajeador Personal - 10 Modos de Vibración | Verde Agua",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "55",
-    "url": "https://www.sexshop.express/content/12-pago-confidencial-envios-discretos-sexshop-online"
-   }
-  },
-  {
-   "gtin": "7350075029387",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Negro",
-   "url": "https://www.farmaciasdirect.es/products/lelo-soraya-beads-masajeador-anal-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Soraya Beads Masajeador Anal Negro al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "7350075029387",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Negro",
-   "url": "https://www.easytoys.es/lelo-soraya-bolas-anales-negro-p-76477/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO - Soraya Bolas Anales - Negro - EasyToys"
-  },
-  {
-   "gtin": "7350075029387",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Negro",
-   "url": "https://toqueteo.es/products/lelo-soraya-beads-masajeador-anal-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masajeador anal LELO Soraya Beads con cuentas progresivas – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "7350075029387",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Negro",
-   "url": "https://www.vivelavita.com/es/soraya-beads-masajeador-anal-negro",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Lelo Soraya Beads – Bola anal | VivelaVita",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "7350075029387",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Negro",
-   "url": "https://www.diversual.com/es/lelo-soraya-beads-negro-104883.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Soraya Beads Negro, Vibrador anal - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "8058664108336",
-   "marca": "CONTROL",
-   "articulo": "CONTROL FEEL XL",
-   "variante": "",
-   "url": "https://www.farmaciaencasaonline.es/5626-control-feel-xl-vibrador-5-velocidades.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Feel XL Vibrador 5 Velocidades",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8058664108336",
-   "marca": "CONTROL",
-   "articulo": "CONTROL FEEL XL",
-   "variante": "",
-   "url": "https://www.sexshopboudoir.es/para-clitoris/control-feel-xl-bala-vibradora",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Feel XL, vibrador vaginal 16 cm - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8058664108336",
-   "marca": "CONTROL",
-   "articulo": "CONTROL FEEL XL",
-   "variante": "",
-   "url": "https://sexplace.es/control-feel-xl-bala-vibradora/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - FEEL XL BALA VIBRADORA"
-  },
-  {
-   "gtin": "8058664108336",
-   "marca": "CONTROL",
-   "articulo": "CONTROL FEEL XL",
-   "variante": "",
-   "url": "https://bakanal.es/juguetes-bienestar/juguetes-para-mujeres/estimuladores/balas-vibradoras/control-feel-xl-bala-vibradora/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Feel XL Bala Vibradora de Cuerpo Grande | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "8058664108336",
-   "marca": "CONTROL",
-   "articulo": "CONTROL FEEL XL",
-   "variante": "",
-   "url": "https://www.tudeseo.net/producto/control-feel-xl-bala-vibradora/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - CONTROL - FEEL XL BALA VIBRADORA"
-  },
-  {
-   "gtin": "8411134135803",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Exotic Escape · Frutas tropicales",
-   "url": "https://www.arenal.com/exotic-escape-2-en-1-control-gel-masaje-exotico",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Exotic Escape 2 En 1 CONTROL Gel Masaje Exótico 2 en 1 precio | ARENAL.COM",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8411134135803",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Exotic Escape · Frutas tropicales",
-   "url": "https://www.druni.es/exotic-escape-2-en-1-control-gel-masaje-exotico",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Exotic Escape 2 En 1 CONTROL Gel Masaje Exótico precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8411134135803",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Exotic Escape · Frutas tropicales",
-   "url": "https://www.farmaciaencasaonline.es/4480-control-exotic-escape-2-en-1-gel-de-masaje-hidratante-200ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Exotic Escape 2 en 1 Gel de Masaje Hidratante 200ml",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8411134135803",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Exotic Escape · Frutas tropicales",
-   "url": "https://www.farmaciasdirect.es/products/control-exotic-gel-masaje-200-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Exotic Escape Gel | Comprar en Farmaciasdirect",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8411134135803",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Exotic Escape · Frutas tropicales",
-   "url": "https://www.placerintenso.es/aceites-y-velas-de-masaje/gel-de-masaje-control-exotic-escape-200ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); GEL DE MASAJE CONTROL EXOTIC ESCAPE 200ML",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
-   }
-  },
-  {
-   "gtin": "8411134135810",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Thai Passion · Floral y especiado",
-   "url": "https://www.farmaciaencasaonline.es/4514-control-thai-passion-2-en-1-gel-de-masaje-hidratante-200ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Thai Passion 2 en 1 Gel de Masaje Hidratante 200ml",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8411134135810",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Thai Passion · Floral y especiado",
-   "url": "https://www.arenal.com/thai-passion-2-en-1-control-gel-masaje-pasion",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Thai Passion 2 En 1 CONTROL Gel Masaje Pasión 2 en 1 precio | ARENAL.COM",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8411134135810",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Thai Passion · Floral y especiado",
-   "url": "https://www.druni.es/thai-passion-2-en-1-control-gel-masaje-pasion",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Thai Passion 2 En 1 CONTROL Gel Masaje Pasión precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8411134135810",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Thai Passion · Floral y especiado",
-   "url": "https://www.farmaciasdirect.es/products/control-thai-passion-2-in-1-massaje-pleasure-gel-200-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Lubricante Thai Passion, 200 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8411134135810",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Thai Passion · Floral y especiado",
-   "url": "https://bakanal.es/drogueria/para-masajes/100-comestibles/control-2-en-1-massage-pleasure-thai-passion-200-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Gel de Masaje y Lubricación 200 ml | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "8411134135834",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Madagascar Sweetness · Vainilla",
-   "url": "https://www.farmaciasdirect.es/products/control-madagascar-sweetness-vainilla-gel-de-masaje-2-en-1-200ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Madagascar Sweetness Vainilla Gel De Masaje 2 En 1, 200Ml al mejo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8411134135834",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Madagascar Sweetness · Vainilla",
-   "url": "https://www.arenal.com/madagascar-sweetness-2-en-1-control-gel-masaje-dulce",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Madagascar Sweetness 2 En 1 CONTROL Gel Masaje Dulce 2 en 1 precio | ARENAL.COM",
-   "politica_envio": {
-    "base": "5.00",
-    "gratis_desde": "20.00",
-    "url": "https://www.arenal.com/envios"
-   }
-  },
-  {
-   "gtin": "8411134135834",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Madagascar Sweetness · Vainilla",
-   "url": "https://www.druni.es/madagascar-sweetness-2-en-1-control-gel-masaje-dulce",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Madagascar Sweetness 2 En 1 CONTROL Gel Masaje Dulce precio | DRUNI.es",
-   "politica_envio": {
-    "base": "3.95",
-    "gratis_desde": "20.00",
-    "url": "https://www.druni.es/condiciones-generales-compra"
-   }
-  },
-  {
-   "gtin": "8411134135834",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Madagascar Sweetness · Vainilla",
-   "url": "https://www.farmaciaencasaonline.es/4489-control-sweet-vainilla-2-en-1-gel-de-masaje-200ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Sweet Vainilla 2 En 1 Gel de Masaje 200ml",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8411134135834",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Madagascar Sweetness · Vainilla",
-   "url": "https://bakanal.es/drogueria/para-masajes/100-comestibles/control-2-en-1-massage-pleasure-madagascar-sweetness-200-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Massage & Pleasure Gel 2 en 1 200 ml | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "8411134140227",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 6",
-   "url": "https://www.farmaciasdirect.es/products/control-finissimo-original-6-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Finissimo Original, 6 Unidades al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8411134140227",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 6",
-   "url": "https://www.sexshopboudoir.es/preservativos-especiales/control-finissimo-original-6-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Finissimo Original, condones de látex 0,054 mm x6",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8411134140227",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 6",
-   "url": "https://www.tudeseo.net/producto/control-finissimo-original-6-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - CONTROL - FINISSIMO ORIGINAL 6 UNIDADES"
-  },
-  {
-   "gtin": "8411134140227",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 6",
-   "url": "https://www.maskeamor.com/preservativos/preservativos-sensitivos/control-finissimo-original-6-unidades/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); CONTROL - FINISSIMO ORIGINAL 6 UNIDADES | Maskeamor.com",
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 3",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallastamano-xs-pequenos/my-size-pro-preservativos-45-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 45 MM 3 UNIDADES | Maskeamor.com",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "65",
@@ -796,59 +55,12 @@
    }
   },
   {
-   "gtin": "8411134140227",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 6",
-   "url": "https://sexshop-online.com/sensitivos/control-finissimo-original-6-unidadesd-228814",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); CONTROL - FINISSIMO ORIGINAL 6 UNIDADES"
-  },
-  {
-   "gtin": "8411134140234",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciaencasaonline.es/2345-control-preservativo-finissimo-original-12uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Preservativo Finissimo Original 12Uds - Farmacia en Casa Online",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
-   }
-  },
-  {
-   "gtin": "8411134140234",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 12",
-   "url": "https://www.farmaciasdirect.es/products/control-preservativos-finissimo-original-12-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Preservativos Finissimo Original, 12 Unidades al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8411134140234",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 12",
-   "url": "https://almasecreta.es/producto/finissimo-original-original-12-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Finissimo Original 12 uds - CONTROL | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "8411134140234",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 12",
-   "url": "https://www.sexshopboudoir.es/preservativos-especiales/control-finissimo-12-unid",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Finissimo, preservativos de látex 0,054 mm x12",
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 3",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-45-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 45 mm, caja de 3 - Boudoir",
    "politica_envio": {
     "base": "4.79",
     "gratis_desde": "150",
@@ -856,90 +68,46 @@
    }
   },
   {
-   "gtin": "8411134140234",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 12",
-   "url": "https://divinoysecreto.com/finissimo-original-original-12-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Finissimo Original Original 12 uds",
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 3",
+   "url": "https://sexshop-online.com/tamano-xs-pequenos/my-size-pro-preservativos-45-mm-3-unidadesd-228854",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 45 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403454",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 3",
+   "url": "https://www.sextoycity.es/my-size-pro-preservativos-45-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE PRO Condones 45 mm — Pack 3",
    "politica_envio": {
-    "base": "4.50",
-    "gratis_desde": "39.99",
-    "url": "https://divinoysecreto.com/content/condiciones-de-uso.html"
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
    }
   },
   {
-   "gtin": "8411134140272",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 24",
-   "url": "https://www.farmaciaencasaonline.es/7560-control-preservativo-finissimo-24-uds.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Preservativo Finissimo 24 Uds",
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 3",
+   "url": "https://lapolvoteca.com/my-size-pro-preservativos-47mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My Size PRO 47mm 3 Unidades",
    "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://www.farmaciaencasaonline.es/content/15-gastos-de-envio"
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
    }
   },
   {
-   "gtin": "8411134140272",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 24",
-   "url": "https://www.farmaciasdirect.es/products/control-finissimo-24-unidades",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Finissimo Original, 24 Unidades al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8411134140272",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 24",
-   "url": "https://almasecreta.es/producto/finissimo-original-original-24-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Finissimo Original 24 uds - CONTROL | Alma Secreta",
-   "politica_envio": {
-    "base": "4.90",
-    "gratis_desde": "50.00",
-    "url": "https://almasecreta.es/envios"
-   }
-  },
-  {
-   "gtin": "8411134140272",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 24",
-   "url": "https://www.sexshopboudoir.es/preservativos-especiales/control-finissimo-24-unid",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Finissimo, preservativos de látex 0,054 mm x24",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8411134140272",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 24",
-   "url": "https://bakanal.es/preservativos/sensitivos/control-finissimo-condoms-24-units/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Preservativos Ultrafinos 24 Unidades | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "7350075022470",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 3",
-   "url": "https://www.lovesexshop.es/lelo-hex-original-condones-de-lujo-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (3 unidades) | Love",
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 3",
+   "url": "https://www.lovesexshop.es/my-size-pro-preservativo-de-tamano-personalizado-47-mm-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size PRO - preservativo de tamaño personalizado - 47 mm (3",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -947,12 +115,12 @@
    }
   },
   {
-   "gtin": "7350075022470",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 3",
-   "url": "https://www.desirel.es/lelo-hex-original-condones-de-lujo-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Hex Original - preservativo de lujo (3 unidades) | Sex",
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 3",
+   "url": "https://www.desirel.es/my-size-pro-preservativo-de-tamano-personalizado-47-mm-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size PRO - preservativo de tamaño personalizado - 47 mm (",
    "politica_envio": {
     "base": "6.99",
     "gratis_desde": "90.00",
@@ -960,46 +128,12 @@
    }
   },
   {
-   "gtin": "7350075022470",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 3",
-   "url": "https://tocabanana.com/producto/hex-by-lelo-3-original/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); HEX by Lelo 3 Original - TocaBanana SexShop Nº1 en masturbadores masculinos",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "44.00",
-    "url": "https://tocabanana.com/gastos-de-envio/"
-   }
-  },
-  {
-   "gtin": "7350075022470",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 3",
-   "url": "https://mascondon.com/1435-condones-lelo-hex-original-pack-de-3.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Condones Lelo Hex Original - Pack de 3 | Protección y Placer | Compra Online con"
-  },
-  {
-   "gtin": "7350075022470",
-   "marca": "LELO",
-   "articulo": "LELO HEX Original",
-   "variante": "Unidades: 3",
-   "url": "https://www.vivelavita.com/fr/preservatifs-lelo-original-hex",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Préservatif sensitif Lelo Hex | VivelaVita",
-   "politica_envio": {
-    "base": "2.90",
-    "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
-   }
-  },
-  {
-   "gtin": "7350075029127",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Verde",
-   "url": "https://www.farmaciasdirect.es/products/lelo-lily-3-masajeador-personal-verde-polar",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Lily 3 Masajeador Personal Verde Polar al mejor precio.",
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 3",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-47-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 47 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1007,59 +141,20 @@
    }
   },
   {
-   "gtin": "7350075029127",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Verde",
-   "url": "https://www.sexshopboudoir.es/masajeadores/lelo-lily-3-masajeador-personal",
-   "evidencia": "GTIN comprobado por código (etiquetado: texto «ean13 7350075029127»); LELO Lily 3 masajeador de bolsillo de 10 modos - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
+   "gtin": "4025838403478",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-47-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 47 MM 3 UNIDADES"
   },
   {
-   "gtin": "7350075029127",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Verde",
-   "url": "https://toqueteo.es/products/lelo-lily-3-masajeador-personal-verde-agua",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Masajeador personal LELO Lily 3 con 10 modos de vibración – Toqueteo",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "60.00",
-    "url": "https://toqueteo.es/pages/envios-y-plazos"
-   }
-  },
-  {
-   "gtin": "7350075029127",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Verde",
-   "url": "https://www.easytoys.es/lelo-masajeador-personal-lily-3-verde-polar-p-70092/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO - Masajeador Personal Lily 3 - Verde Polar - EasyToys"
-  },
-  {
-   "gtin": "7350075029127",
-   "marca": "LELO",
-   "articulo": "LELO Lily 3",
-   "variante": "Color: Verde",
-   "url": "https://www.diversual.com/es/lelo-lily-3-verde-104069.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Lily 3 Verde, Vibrador clitorial - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "7350075029493",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Violeta",
-   "url": "https://www.farmaciasdirect.es/products/lelo-soraya-beads-masajeador-anal-violeta",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Soraya Beads Masajeador Anal Violeta al mejor precio.",
+   "gtin": "4025838403492",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 3",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-49-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 49 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1067,116 +162,20 @@
    }
   },
   {
-   "gtin": "7350075029493",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Violeta",
-   "url": "https://www.diversual.com/es/lelo-soraya-beads-violeta-104882.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Lelo Soraya Beads Violeta, Vibrador anal - diversual.com",
-   "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
+   "gtin": "4025838403492",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-49-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 49 MM 3 UNIDADES"
   },
   {
-   "gtin": "7350075029493",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Violeta",
-   "url": "https://www.lovesexshop.es/lelo-soraya-beads-vibrador-anal-recargable-e-impermeable-morado",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Soraya Beads - vibrador anal recargable impermeable sil",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.lovesexshop.es/envio"
-   }
-  },
-  {
-   "gtin": "7350075029493",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Violeta",
-   "url": "https://www.desirel.es/lelo-soraya-beads-vibrador-anal-recargable-e-imper",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); LELO Soraya Beads - vibrador anal recargable impermeable sil",
-   "politica_envio": {
-    "base": "6.99",
-    "gratis_desde": "90.00",
-    "url": "https://www.desirel.es/envio"
-   }
-  },
-  {
-   "gtin": "7350075029493",
-   "marca": "LELO",
-   "articulo": "LELO Soraya Beads",
-   "variante": "Color: Violeta",
-   "url": "https://noctiva.es/products/lelo-soraya-beads-masajeador-anal-violeta",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Masajeador anal LELO Soraya Beads violeta | Noctiva",
-   "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "50.00",
-    "url": "https://noctiva.es/policies/shipping-policy"
-   }
-  },
-  {
-   "gtin": "8411134135872",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
-   "url": "https://farmaciatana.es/2483-control-gel-mediterranean-sea-200-ml.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control gel Mediterranean Sea 200 ml | Farmacia Tañá",
-   "politica_envio": {
-    "base": "4.99",
-    "gratis_desde": "39.00",
-    "url": "https://farmaciatana.es/content/1-entrega"
-   }
-  },
-  {
-   "gtin": "8411134135872",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
-   "url": "https://www.farmaciasdirect.es/products/control-lubricante-mediterranean-sea-200-ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Control Lubricante Mediterranean Sea, 200 Ml al mejor precio.",
-   "politica_envio": {
-    "base": "3.99",
-    "gratis_desde": "59.00",
-    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
-   }
-  },
-  {
-   "gtin": "8411134135872",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
-   "url": "https://bakanal.es/drogueria/para-masajes/aceites-sin-sabores/control-2-en-1-massage-pleasure-mediterranean-sea-200-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Gel de Masaje Multiuso Mediterráneo 200 ml | Bakanal",
-   "politica_envio": {
-    "base": "5.95",
-    "gratis_desde": "49.00",
-    "url": "https://bakanal.es/envios-y-devoluciones/"
-   }
-  },
-  {
-   "gtin": "8411134135872",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
-   "url": "https://www.sexshopboudoir.es/aceites-y-lubricantes-aceites-y-cremas-de-masaje-efecto-afrodisiaco/control-2-1-massage-pleasure-mediterranean-sea-200ml",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control 2 en 1 gel de masaje Ocean Spa 200 ml - Boudoir",
-   "politica_envio": {
-    "base": "4.79",
-    "gratis_desde": "150",
-    "url": "https://www.sexshopboudoir.es/content/entrega"
-   }
-  },
-  {
-   "gtin": "8411134135872",
-   "marca": "CONTROL",
-   "articulo": "Control Gel 2 en 1",
-   "variante": "Aroma: Mediterranean Sea · Cítricos y sándalo",
-   "url": "https://www.maskeamor.com/drogueria/drogueria-para-masajes/drogueria-para-masajesaceites-sin-sabores/control-2-en-1-massage-pleasure-mediterranean-sea-200-ml/",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); CONTROL - 2 EN 1 MASSAGE PLEASURE MEDITERRANEAN SEA 200 ML | Maskeamor.com",
+   "gtin": "4025838403492",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 3",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/my-size-pro-preservativos-49-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 49 MM 3 UNIDADES | Maskeamor.com",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "65",
@@ -1184,51 +183,93 @@
    }
   },
   {
-   "gtin": "8411134140296",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 3",
-   "url": "https://www.placerintenso.es/preservativos-sensitivos/control-preservativos-finissimo-original-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); CONTROL PRESERVATIVOS FINISSIMO ORIGINAL 3 UDS",
+   "gtin": "4025838403492",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 3",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-49-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 49 mm, caja de 3 - Boudoir",
    "politica_envio": {
-    "base": "4.95",
-    "gratis_desde": "60",
-    "url": "https://www.placerintenso.es/info/condiciones-de-uso"
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
    }
   },
   {
-   "gtin": "8411134140296",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 3",
-   "url": "https://www.diversual.com/es/control-preservativos-finissimo-original-3-uds-99349.html",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Control Preservativos Finissimo Original 3 Uds. - diversual.com",
+   "gtin": "4025838403492",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 3",
+   "url": "https://www.universosexshop.com/clasicos/4225248-my-size-pro-preservativos-49-mm-3-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MY SIZE PRO PRESERVATIVOS 49 MM 3 UNIDADES por sólo 3,16 €",
    "politica_envio": {
-    "base": "3.90",
-    "gratis_desde": "65.00",
-    "url": "https://www.diversual.com/es/content/1-envios-diversual"
-   }
-  },
-  {
-   "gtin": "8411134140296",
-   "marca": "CONTROL",
-   "articulo": "Control Finissimo Original",
-   "variante": "Unidades: 3",
-   "url": "https://www.vivelavita.com/es/control-preservativos-finissimo-original-3-uds",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Control Finissimo Opiniones: Máxima Sensibilidad y Seguridad",
-   "politica_envio": {
-    "base": "2.90",
+    "base": "7.00",
     "gratis_desde": "50.00",
-    "url": "https://www.vivelavita.com/es/pedidos-y-envios"
+    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
    }
   },
   {
-   "gtin": "7350075021022",
-   "marca": "LELO",
-   "articulo": "LUNA Smart Bead",
-   "variante": "Color: Morado",
-   "url": "https://www.farmaciasdirect.es/products/lelo-luna-smart-bead-deep-rose",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra Lelo Luna Smart Bead Deep Rose al mejor precio.",
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-53-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 53 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 3",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/my-size-pro-preservativos-53-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 53 MM 3 UNIDADES | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 3",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-53-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 53 mm, caja de 3 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 3",
+   "url": "https://sexshop-online.com/pt/normais/my-size-pro-preservativos-53-mm-3-unidadesd-228864",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 53 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403539",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 3",
+   "url": "https://www.universosexshop.com/clasicos/4225251-my-size-pro-preservativos-53-mm-3-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MY SIZE PRO PRESERVATIVOS 53 MM 3 UNIDADES por sólo 3,16 €",
+   "politica_envio": {
+    "base": "7.00",
+    "gratis_desde": "50.00",
+    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
+   }
+  },
+  {
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 3",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-57-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 57 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
     "gratis_desde": "59.00",
@@ -1236,16 +277,1423 @@
    }
   },
   {
-   "gtin": "7350075021022",
-   "marca": "LELO",
-   "articulo": "LUNA Smart Bead",
-   "variante": "Color: Morado",
-   "url": "https://losjuguetesdera.es/products/lelo-luna-smart-bead-morado",
-   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); LELO - LUNA SMART BEAD MORADO – losjuguetesdera",
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 3",
+   "url": "https://www.universosexshop.com/clasicos/4225254-my-size-pro-preservativos-57-mm-3-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MY SIZE PRO PRESERVATIVOS 57 MM 3 UNIDADES por sólo 3,16 €",
+   "politica_envio": {
+    "base": "7.00",
+    "gratis_desde": "50.00",
+    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
+   }
+  },
+  {
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 3",
+   "url": "https://lapolvoteca.com/my-size-pro-preservativos-57mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); My Size PRO 57mm 3 Unidades | Preservativos",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 3",
+   "url": "https://www.almacenerotico.com/614-3-preservativos-my-size-pro-talla-57-4025838403577.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos My Size Pro Talla 57",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "60",
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838403577",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 3",
+   "url": "https://www.lovesexshop.es/my-size-pro-preservativo-de-tamano-personalizado-57-mm-3-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size PRO - preservativo de tamaño personalizado - 57 mm (3",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 3",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-60-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 60 Mm 3 Unidades Preservativos al mejor precio.",
    "politica_envio": {
     "base": "3.99",
-    "gratis_desde": "65.00",
-    "url": "https://losjuguetesdera.es/pages/gastos-de-envios"
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-60-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 60 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 3",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/my-size-pro-preservativos-60-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 60 MM 3 UNIDADES | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 3",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-60-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 60 mm, caja de 3 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838403607",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 3",
+   "url": "https://sexshop-online.com/pt/normais/my-size-pro-preservativos-60-mm-3-unidadesd-228870",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 60 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 3",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-69-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 69 Mm 3 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-69-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 69 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 3",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/my-size-pro-preservativos-69-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 69 MM 3 UNIDADES | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 3",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-69-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 69 mm, caja de 3 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838403690",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 3",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-69-mm-3-unidadesd-228876",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 69 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 3",
+   "url": "https://lapolvoteca.com/preservativos-my-size-pro-72mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My Size PRO 72mm 3 Unidades",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 3",
+   "url": "https://toyslove.net/producto/my-size-pro-preservativos-72-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 72 MM 3 UNIDADES | Toyslove | Sex shop online",
+   "politica_envio": {
+    "base": "3.90",
+    "gratis_desde": "45",
+    "url": "https://toyslove.net/reembolso_devoluciones"
+   }
+  },
+  {
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 3",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-72-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 72 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 3",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-72-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 72 mm, caja de 3 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838403720",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 3",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-72-mm-3-unidadesd-228879",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 72 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838410452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 10",
+   "url": "https://www.lovesexshop.es/my-size-pro-preservativos-de-talla-personalizada-45-mm-10-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size PRO - preservativos de talla personalizada - 45 mm (10",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838410452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 10",
+   "url": "https://www.desirel.es/my-size-pro-preservativos-de-talla-personalizada-45-mm-10-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size PRO - preservativos de talla personalizada - 45 mm (",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838410452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-45-mm-preservativos-a-medida-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 45 mm ajustados | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838410452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 10",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-45-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 45 Mm 10 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838410452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 10",
+   "url": "https://noctiva.es/products/my-size-pro-preservativos-45-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My.Size Pro 45 mm, caja de 10 unidades",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4025838410476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 10",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-47-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 47 Mm 10 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838410476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-47-mm-pack-10-preservativos-hechos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 47 mm 10 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838410476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 10",
+   "url": "https://noctiva.es/products/my-size-pro-preservativos-47-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My.Size Pro 47 mm 10 unidades | Noctiva",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4025838410476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 10",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-47-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 47 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 10",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-47-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 47 mm, caja de 10 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838410490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 10",
+   "url": "https://www.magicdust.es/tienda/preservativos/preservativos-por-tallas/my-size-pro-preservativos-talla-49/",
+   "evidencia": "GTIN comprobado por código (etiquetado: JSON-LD sku 4025838410490); my size preservativo • Magicdust Tienda erótica",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "99.00",
+    "url": "https://www.magicdust.es/condiciones/"
+   }
+  },
+  {
+   "gtin": "4025838410490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 10",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/my-size-pro-preservativos-49-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 49 MM 10 UNIDADES | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838410490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 10",
+   "url": "https://lapolvoteca.com/preservativos-my-size-pro-49mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My Size PRO 49mm 10uds | La Polvoteca",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838410490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 10",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-49-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 49 Mm 10 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838410490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-49-mm-preservativos-a-medida-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 49 mm ajustados | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838410537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 10",
+   "url": "https://www.desirel.es/my-size-pro-preservativos-de-tamano-personalizado-53-mm-10-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size PRO - preservativos de tamaño personalizado - 53 mm",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838410537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 10",
+   "url": "https://www.lovesexshop.es/my-size-pro-preservativos-de-tamano-personalizado-53-mm-10-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size PRO - preservativos de tamaño personalizado - 53 mm (1",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838410537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 10",
+   "url": "https://lapolvoteca.com/preservativos-my-size-pro-53mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My Size PRO 53mm 10uds | La Polvoteca",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838410537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-53-mm-pack-10-unidades-de-preservativos-ajustados/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MY SIZE Pro Condoms 53 mm - Preservativos ajustados | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838410537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 10",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-53-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 53 Mm 10 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838410575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-57-mm-10-preservativos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 57 mm a medida | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838410575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 10",
+   "url": "https://noctiva.es/products/my-size-pro-preservativos-57-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My.Size Pro 57 mm, caja de 10 unidades",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4025838410575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 10",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-57-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 57 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 10",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/my-size-pro-preservativos-57-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 57 MM 10 UNIDADES | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838410575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 10",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-57-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 57 mm, caja de 10 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838410605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 10",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-60-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 60 Mm 10 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838410605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 10",
+   "url": "https://noctiva.es/products/my-size-pro-preservativos-60-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); My Size Pro Preservativos 60 Mm 10 Unidades | Noctiva",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4025838410605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 10",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-60-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 60 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 10",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-60-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 60 mm, caja de 10 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838410605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 10",
+   "url": "https://sexshop-online.com/pt/normais/my-size-pro-preservativos-60-mm-10-unidadesd-228871",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 60 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 10",
+   "url": "https://www.lovesexshop.es/my-size-pro-preservativo-a-medida-64-mm-10-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size Pro - preservativo a medida de 64 mm (10 uds) | Lovese",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838410643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 10",
+   "url": "https://www.desirel.es/my-size-pro-preservativo-a-medida-64-mm-10-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size Pro - preservativo a medida de 64 mm (10 uds) | Sex",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838410643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 10",
+   "url": "https://noctiva.es/products/my-size-pro-preservativos-64-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); My Size Pro Preservativos 64 Mm 10 Unidades | Noctiva",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4025838410643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 10",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-64-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 64 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838410643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 10",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-64-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 64 mm, caja de 10 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 10",
+   "url": "https://lapolvoteca.com/preservativos-my-size-pro-72mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My Size PRO 72mm 10 Unidades",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 10",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-72-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 72 Mm 10 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-72-mm-pack-10-unidades-de-preservativos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 72 mm 10 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 10",
+   "url": "https://noctiva.es/products/my-size-pro-preservativos-72-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My.Size Pro 72 mm, caja de 10 unidades",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4025838410728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 10",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-72-mm-10-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 72 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838436452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-45-mm-pack-36-unidades-de-preservativos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 45 mm 36 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-45-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 45 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-45-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 45 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-45-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 45 mm, caja de 36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436452",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 45, Unidades: 36",
+   "url": "https://sexshop-online.com/tamano-xs-pequenos/my-size-pro-preservativos-45-mm-36-unidadesd-228856",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 45 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-47-mm-pack-de-36-preservativos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 47 mm - Pack 36 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-47-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 47 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-47-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 47 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-47-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 47 mm, caja de 36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436476",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 47, Unidades: 36",
+   "url": "https://sexshop-online.com/pt/normais/my-size-pro-preservativos-47-mm-36-unidadesd-228859",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 47 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-49-mm-pack-36-unidades-de-preservativos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 49 mm 36 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-49-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 49 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-49-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 49 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 36",
+   "url": "https://www.maskeamor.com/preservativos/preservativos-todas-las-tallas/preservativos-todas-las-tallasadaptalo-a-tu-tamano-exacto/my-size-pro-preservativos-49-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE - PRO PRESERVATIVOS 49 MM 36 UNIDADES | Maskeamor.com",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "65",
+    "url": "https://www.maskeamor.com/tarifas-y-plazos-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838436490",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 49, Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-49-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 49 mm, caja de 36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-57-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 57 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-57-mm-36-preservativos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 57 mm ajustados | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-57-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 57 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-57-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 57 mm, caja de 36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436575",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 57, Unidades: 36",
+   "url": "https://sexshop-online.com/pt/normais/my-size-pro-preservativos-57-mm-36-unidadesd-228869",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 57 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-60-mm-36-units-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 60 Mm 36 Units Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 36",
+   "url": "https://lapolvoteca.com/my-size-pro-preservativos-60mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My Size PRO 60mm 36 Unidades",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "39",
+    "url": "https://lapolvoteca.com/politica-de-envio/"
+   }
+  },
+  {
+   "gtin": "4025838436605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 36",
+   "url": "https://www.lovesexshop.es/my-size-pro-ultrafino-60mm-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size Pro - preservativo extrafino - 60 mm (36 unidades) | L",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838436605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 36",
+   "url": "https://www.desirel.es/my-size-pro-ultrafino-60mm-36-uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size Pro - preservativo extrafino - 60 mm (36 unidades) |",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838436605",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 60, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-60-mm-pack-de-36-preservativos-hechos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 60 mm hechos a medida | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-64-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 64 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 36",
+   "url": "https://www.desirel.es/my-size-pro-condon-ultradelgado-64mm-36uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size Pro - preservativo extrafino - 64 mm (36 unidades) |",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838436643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 36",
+   "url": "https://www.lovesexshop.es/my-size-pro-condon-ultradelgado-64mm-36uds",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); My.Size Pro - preservativo extrafino - 64 mm (36 unidades) | L",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
+   }
+  },
+  {
+   "gtin": "4025838436643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-64-mm-pack-36-unidades-de-preservativos-ajustados/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 64 mm 36 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436643",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-64-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 64 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-69-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 69 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 36",
+   "url": "https://www.tudeseo.net/producto/my-size-pro-preservativos-69-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Sex Shop Sevilla - MY SIZE - PRO PRESERVATIVOS 69 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-69-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 69 mm, caja de 36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 36",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-69-mm-36-unidadesd-228878",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 69 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 36",
+   "url": "https://www.universosexshop.com/clasicos/4225265-my-size-pro-preservativos-69-mm-36-unidades.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); MY SIZE PRO PRESERVATIVOS 69 MM 36 UNIDADES por sólo 19,96 €",
+   "politica_envio": {
+    "base": "7.00",
+    "gratis_desde": "50.00",
+    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
+   }
+  },
+  {
+   "gtin": "810476014971",
+   "marca": "FLESHLIGHT",
+   "articulo": "Fleshlight Boost",
+   "variante": "Tipo de estimulación: Anal",
+   "url": "https://www.lolapecados.com/producto/fleshlight-girls-lana-rhoades-karma-masturbador-anal/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Fleshlight Lana Rhoades Karma | Lola Pecados",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "60.00",
+    "url": "https://www.lolapecados.com/envio/"
+   }
+  },
+  {
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 3",
+   "url": "https://www.almacenerotico.com/616-3-preservativos-my-size-pro-talla-64-4025838403645.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); 3 Preservativos My Size Pro Talla 64",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "60",
+    "url": "https://www.almacenerotico.com/content/9-condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 3",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-64-mm-3-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 64 Mm 3 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 3",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-64-mm-3-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 64 mm, caja de 3 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 3",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-64-mm-3-unidadesd-228873",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 64 MM 3 UNIDADES"
+  },
+  {
+   "gtin": "4025838403645",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 64, Unidades: 3",
+   "url": "https://www.sextoycity.es/my-size-pro-preservativos-64-mm-3-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos MY SIZE PRO 64 mm — Pack 3, látex VYTEX",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 10",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-69-mm-10-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 69 Mm 10 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 10",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-69-mm-10-unidades-ajuste-perfecto-y-sensibilidad/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 69 mm 10 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 10",
+   "url": "https://noctiva.es/products/my-size-pro-preservativos-69-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Preservativos My.Size Pro 69 mm, caja de 10 unidades",
+   "politica_envio": {
+    "base": "4.95",
+    "gratis_desde": "50.00",
+    "url": "https://noctiva.es/policies/shipping-policy"
+   }
+  },
+  {
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 10",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-69-mm-10-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 69 mm, caja de 10 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838410698",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 69, Unidades: 10",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-69-mm-10-unidadesd-228877",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 69 MM 10 UNIDADES"
+  },
+  {
+   "gtin": "4025838436537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-53-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 53 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-53-mm-36-unidades-para-ajuste-perfecto/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 53 mm 36 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-53-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 53 mm, caja de 36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 36",
+   "url": "https://sexshop-online.com/pt/normais/my-size-pro-preservativos-53-mm-36-unidadesd-228866",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 53 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436537",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 53, Unidades: 36",
+   "url": "https://www.sextoycity.es/my-size-pro-preservativos-53-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); MY SIZE PRO 53 mm preservativos — 36 unidades",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 36",
+   "url": "https://bakanal.es/preservativos/todas-las-tallas/adaptalo-a-tu-tamano-exacto/my-size-pro-condoms-72-mm-pack-36-preservativos-a-medida/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Preservativos MY SIZE PRO 72 mm 36 unidades | Bakanal",
+   "politica_envio": {
+    "base": "5.95",
+    "gratis_desde": "49.00",
+    "url": "https://bakanal.es/envios-y-devoluciones/"
+   }
+  },
+  {
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 36",
+   "url": "https://www.farmaciasdirect.es/products/my-size-pro-72-mm-36-unidades-preservativos",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Compra My Size Pro 72 Mm 36 Unidades Preservativos al mejor precio.",
+   "politica_envio": {
+    "base": "3.99",
+    "gratis_desde": "59.00",
+    "url": "https://www.farmaciasdirect.es/pages/condiciones-de-compra"
+   }
+  },
+  {
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 36",
+   "url": "https://www.sexshopboudoir.es/preservativos-naturales/my-size-pro-preservativos-72-mm-36-unidades",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); Preservativos My.Size Pro 72 mm, caja de 36 - Boudoir",
+   "politica_envio": {
+    "base": "4.79",
+    "gratis_desde": "150",
+    "url": "https://www.sexshopboudoir.es/content/entrega"
+   }
+  },
+  {
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 36",
+   "url": "https://sexshop-online.com/tamano-xl-grandes/my-size-pro-preservativos-72-mm-36-unidadesd-228881",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); MY SIZE - PRO PRESERVATIVOS 72 MM 36 UNIDADES"
+  },
+  {
+   "gtin": "4025838436728",
+   "marca": "MY SIZE PRO",
+   "articulo": "MY.SIZE pro",
+   "variante": "Anchura (mm): 72, Unidades: 36",
+   "url": "https://www.sextoycity.es/my-size-pro-preservativos-72-mm-36-unidades/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin); Condones MY SIZE PRO 72 mm — Pack de 36",
+   "politica_envio": {
+    "base": "2.99",
+    "gratis_desde": "69",
+    "url": "https://www.sextoycity.es/condiciones-de-compra/"
+   }
+  },
+  {
+   "gtin": "810476011383",
+   "marca": "FLESHLIGHT",
+   "articulo": "Fleshlight Boost",
+   "variante": "Tipo de estimulación: Oral",
+   "url": "https://www.easytoys.es/fleshlight-boost-blow-oscuro-medio-p-76624/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Fleshlight Boost Blow - Oscuro Medio - EasyToys"
+  },
+  {
+   "gtin": "810476011383",
+   "marca": "FLESHLIGHT",
+   "articulo": "Fleshlight Boost",
+   "variante": "Tipo de estimulación: Oral",
+   "url": "https://sexplace.es/fleshlight-boost-masturbador-boca-blow-md-flesh-rp/",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD (oferta) gtin13); FLESHLIGHT BOOST - MASTURBADOR BOCA BLOW MD FLESH RP"
+  },
+  {
+   "gtin": "810476011383",
+   "marca": "FLESHLIGHT",
+   "articulo": "Fleshlight Boost",
+   "variante": "Tipo de estimulación: Oral",
+   "url": "https://www.universosexshop.com/inicio/4228953-fleshlight-boost-masturbador-boca-blow-md-flesh-rp.html",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); FLESHLIGTH BOOST - BLOW MD FLESH MOUTH MASTURBADOR RP sólo 79.95€",
+   "politica_envio": {
+    "base": "7.00",
+    "gratis_desde": "50.00",
+    "url": "https://www.universosexshop.com/content/11-envios-y-devoluciones"
+   }
+  },
+  {
+   "gtin": "810476011383",
+   "marca": "FLESHLIGHT",
+   "articulo": "Fleshlight Boost",
+   "variante": "Tipo de estimulación: Oral",
+   "url": "https://www.desirel.es/masturbador-realista-fleshlight-boost-boca-marron",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Fleshlight Boost Blow - masturbador boca realista - marrón |",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.desirel.es/envio"
+   }
+  },
+  {
+   "gtin": "810476011383",
+   "marca": "FLESHLIGHT",
+   "articulo": "Fleshlight Boost",
+   "variante": "Tipo de estimulación: Oral",
+   "url": "https://www.lovesexshop.es/masturbador-realista-fleshlight-boost-boca-marron",
+   "evidencia": "GTIN comprobado por código (estructurado: JSON-LD gtin13); Fleshlight Boost Blow - masturbador boca realista - marrón | L",
+   "politica_envio": {
+    "base": "6.99",
+    "gratis_desde": "90.00",
+    "url": "https://www.lovesexshop.es/envio"
    }
   }
  ],
